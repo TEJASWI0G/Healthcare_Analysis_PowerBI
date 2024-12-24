@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Region,Disease/Cause of Death,Risk_Factors,Date_of_Diagnosis,Date_of_Death,Survival_Years,Treatment_Type,Outcome,Health_Insurance,Hospital_Type
+b6f60123-b88c-4978-9427-376348c65890,66,Female,Asia,Kidney Disease,"Family History, Obesity",2016-01-15,,3,Chemotherapy,Recovered,Yes,Private
+d80d9476-382c-4486-ba2f-160c5eb593eb,37,Male,Australia,Heart Disease,"Alcohol Use, Obesity, Pollution",2016-05-04,2021-07-22,5,Radiation Therapy,Deceased,No,Private
+57961602-5f8c-4dbc-89c6-193f3a28e4b1,68,Male,Africa,Heart Disease,"Obesity, High Blood Pressure",2018-10-07,2018-10-15,0,Dialysis,Deceased,No,Public
+3f8e06a2-2018-4121-98a4-59db26a7ee40,52,Other,South America,Stroke,Alcohol Use,2023-10-14,,10,Medication,Recovered,No,Public
+e71cbce3-b931-41d2-9edf-2af56433d1b9,71,Male,Australia,Diabetes,"Pollution, Alcohol Use, Family History",2019-04-15,,6,Medication,Recovered,No,Private
+fbb752a3-c44d-454f-ab78-67e9d358d201,84,Female,North America,Stroke,"Family History, High Blood Pressure",2019-04-01,,4,Medication,Recovered,Yes,Public
+36a4f94c-5b72-4368-83d4-20aa1a1185ae,59,Other,Africa,Cancer,"Obesity, Smoking, Pollution",2016-08-24,2018-02-07,1,Medication,Deceased,Yes,Private
+23f530d4-053d-4760-9485-c6933e0b449e,28,Female,Europe,Diabetes,"Alcohol Use, Pollution, Obesity",2017-04-21,,8,Radiation Therapy,Recovered,No,Private
+0a93406c-4c10-4dce-8590-a899574b4e57,39,Male,South America,Diabetes,"Obesity, Smoking",2017-01-18,2022-11-11,5,Chemotherapy,Deceased,No,Public
+9fa0bd0f-e83e-4a2c-a015-167da5d0df43,90,Other,Asia,Respiratory Disease,"Pollution, Smoking, Obesity",2014-11-27,,2,Radiation Therapy,Recovered,Yes,Private
+649a19d5-aab2-4928-bc93-33ea53d6bada,38,Other,Europe,Respiratory Disease,"Smoking, Family History",2022-11-29,,9,Dialysis,Recovered,Yes,Private
+eb9f54e9-19a1-4bb1-a387-e648b0b147d5,80,Male,Australia,Diabetes,Family History,2019-02-10,,10,Surgery,Recovered,No,Private
+a2ecb04d-bcc4-4f90-8355-6e5ac0e59231,53,Other,Asia,Kidney Disease,Alcohol Use,2024-02-28,2024-05-18,0,Medication,Deceased,No,Public
+77fbcb55-d789-4e80-8d03-6bdc43b61419,60,Male,Asia,Respiratory Disease,"Pollution, High Blood Pressure, Smoking",2021-11-02,2022-12-07,1,Chemotherapy,Deceased,Yes,Public
+87289bd3-a1ae-40f6-9b2e-074b86193e3a,25,Other,Asia,Diabetes,"Family History, Pollution, High Blood Pressure",2021-12-09,2024-04-10,2,Medication,Deceased,No,Public
+a7a40c73-f294-4b2e-b9ab-f4ea6468f078,75,Male,Australia,Stroke,"Obesity, Pollution, Smoking",2015-08-13,,3,Medication,Recovered,No,Public
+cf5920a0-42aa-4f89-9896-f56c8b894960,66,Female,Australia,Respiratory Disease,"Family History, High Blood Pressure, Obesity",2018-05-01,2024-01-30,5,Radiation Therapy,Deceased,No,Private
+866c1e2f-2222-447d-91a7-67ba222588a9,23,Other,Africa,Cancer,"Obesity, Smoking",2022-06-09,,9,Dialysis,Recovered,No,Private
+ca0484d3-b8e0-4b06-b125-4a5eb0bdb77f,29,Other,Europe,Respiratory Disease,"Family History, High Blood Pressure",2020-01-08,2021-04-06,1,Surgery,Deceased,No,Private
+a936b6c5-f835-4302-9b4c-330673ab64e6,61,Female,North America,Diabetes,"Family History, Obesity",2019-04-12,2024-09-10,5,Medication,Deceased,No,Private
+11255892-9179-45fb-a8f2-028a94d068e7,36,Other,Asia,Diabetes,Alcohol Use,2016-07-23,2024-09-04,8,Surgery,Deceased,No,Public
+7f7b0346-621f-4fab-a395-882a17eab39f,29,Female,Asia,Diabetes,"Alcohol Use, Family History",2024-06-05,,9,Chemotherapy,Recovered,No,Private
+67fbe81d-4490-4b71-8225-ccaf70defb0c,90,Other,Africa,Respiratory Disease,High Blood Pressure,2020-08-11,2023-03-24,2,Chemotherapy,Deceased,Yes,Public
+fb71ec95-c094-458d-bca2-6e23f7e3b731,58,Female,Africa,Cancer,Obesity,2021-02-18,,6,Chemotherapy,Recovered,No,Public
+5a7b86fa-8389-47c6-b656-98599998d767,74,Female,North America,Kidney Disease,High Blood Pressure,2016-05-15,2021-12-03,5,Surgery,Deceased,No,Public
+6fadc2c4-e918-45a3-8138-a7d6e124440d,49,Other,Europe,Kidney Disease,Smoking,2017-11-23,,3,Radiation Therapy,Recovered,Yes,Private
+bf4b5b1c-941b-4651-83e2-7b43cbb4386f,56,Female,Asia,Heart Disease,"High Blood Pressure, Smoking",2019-06-27,2023-10-19,4,Chemotherapy,Deceased,Yes,Private
+76942706-1245-4a8c-84e4-829b0bafa509,40,Other,Europe,Heart Disease,"Smoking, Pollution",2023-11-15,,9,Chemotherapy,Recovered,Yes,Private
+55b8368e-1383-4cdf-874e-d1a8f019e759,41,Female,Australia,Respiratory Disease,"High Blood Pressure, Alcohol Use, Pollution",2015-08-14,2016-05-06,0,Surgery,Deceased,No,Public
+22951b64-a5cb-499b-a4d5-50afd11b9758,65,Female,Europe,Stroke,"Family History, Smoking, High Blood Pressure",2023-09-19,,4,Medication,Recovered,Yes,Private
+83a5f24d-cbfb-4e68-b7f8-c2d955c5b8db,21,Male,North America,Stroke,High Blood Pressure,2024-04-19,,9,Medication,Recovered,Yes,Public
+f631bcce-d8ea-4111-ba50-180d36a10f2c,40,Other,Africa,Kidney Disease,Family History,2019-01-23,2023-10-14,4,Dialysis,Deceased,Yes,Private
+0c61e57e-7f04-452b-bcfb-5fb120cf707d,43,Other,Africa,Respiratory Disease,"High Blood Pressure, Smoking, Family History",2023-09-02,2023-12-14,0,Dialysis,Deceased,Yes,Public
+7d973c3d-bcac-4f80-a0d9-89b04486d97a,58,Other,Australia,Cancer,Pollution,2022-04-27,,8,Surgery,Recovered,Yes,Private
+2f9cac2b-8feb-46cc-810c-459adc423970,66,Female,Africa,Cancer,High Blood Pressure,2024-04-02,2024-07-18,0,Surgery,Deceased,No,Private
+6bbaf88e-748b-4a6f-9762-c25e353f9a3d,77,Female,North America,Stroke,"High Blood Pressure, Family History",2018-05-30,2024-09-07,6,Chemotherapy,Deceased,Yes,Public
+40c264e4-45dd-4f8a-8cba-a7c2cd0d16aa,64,Other,Europe,Stroke,Smoking,2023-09-16,2023-09-26,0,Radiation Therapy,Deceased,No,Public
+9f6ae429-3fb5-47d1-b00b-4dc9239a59b1,21,Male,Asia,Respiratory Disease,"Smoking, Family History",2018-06-06,,9,Radiation Therapy,Recovered,No,Private
+0ddc8b84-3c6d-4233-8a4e-24b872cb2d8e,21,Other,Europe,Kidney Disease,"Pollution, Family History, Alcohol Use",2015-01-22,2015-12-27,0,Chemotherapy,Deceased,Yes,Private
+15068bed-483e-4bbe-8316-fe6a4a2f5583,55,Female,Asia,Diabetes,Smoking,2019-10-15,,10,Medication,Recovered,Yes,Public
+cfa8893a-ab5e-415a-bf8c-61dee7351db9,46,Male,Europe,Respiratory Disease,"Smoking, Family History, Alcohol Use",2018-03-29,,8,Surgery,Recovered,Yes,Public
+c0db639b-34a0-431b-ad15-d55485fa98f1,30,Other,Africa,Kidney Disease,"Family History, High Blood Pressure",2021-12-30,,10,Chemotherapy,Recovered,No,Public
+89b4d515-d16a-405f-a564-8ec623776d69,90,Other,North America,Respiratory Disease,"High Blood Pressure, Smoking, Pollution",2017-05-16,,5,Medication,Recovered,Yes,Public
+10173e42-2b71-4b6f-a5a5-b91ec0beed1c,66,Other,North America,Kidney Disease,Pollution,2019-11-27,,7,Chemotherapy,Recovered,No,Public
+33c632e8-a089-4d62-bfc0-f99c0fae8464,33,Other,Europe,Cancer,"Obesity, High Blood Pressure, Alcohol Use",2020-04-04,2024-09-22,4,Radiation Therapy,Deceased,No,Private
+6073b8eb-3e6f-48c7-8ac7-44f58bd7c617,85,Male,South America,Kidney Disease,"High Blood Pressure, Alcohol Use, Pollution",2022-05-20,2024-04-09,1,Radiation Therapy,Deceased,No,Public
+19170c5c-b2d1-4019-9f37-db7d8f996ab0,30,Female,Europe,Stroke,Pollution,2018-11-16,,9,Dialysis,Recovered,Yes,Private
+0960f613-ee15-44e8-a920-3c52171263bd,51,Other,North America,Cancer,"Obesity, Smoking, Pollution",2017-12-14,2021-04-18,3,Medication,Deceased,Yes,Private
+0b4541b0-f9d9-4291-ac4f-e1554178f7dc,48,Female,Africa,Diabetes,"Alcohol Use, Smoking",2019-02-01,2021-02-20,2,Radiation Therapy,Deceased,Yes,Public
+716b3c6e-6f59-48e0-a6ff-3160342b54ca,31,Female,North America,Stroke,"Alcohol Use, Obesity",2022-04-17,2023-11-16,1,Radiation Therapy,Deceased,Yes,Private
+a8ddc210-8ce5-4b12-837f-3dfa5efe8b46,76,Female,Australia,Kidney Disease,"Smoking, Alcohol Use, Family History",2019-12-15,2024-05-21,4,Radiation Therapy,Deceased,No,Private
+dd4f105e-8d36-4b54-ba05-98ee82ad02d9,40,Male,Asia,Stroke,Pollution,2021-03-09,,3,Dialysis,Recovered,No,Private
+e3e4c280-2ad5-4938-9142-2bb3df7f7696,44,Female,South America,Diabetes,"Obesity, Alcohol Use, Family History",2021-10-08,2024-07-27,2,Radiation Therapy,Deceased,Yes,Private
+241485c7-39d7-4eae-b783-e648af61c2a3,63,Other,North America,Kidney Disease,Pollution,2019-09-10,2021-06-29,1,Radiation Therapy,Deceased,Yes,Public
+8b2b4540-5ed2-4c20-b81f-890725564a75,51,Other,North America,Diabetes,"Alcohol Use, Obesity",2024-02-25,2024-10-08,0,Chemotherapy,Deceased,Yes,Public
+5a229b39-1aa4-467f-ace6-6bf3c678c518,78,Female,South America,Stroke,"Pollution, Family History, Alcohol Use",2021-08-06,,1,Surgery,Recovered,No,Private
+3c82dd26-ab70-49c0-956f-5fe983b69bcc,39,Female,Europe,Kidney Disease,Alcohol Use,2018-08-19,2020-10-10,2,Chemotherapy,Deceased,Yes,Private
+f35de01c-7efc-4f6b-b147-904f04e27959,61,Female,Africa,Respiratory Disease,"Family History, Alcohol Use",2016-11-17,2017-04-29,0,Chemotherapy,Deceased,Yes,Public
+4ccbcf7c-533b-4268-854a-f5eea3830724,36,Other,Europe,Kidney Disease,Obesity,2018-07-05,2020-07-31,2,Radiation Therapy,Deceased,Yes,Private
+b2664a27-3422-4c49-9fcb-0911c4fbef41,86,Other,Asia,Heart Disease,"Alcohol Use, Smoking",2022-08-13,2023-02-14,0,Chemotherapy,Deceased,No,Private
+ba58d2de-e335-4f2d-ba04-ae19b57addc1,60,Female,North America,Cancer,"High Blood Pressure, Smoking",2024-09-13,2024-09-26,0,Radiation Therapy,Deceased,Yes,Private
+fe4f5a1b-31bb-4532-88e5-a0ef76a61ea5,58,Male,Africa,Heart Disease,"High Blood Pressure, Smoking, Obesity",2015-07-12,,9,Dialysis,Recovered,No,Public
+8af96536-438f-4af7-8923-02c9d29367ce,52,Other,Europe,Heart Disease,"Pollution, Alcohol Use",2015-05-28,2021-05-21,5,Chemotherapy,Deceased,Yes,Public
+1630d898-29b5-4dcf-a7a8-fcfc469dee87,26,Male,Asia,Kidney Disease,"Alcohol Use, Smoking, Family History",2016-05-07,,9,Radiation Therapy,Recovered,Yes,Public
+da73394c-225e-4aea-9d7a-5107bd5fd2ea,37,Other,Europe,Stroke,"Alcohol Use, High Blood Pressure",2022-12-18,,6,Chemotherapy,Recovered,Yes,Private
+00788cac-4b91-4833-a446-7fafb59d0537,23,Female,Europe,Respiratory Disease,"High Blood Pressure, Obesity, Family History",2020-03-14,,5,Radiation Therapy,Recovered,Yes,Public
+c900c988-0fd5-43b1-969d-7effa44f6be5,70,Female,Europe,Diabetes,Smoking,2019-03-04,,9,Radiation Therapy,Recovered,Yes,Private
+dae426e4-b850-4b43-bcdf-6a0224cddbc7,45,Other,Europe,Stroke,"Alcohol Use, High Blood Pressure, Obesity",2018-09-18,,6,Radiation Therapy,Recovered,No,Public
+5bcc49c3-c42c-4ff9-8157-08f455a95d61,46,Other,Asia,Heart Disease,"High Blood Pressure, Alcohol Use, Obesity",2022-08-31,,5,Dialysis,Recovered,Yes,Public
+ef4b7b07-ad26-4ed3-948e-306ba9382ff0,37,Female,North America,Stroke,Family History,2015-01-27,2018-07-04,3,Medication,Deceased,Yes,Private
+ace3bf3b-3633-4889-8c27-22c348cd937d,30,Other,South America,Heart Disease,"Pollution, Smoking",2016-10-08,2023-04-12,6,Surgery,Deceased,Yes,Private
+6a58ef0a-a9a4-4ffc-918b-97f3d75566c9,65,Female,Asia,Diabetes,"Alcohol Use, Pollution, Smoking",2014-12-04,,6,Surgery,Recovered,No,Public
+95064151-132e-4894-8cfd-24febac04812,27,Male,South America,Cancer,"Alcohol Use, Family History, Smoking",2022-06-18,,4,Medication,Recovered,No,Public
+c96a32d8-0ebd-4a89-ba35-af1bc6123168,33,Female,Europe,Heart Disease,"Smoking, High Blood Pressure",2020-07-11,2023-02-10,2,Dialysis,Deceased,Yes,Public
+a9f99710-b0b2-4c43-8a2f-bc91f3b1287c,79,Male,Africa,Respiratory Disease,"High Blood Pressure, Alcohol Use",2020-03-23,,6,Medication,Recovered,Yes,Private
+c81ce235-92fa-4fad-a8a8-c8f27a88113f,81,Female,Europe,Cancer,Pollution,2018-10-18,2022-02-03,3,Radiation Therapy,Deceased,Yes,Private
+14a0ecb2-ac4c-4254-a8a3-953dad155bb6,87,Male,Europe,Heart Disease,"Obesity, Smoking",2017-01-25,,1,Chemotherapy,Recovered,No,Private
+3ffe0bef-1e9d-4d2a-8e8f-787a85d17d23,53,Other,South America,Kidney Disease,"High Blood Pressure, Family History",2022-04-04,2023-02-03,0,Chemotherapy,Deceased,No,Private
+885a5dbd-287c-45f7-bcb9-5ff555c659ec,34,Other,Africa,Stroke,Family History,2018-02-27,,9,Surgery,Recovered,No,Private
+86cb4e02-b3d9-4536-ad8e-9c2362d031de,51,Other,Africa,Kidney Disease,Pollution,2023-07-25,2023-08-21,0,Dialysis,Deceased,No,Public
+9573b9e2-afc5-48a5-8be4-01dfe5a67f28,74,Female,South America,Stroke,"Alcohol Use, Smoking",2020-03-03,,1,Radiation Therapy,Recovered,No,Public
+10968925-0fd4-4bd6-86e8-b0350f99289c,63,Male,South America,Cancer,Obesity,2020-08-09,2024-08-21,4,Chemotherapy,Deceased,No,Public
+453b8bcc-1bc7-4b19-9a00-52ff4bfdeaf7,52,Other,South America,Heart Disease,Smoking,2023-09-03,2024-08-30,0,Chemotherapy,Deceased,No,Public
+0fbe90ff-a760-403e-b7e9-056512c8b086,65,Female,North America,Diabetes,"High Blood Pressure, Pollution, Obesity",2023-05-26,,10,Chemotherapy,Recovered,Yes,Private
+c79dc1d5-ee51-4eec-af12-d7f8684560c4,38,Female,South America,Heart Disease,Family History,2017-07-28,,5,Surgery,Recovered,No,Private
+cf390f5d-666f-4497-bf2c-2eb7d27ec2de,36,Female,Africa,Stroke,Pollution,2018-12-21,,9,Surgery,Recovered,Yes,Private
+502bdf0c-df2c-41c7-8187-d0f7a941cff6,41,Other,Africa,Kidney Disease,Alcohol Use,2020-03-05,2021-02-23,0,Medication,Deceased,No,Public
+133ed7cb-e24b-4f55-93b4-efa2e7f488f8,30,Female,South America,Diabetes,"High Blood Pressure, Alcohol Use",2019-09-07,,2,Dialysis,Recovered,Yes,Private
+2c0282d0-404f-4f8e-a753-1045c7788aa8,89,Female,Asia,Kidney Disease,Obesity,2014-11-09,,6,Radiation Therapy,Recovered,Yes,Private
+058cbf28-4f22-49db-aecc-d9d314639d3a,74,Male,Europe,Stroke,"Family History, Smoking, Obesity",2021-08-01,,9,Surgery,Recovered,No,Private
+f6fc3022-319c-4902-ac44-3f941cc1316f,40,Male,Australia,Kidney Disease,"Smoking, High Blood Pressure, Family History",2017-07-23,2018-07-09,0,Dialysis,Deceased,No,Private
+413d2717-5d25-4b34-9ec6-1e959500c53c,76,Male,North America,Heart Disease,"High Blood Pressure, Family History, Smoking",2018-10-21,,3,Chemotherapy,Recovered,Yes,Private
+5b5e979b-424b-407d-9a35-c93078a1ef27,80,Male,Europe,Kidney Disease,"Obesity, Smoking, Family History",2020-06-29,2023-07-12,3,Surgery,Deceased,No,Public
+bcf2f7f3-339c-49f7-a8ae-73b87b87c4d7,80,Male,Australia,Stroke,High Blood Pressure,2018-08-06,,9,Surgery,Recovered,Yes,Public
+5854b7d9-f49d-43cf-98c2-c467f1c6242d,52,Female,Africa,Diabetes,"Family History, Pollution",2020-08-26,,10,Radiation Therapy,Recovered,No,Private
+24a73994-7ed3-42f5-aa66-34605d80aa16,87,Male,South America,Kidney Disease,"Family History, Alcohol Use",2018-10-31,,1,Surgery,Recovered,No,Public
+7970e5f8-7d80-49b5-a95d-82fd485f44b3,61,Other,Asia,Stroke,Smoking,2018-07-11,2021-12-27,3,Medication,Deceased,Yes,Public
+836a6496-6cc1-4b0c-a3ed-d6b72ef61fe5,70,Other,South America,Stroke,"Smoking, High Blood Pressure, Pollution",2016-04-16,2017-01-26,0,Chemotherapy,Deceased,No,Private
+939223a6-a5b4-40da-94c5-a9963888bbce,66,Female,South America,Stroke,High Blood Pressure,2016-09-08,,10,Surgery,Recovered,No,Public
+529d2f22-20da-44fd-9397-3402e06eaa6e,41,Other,Africa,Stroke,Family History,2017-05-09,,10,Radiation Therapy,Recovered,Yes,Private
+a8b1d7c1-39be-420f-87bf-135c768de599,35,Female,South America,Respiratory Disease,"Alcohol Use, Smoking, Family History",2017-05-23,2017-09-25,0,Surgery,Deceased,Yes,Public
+c96182b9-17e5-4c4c-9f9c-c9a4da0cf73d,49,Male,South America,Respiratory Disease,High Blood Pressure,2024-07-13,,7,Surgery,Recovered,Yes,Public
+0595f9a0-8e66-4bb3-b21e-79ed803240c6,23,Male,Europe,Cancer,"High Blood Pressure, Alcohol Use, Family History",2023-12-19,,2,Medication,Recovered,Yes,Private
+146b1261-461e-4c63-9164-70c8418a71e5,74,Other,North America,Stroke,"Smoking, Pollution, Alcohol Use",2016-07-17,,9,Dialysis,Recovered,No,Public
+458b01ed-a5ac-4350-94df-5ed3ae66474d,26,Other,Europe,Respiratory Disease,Pollution,2018-01-10,2018-02-15,0,Surgery,Deceased,Yes,Public
+b3d28ec0-d753-4c5a-81b4-a93b36375ee2,23,Female,South America,Diabetes,Alcohol Use,2019-04-14,2021-09-25,2,Surgery,Deceased,No,Public
+1040d385-e8ac-469e-9d12-66140a01b276,59,Male,Australia,Stroke,"High Blood Pressure, Pollution, Smoking",2017-12-10,2020-02-05,2,Medication,Deceased,No,Private
+94c45b2b-1fef-4b00-8b6b-ed1ffdeb95bf,66,Male,South America,Stroke,"Alcohol Use, Family History",2014-11-09,,8,Radiation Therapy,Recovered,Yes,Public
+948c0507-fc06-4bfe-80fa-8905915df6b9,60,Male,North America,Kidney Disease,Obesity,2023-07-17,,10,Surgery,Recovered,No,Public
+21c79906-61d4-41f7-84ab-c01466108b61,90,Male,North America,Diabetes,Family History,2021-04-12,,9,Surgery,Recovered,Yes,Public
+3471f0b3-05ac-4698-b9f7-26ff2213ee51,54,Other,Europe,Heart Disease,"Obesity, Family History",2018-02-17,2022-11-29,4,Surgery,Deceased,No,Public
+96ee5171-f374-4b8e-8374-0155da73dfe2,58,Other,Africa,Kidney Disease,"Alcohol Use, Smoking, Family History",2018-12-26,2020-10-12,1,Radiation Therapy,Deceased,No,Public
+57150056-2d03-4788-ae97-61779fbf339f,57,Female,Australia,Kidney Disease,"High Blood Pressure, Alcohol Use, Smoking",2023-04-06,2023-12-13,0,Surgery,Deceased,No,Public
+13dff78c-518a-44df-b43b-42c2540af42e,89,Male,Asia,Cancer,"Alcohol Use, High Blood Pressure",2016-05-05,2017-05-03,0,Chemotherapy,Deceased,No,Private
+0c98a58e-d8e1-478c-a46a-62e338304f85,25,Male,North America,Cancer,"Smoking, Family History, Obesity",2023-02-27,,9,Chemotherapy,Recovered,Yes,Public
+f15acf6a-ede7-4b41-b77f-ab67ae9483b7,41,Female,South America,Respiratory Disease,"Alcohol Use, Smoking, Obesity",2019-09-13,2023-12-26,4,Radiation Therapy,Deceased,Yes,Private
+d60a70ad-d41b-469e-84c0-e93077c159ca,21,Male,Australia,Diabetes,"Family History, Smoking",2016-04-13,2021-02-28,4,Chemotherapy,Deceased,Yes,Public
+6f84bc05-cb59-42b3-88d4-5df33afa4fb1,80,Male,Africa,Stroke,Obesity,2022-04-12,,9,Chemotherapy,Recovered,No,Public
+0a25f695-5115-48e2-9690-5ff5de783c9b,36,Male,Australia,Respiratory Disease,Alcohol Use,2015-09-07,2017-04-04,1,Chemotherapy,Deceased,No,Private
+14430f1e-7ddb-4de2-9f09-362b825dd6f2,84,Male,Asia,Kidney Disease,High Blood Pressure,2020-07-23,,8,Medication,Recovered,Yes,Public
+bd2e653f-8d8d-4d18-aee7-862a21bb697e,76,Other,Europe,Heart Disease,Alcohol Use,2020-04-06,2023-06-20,3,Radiation Therapy,Deceased,Yes,Private
+7e5e4f12-c504-471a-90a3-1b0b64d48ade,88,Other,Europe,Respiratory Disease,High Blood Pressure,2020-04-25,,3,Dialysis,Recovered,No,Private
+b7f32576-c53a-448f-8661-4fc51ff30b90,55,Female,Africa,Stroke,Pollution,2017-03-05,2022-06-12,5,Medication,Deceased,No,Private
+ec077721-85f3-4311-bafb-e6a6e8ed8a66,23,Other,Australia,Diabetes,Pollution,2022-08-05,,4,Medication,Recovered,No,Private
+61659e95-e9cb-4ddb-a4a3-bf31a6dba2ba,80,Female,North America,Kidney Disease,Family History,2019-01-29,2023-05-10,4,Medication,Deceased,Yes,Private
+4f8f9d7e-d608-45cf-8926-0d78d311b842,64,Other,South America,Diabetes,Obesity,2023-11-06,,1,Surgery,Recovered,Yes,Private
+c3da7c3c-d50e-4da3-860f-41e2292caac1,26,Other,Africa,Heart Disease,"Alcohol Use, Family History, Pollution",2021-10-31,2022-10-10,0,Dialysis,Deceased,Yes,Private
+8d57a751-6a2d-493d-bb79-0c9d9d80a59f,65,Male,North America,Cancer,"Pollution, Obesity",2016-04-18,,4,Medication,Recovered,Yes,Public
+747c9aa0-facc-413d-8c2e-226657cece49,27,Other,Europe,Respiratory Disease,Family History,2019-05-04,2023-09-26,4,Radiation Therapy,Deceased,No,Public
+ba6deff5-25e3-4624-9278-62f7d17fcb9c,63,Male,Australia,Heart Disease,"High Blood Pressure, Alcohol Use, Smoking",2017-01-03,,9,Medication,Recovered,No,Public
+558fe2f1-c074-4f86-8e72-8ac560a8ef81,58,Female,Africa,Stroke,Smoking,2016-11-25,,5,Dialysis,Recovered,Yes,Private
+f2b7411c-ac8b-40e8-b930-7ca39661ce75,49,Female,South America,Respiratory Disease,"Pollution, High Blood Pressure, Smoking",2022-12-22,2023-05-17,0,Medication,Deceased,No,Private
+8fa990e8-892d-480e-9c1d-859352c395ca,45,Male,North America,Diabetes,"Family History, High Blood Pressure",2022-03-12,2022-05-31,0,Dialysis,Deceased,No,Public
+470b75dd-2d31-446d-a02f-c9cc9321f5ee,22,Other,Asia,Respiratory Disease,"High Blood Pressure, Smoking",2024-02-03,,6,Medication,Recovered,Yes,Private
+53623839-cd61-4dec-9cfa-25500c612676,81,Other,South America,Respiratory Disease,"Pollution, Smoking, Alcohol Use",2022-12-26,2024-07-31,1,Medication,Deceased,No,Private
+72f57283-fc1f-4ce7-a0a6-aa1f3781a282,39,Female,South America,Cancer,"Smoking, Obesity, High Blood Pressure",2017-11-24,2019-12-14,2,Chemotherapy,Deceased,No,Private
+3039a527-7bd3-4b92-99fa-b9030bc57958,39,Other,North America,Heart Disease,Obesity,2020-10-08,2022-06-19,1,Chemotherapy,Deceased,No,Private
+6e57141f-5494-41b9-9a97-a18af391b763,61,Female,Europe,Kidney Disease,Smoking,2019-01-09,2023-05-03,4,Dialysis,Deceased,Yes,Public
+fba9917e-50b7-450e-8d18-756d4b2e479d,52,Male,Asia,Kidney Disease,Pollution,2020-12-03,2024-08-06,3,Chemotherapy,Deceased,No,Private
+5671f18c-361d-40cb-8c30-fab6a5ae06a8,24,Female,South America,Respiratory Disease,"Obesity, Pollution",2018-10-24,2023-12-20,5,Radiation Therapy,Deceased,Yes,Private
+79a1913a-6f77-4de6-9822-4c0f4886d06d,56,Other,Australia,Kidney Disease,"Alcohol Use, Smoking, Obesity",2018-08-22,,2,Medication,Recovered,No,Public
+878ebc91-1fd1-48a2-9c94-34c8e87e0f82,65,Male,South America,Diabetes,"Obesity, Alcohol Use",2016-06-18,,10,Radiation Therapy,Recovered,No,Public
+bff5c884-ac51-4b65-975c-6f163e27cd80,59,Other,South America,Diabetes,Family History,2018-04-25,,9,Surgery,Recovered,Yes,Private
+9fe67ded-08ef-4941-b201-86e052481256,83,Male,South America,Heart Disease,Family History,2015-05-15,,1,Dialysis,Recovered,No,Private
+77407fef-1f20-4dbb-83ce-01bc49bd7f4d,41,Other,Europe,Respiratory Disease,"Obesity, Alcohol Use, Pollution",2020-11-06,2022-12-28,2,Chemotherapy,Deceased,No,Private
+3acf2b7b-a18d-4bd7-bf7d-b25a2c2936cc,77,Female,Asia,Diabetes,"Family History, Smoking, Obesity",2022-09-20,,8,Surgery,Recovered,Yes,Private
+48a30d3e-37d7-40eb-b87e-484f80bdfbb6,26,Male,Asia,Heart Disease,"Family History, Smoking",2017-09-30,,10,Dialysis,Recovered,No,Public
+fed33f07-2b34-4d7d-8820-6fd760e7ab4f,23,Other,South America,Stroke,"Smoking, Pollution",2023-03-08,,9,Surgery,Recovered,No,Private
+9614e71d-bc70-44e5-9bfe-821c75abbd08,68,Male,Australia,Stroke,"Family History, Smoking",2016-10-15,2018-04-09,1,Medication,Deceased,Yes,Private
+36c50206-05e3-429f-aa3a-27961480454d,77,Other,Asia,Respiratory Disease,"Alcohol Use, Family History, Smoking",2018-02-18,,4,Surgery,Recovered,No,Public
+5b9b0251-bd0d-4977-9926-3572bf3b1c5c,49,Other,South America,Heart Disease,"Pollution, Smoking",2022-11-01,,5,Radiation Therapy,Recovered,No,Public
+ee319f30-bef2-4801-912a-860cd6bfb2fb,48,Female,South America,Stroke,"Obesity, Alcohol Use",2019-07-08,,6,Chemotherapy,Recovered,Yes,Public
+ec44d475-b469-4cf0-b21e-5b9779926217,37,Male,Asia,Heart Disease,High Blood Pressure,2020-01-07,,10,Radiation Therapy,Recovered,Yes,Public
+59ad324f-9482-46b6-9cbe-60ba5dd4ce73,61,Other,Africa,Respiratory Disease,Alcohol Use,2016-07-03,2017-02-27,0,Radiation Therapy,Deceased,Yes,Private
+3deb8fcf-223c-4723-b013-798c4dc9910f,54,Female,South America,Cancer,Alcohol Use,2024-01-02,2024-06-26,0,Surgery,Deceased,Yes,Public
+23c237a8-8071-4228-ae60-6512c1f44ee5,79,Male,North America,Respiratory Disease,"Alcohol Use, Obesity",2020-09-23,,10,Radiation Therapy,Recovered,Yes,Private
+82a9a182-3ffc-47e0-90b5-e10edcdb8e94,31,Female,Australia,Respiratory Disease,Pollution,2022-04-15,2024-07-12,2,Chemotherapy,Deceased,Yes,Public
+ee18a1c8-58f9-4b84-a2a9-f4f73f8841b8,27,Female,Africa,Heart Disease,"Pollution, Smoking, Obesity",2023-01-04,2024-06-22,1,Surgery,Deceased,Yes,Private
+0ac6e410-9164-4501-a55b-c35676a85a2f,45,Female,Asia,Kidney Disease,"High Blood Pressure, Alcohol Use",2015-07-22,,10,Medication,Recovered,No,Private
+3b166d8b-818c-4a91-bd09-d4c8be59c442,40,Other,South America,Diabetes,"Alcohol Use, Pollution, High Blood Pressure",2019-03-08,,6,Chemotherapy,Recovered,Yes,Private
+e054fb9c-98d1-4446-ad28-1fccd45885bb,54,Male,North America,Kidney Disease,Pollution,2021-01-09,2021-10-14,0,Radiation Therapy,Deceased,Yes,Private
+6c09b590-2de7-48dc-9fb5-9d486e181a61,88,Male,Africa,Heart Disease,Pollution,2023-06-23,,10,Radiation Therapy,Recovered,Yes,Private
+af1ebfcb-cac8-4448-80da-af0b32762170,64,Female,Asia,Cancer,Pollution,2021-05-29,2024-09-26,3,Medication,Deceased,No,Public
+14b3b676-b306-4fb4-a5b5-9c022e336fa6,33,Female,Africa,Kidney Disease,Pollution,2016-08-10,,5,Chemotherapy,Recovered,Yes,Public
+d2b8f1b0-c220-4e8d-9401-558699138457,54,Male,Africa,Respiratory Disease,"Pollution, Alcohol Use, Smoking",2020-09-08,2022-03-07,1,Chemotherapy,Deceased,No,Public
+c74899e8-c984-4e62-b63a-cf2ea2a95311,60,Female,South America,Respiratory Disease,Smoking,2022-06-30,,10,Dialysis,Recovered,No,Private
+66c2791b-0d98-4211-984c-bb52fd0cf4ea,84,Female,Asia,Cancer,Obesity,2016-10-23,2019-07-18,2,Surgery,Deceased,No,Private
+a4a5d3a3-1bd5-4e13-875f-be75868849b2,30,Female,Asia,Diabetes,"Alcohol Use, Pollution, High Blood Pressure",2021-10-23,2024-04-28,2,Radiation Therapy,Deceased,Yes,Public
+cdccc472-7cfb-4f20-a9b0-bf8c7f28f086,44,Male,Europe,Cancer,"Smoking, Family History",2017-07-29,2021-03-18,3,Medication,Deceased,Yes,Private
+8a6187fd-18b9-426e-8240-0a30f63316c1,43,Other,Australia,Cancer,Obesity,2019-05-09,2022-12-12,3,Medication,Deceased,Yes,Private
+e28946ab-81b0-402a-93e6-edacd25a3087,56,Other,South America,Kidney Disease,"Pollution, Family History, Obesity",2017-10-06,2023-12-28,6,Medication,Deceased,No,Private
+60417713-a924-44c2-9310-67e701a84876,75,Male,Europe,Diabetes,"Alcohol Use, Smoking",2021-06-01,,10,Radiation Therapy,Recovered,No,Private
+13cc3e39-5211-4ce1-bf65-3793f6e2caaf,83,Male,Asia,Stroke,Pollution,2017-07-30,,1,Dialysis,Recovered,No,Public
+7be62019-6bed-494d-b385-7b66afc120b9,45,Other,South America,Cancer,"Alcohol Use, High Blood Pressure, Obesity",2019-02-28,2022-11-26,3,Medication,Deceased,No,Public
+4d7c35d3-4324-43e0-ad7e-194ae070ab71,53,Female,North America,Stroke,Alcohol Use,2021-04-03,2023-01-27,1,Chemotherapy,Deceased,No,Public
+2f8586da-3633-4ec5-90e2-d4207d42bd3a,31,Female,Asia,Stroke,Pollution,2016-06-14,2021-11-12,5,Dialysis,Deceased,No,Public
+85b2f3d7-5d01-4412-8730-17c380915773,81,Other,Asia,Diabetes,"Family History, Alcohol Use",2016-02-06,,8,Dialysis,Recovered,No,Private
+2003c6f2-0398-4607-b4c2-3ba35e9be97f,43,Other,Africa,Heart Disease,"Obesity, High Blood Pressure",2021-07-18,,4,Radiation Therapy,Recovered,No,Public
+122fc032-68f5-4c0c-a4e8-d23700909455,53,Male,Asia,Heart Disease,"Smoking, High Blood Pressure",2024-09-12,2024-09-13,0,Radiation Therapy,Deceased,Yes,Public
+3489c1ac-496b-44c5-ac68-d5bf372aabda,48,Other,Australia,Respiratory Disease,"Alcohol Use, Family History",2024-03-03,,1,Chemotherapy,Recovered,Yes,Private
+ba1eecbc-14a3-4afe-99c3-37031083725b,26,Female,Europe,Diabetes,"Family History, Pollution, Obesity",2016-01-23,2019-02-26,3,Surgery,Deceased,No,Public
+d63f167d-b810-4ae7-887e-89565c63c962,24,Male,South America,Heart Disease,Pollution,2020-05-05,2021-07-24,1,Chemotherapy,Deceased,Yes,Public
+c0522e0b-bc2a-43d9-be67-f8ac5aa76ca7,71,Female,Europe,Stroke,"Obesity, High Blood Pressure, Pollution",2015-11-05,2022-08-05,6,Dialysis,Deceased,No,Public
+5c436ebf-4617-47d9-8e05-6563144ba3bb,20,Other,Australia,Heart Disease,"High Blood Pressure, Family History, Smoking",2018-01-06,,2,Chemotherapy,Recovered,Yes,Private
+a9e819d3-e13a-4ac7-8ae3-158df08028ad,63,Other,Europe,Kidney Disease,Obesity,2014-11-12,2022-08-13,7,Surgery,Deceased,No,Private
+43187ba8-e15c-4acf-b29e-f590f20418de,20,Male,North America,Respiratory Disease,"Smoking, Pollution, Family History",2017-04-05,,4,Medication,Recovered,No,Private
+84c3c2d8-8097-40ab-90ce-c335aef8237b,29,Other,Europe,Stroke,"Alcohol Use, High Blood Pressure",2016-05-19,,9,Radiation Therapy,Recovered,No,Private
+6c763f60-f31a-4a43-b700-51fa7b1c6f18,82,Female,Asia,Cancer,Alcohol Use,2014-12-28,,9,Medication,Recovered,Yes,Public
+e7beddc6-9b46-4989-be00-d0da496afc5e,35,Other,Africa,Heart Disease,"Smoking, Obesity, Alcohol Use",2018-01-03,2021-09-05,3,Dialysis,Deceased,Yes,Public
+76d137f7-4df3-478e-9472-41462c5f4845,87,Other,Asia,Kidney Disease,Family History,2019-07-15,2020-06-20,0,Medication,Deceased,Yes,Public
+67685b25-a4ab-4d96-805e-dbdd94576e5f,35,Other,South America,Heart Disease,"Family History, Smoking",2022-10-07,2024-10-05,1,Dialysis,Deceased,No,Public
+87e963d5-bd7b-46ad-b3cf-750a61d14a23,28,Other,Africa,Diabetes,Family History,2021-07-31,2024-09-22,3,Radiation Therapy,Deceased,Yes,Public
+20c953e1-9783-4e1f-8858-8c70777ec69b,75,Male,North America,Respiratory Disease,Obesity,2023-11-02,,8,Radiation Therapy,Recovered,Yes,Public
+a9f5b603-1a7f-4d04-9e6d-16341f1ccff0,57,Female,Africa,Heart Disease,"Smoking, Family History",2021-07-18,2023-12-03,2,Chemotherapy,Deceased,Yes,Private
+308b0374-cfa5-46c8-9e7e-2d3ae1c40ddd,69,Male,Europe,Heart Disease,High Blood Pressure,2022-04-07,,1,Medication,Recovered,No,Public
+055591fd-dceb-491a-8f09-c0d741925676,52,Female,North America,Kidney Disease,"Pollution, Family History",2015-04-17,2023-03-21,7,Surgery,Deceased,Yes,Public
+f0e92e9e-6ad9-428f-aebf-2b3083fb87a7,25,Female,Asia,Diabetes,Family History,2018-12-04,,6,Radiation Therapy,Recovered,No,Private
+54ffb50c-3d72-4283-894f-48d825c2ef83,74,Female,Africa,Heart Disease,"Family History, Obesity, Alcohol Use",2019-01-07,,8,Radiation Therapy,Recovered,Yes,Private
+d5d2e349-f01c-4d54-af5b-b2565835c337,45,Male,Europe,Kidney Disease,"High Blood Pressure, Pollution, Alcohol Use",2018-09-25,,3,Medication,Recovered,No,Public
+212bb400-8634-4397-bbd5-b6e12fdd6d01,76,Male,Asia,Respiratory Disease,"Pollution, High Blood Pressure",2022-08-18,,9,Dialysis,Recovered,Yes,Public
+59dd1bb8-dc8c-433e-a884-84fa76d6e757,66,Male,Africa,Kidney Disease,Family History,2021-01-21,2024-07-13,3,Radiation Therapy,Deceased,No,Private
+dd3b9d4c-2b1b-4b47-b687-3781f11c8d4e,39,Other,Europe,Kidney Disease,Smoking,2016-07-19,,10,Medication,Recovered,Yes,Private
+57074564-73ba-41fb-8101-b83f145b31da,48,Other,South America,Cancer,"Obesity, Family History, High Blood Pressure",2017-04-19,2024-06-10,7,Surgery,Deceased,Yes,Public
+36b08b8e-b61f-45d3-be22-ca36476ef8f4,80,Female,Africa,Kidney Disease,Alcohol Use,2019-05-18,2022-06-26,3,Chemotherapy,Deceased,No,Public
+b3c31e31-bfea-4e59-8185-645d99f09069,84,Female,Europe,Cancer,"High Blood Pressure, Smoking",2020-06-01,,10,Surgery,Recovered,Yes,Private
+4c005e70-87e4-42e3-bc9f-95fd3ea59efd,76,Female,Asia,Respiratory Disease,"Obesity, Pollution, Smoking",2019-01-06,,6,Chemotherapy,Recovered,No,Private
+d2320d2a-b3d6-4432-b8f8-52106c65ce00,46,Male,Australia,Cancer,"Obesity, Pollution, Smoking",2023-04-02,2024-03-23,0,Dialysis,Deceased,Yes,Private
+3f4878eb-8eeb-49da-a3d5-13002be7a49c,24,Other,North America,Kidney Disease,"Pollution, Alcohol Use, Obesity",2016-06-27,2021-08-31,5,Surgery,Deceased,Yes,Public
+afe10077-7056-4db9-a91a-4858944e771d,47,Female,North America,Stroke,"High Blood Pressure, Alcohol Use, Family History",2020-10-16,2024-03-29,3,Medication,Deceased,Yes,Public
+ca261b1c-9c30-4b19-b164-61127e45d3f8,50,Female,Africa,Cancer,"High Blood Pressure, Obesity",2021-05-08,2023-05-07,1,Chemotherapy,Deceased,No,Private
+b1c2cc1a-1090-4e9b-99f3-ea49132e2ed4,84,Other,Asia,Heart Disease,"Obesity, High Blood Pressure",2019-08-05,,4,Chemotherapy,Recovered,No,Public
+9eb8fd5b-edca-4bee-8fd9-877601916d04,80,Other,Africa,Heart Disease,"Pollution, Family History",2023-09-05,2023-11-21,0,Dialysis,Deceased,Yes,Public
+b28e4e26-5bf0-49a6-91ba-8c65c54eb981,28,Female,South America,Respiratory Disease,Smoking,2018-04-25,,4,Chemotherapy,Recovered,Yes,Private
+11d9a84b-bac0-4e77-a0a5-ad4caed3f5bd,23,Other,North America,Diabetes,"Pollution, Obesity",2016-10-06,2017-01-03,0,Surgery,Deceased,No,Private
+7ad4757f-0e28-4eaf-a2e9-087a05b663c6,65,Female,Europe,Heart Disease,"Family History, Pollution",2024-03-30,2024-04-29,0,Chemotherapy,Deceased,No,Private
+dfc0fa04-1a5f-4cb0-b526-88f10c05e1aa,80,Female,Africa,Kidney Disease,"Smoking, Obesity",2021-09-18,2023-11-28,2,Surgery,Deceased,No,Public
+0e69f166-f579-411c-8129-d6c01a2f1915,30,Female,Australia,Stroke,"Pollution, Obesity",2017-08-07,2023-11-16,6,Radiation Therapy,Deceased,Yes,Private
+dd754a89-e9bd-4fc2-bb23-70c70ba342da,86,Male,South America,Stroke,"Alcohol Use, Family History",2019-08-25,,5,Chemotherapy,Recovered,Yes,Public
+5cd6ef9f-2b3c-4321-b329-e408fc230daa,60,Female,Asia,Diabetes,"Obesity, Smoking",2024-06-08,,2,Radiation Therapy,Recovered,Yes,Public
+96faa855-8407-4813-8dc4-8aaae4b759ba,64,Female,Africa,Respiratory Disease,"Smoking, Obesity, Alcohol Use",2019-02-22,2021-01-24,1,Radiation Therapy,Deceased,No,Public
+4c920a88-04fc-4730-abfc-7dd26a8e7577,35,Female,Australia,Stroke,"Smoking, Pollution, Obesity",2019-07-31,,10,Medication,Recovered,Yes,Public
+6b150a73-1987-433a-81da-2d8d3d98bcdb,44,Other,North America,Respiratory Disease,"Family History, Alcohol Use, Obesity",2017-01-21,,2,Surgery,Recovered,Yes,Private
+84783a7f-dd57-4583-bd9c-121027767b74,27,Other,Australia,Stroke,Alcohol Use,2024-07-23,2024-09-10,0,Dialysis,Deceased,Yes,Private
+56f69b26-a625-4bdb-9e34-dd0bf682e889,29,Female,South America,Heart Disease,"High Blood Pressure, Alcohol Use",2020-05-31,,4,Dialysis,Recovered,No,Public
+8ce9b47c-9268-4439-99f2-ce44554ad069,35,Female,South America,Stroke,Pollution,2022-03-09,,4,Dialysis,Recovered,Yes,Public
+c83ad665-e2c2-42f2-b6b2-a98bd035c518,58,Female,North America,Cancer,Alcohol Use,2015-02-13,,3,Surgery,Recovered,No,Public
+2c38039a-299c-4411-892a-4a87a8b804af,72,Other,North America,Respiratory Disease,Family History,2020-04-17,2024-05-07,4,Dialysis,Deceased,No,Private
+c497d2d6-c075-4cf0-b568-931938750632,54,Female,Australia,Cancer,Family History,2022-01-07,,7,Chemotherapy,Recovered,No,Private
+5b0a07c1-95a2-4ce2-8bb0-c138baf9b290,54,Female,North America,Kidney Disease,"Smoking, High Blood Pressure",2016-10-12,2018-11-20,2,Surgery,Deceased,Yes,Public
+4247e293-53d9-4c44-b339-e8dd05850851,64,Other,South America,Respiratory Disease,"Smoking, High Blood Pressure, Alcohol Use",2017-06-18,,10,Chemotherapy,Recovered,Yes,Public
+6e696724-b721-43c7-92c0-aacaf05c71c7,73,Female,Australia,Cancer,"Pollution, Obesity",2020-05-05,,7,Surgery,Recovered,Yes,Public
+f6308f73-c140-4fa0-ad81-40cd23b43c6b,75,Other,Asia,Heart Disease,Alcohol Use,2016-03-22,2024-02-14,7,Radiation Therapy,Deceased,Yes,Private
+3bb7321c-b962-4e4c-92e2-d6f24d84d279,57,Female,North America,Kidney Disease,Pollution,2020-05-29,2022-10-29,2,Chemotherapy,Deceased,Yes,Private
+89cbfb3e-5ff3-4dde-9ed1-3ea7d70f1449,64,Female,Africa,Kidney Disease,"High Blood Pressure, Obesity",2020-11-15,,4,Chemotherapy,Recovered,No,Public
+00caace5-ae0e-4b66-acd9-f7fbd737d8cd,41,Male,Europe,Stroke,High Blood Pressure,2024-06-23,2024-08-13,0,Chemotherapy,Deceased,No,Public
+ddcba568-f644-457b-9010-9815d01b765c,36,Other,South America,Respiratory Disease,"Pollution, Family History",2022-06-10,2023-06-22,1,Chemotherapy,Deceased,No,Public
+a887c981-d5b2-4d4b-9a9a-bd985cc92911,36,Female,Asia,Respiratory Disease,Smoking,2016-03-04,,6,Medication,Recovered,Yes,Public
+c5cd95e4-06d8-442e-b17e-ae9edfc2cf58,82,Male,Asia,Cancer,"Family History, Pollution",2021-09-17,2024-05-02,2,Surgery,Deceased,No,Public
+99b18cc3-8de6-4e3b-b24e-652089f43425,62,Male,South America,Respiratory Disease,Obesity,2021-05-30,,8,Dialysis,Recovered,Yes,Public
+53782e18-c1a6-4a93-a6ab-ad4808d14acd,67,Male,South America,Heart Disease,Pollution,2023-12-10,2024-04-25,0,Radiation Therapy,Deceased,Yes,Private
+9bfb8d37-da58-4933-9cbb-9a971c24ce01,38,Female,South America,Heart Disease,High Blood Pressure,2018-06-29,,9,Medication,Recovered,Yes,Public
+c64d84c0-de21-4bf5-be76-3ab8b037a1cf,51,Male,Europe,Diabetes,High Blood Pressure,2020-03-08,,6,Medication,Recovered,No,Public
+686ad4c2-3af2-4ecc-9d66-2598f72c8f54,51,Male,South America,Cancer,"High Blood Pressure, Family History",2019-10-13,,7,Dialysis,Recovered,No,Public
+4544c27a-e1e8-456d-9b6c-7a33723e4bc5,77,Female,North America,Kidney Disease,Obesity,2017-04-06,,7,Radiation Therapy,Recovered,Yes,Public
+17f592ab-f92d-4151-b48f-0e881ad68946,85,Male,Europe,Stroke,"Alcohol Use, Smoking",2015-01-25,2023-06-10,8,Chemotherapy,Deceased,No,Public
+bfbc7adf-8214-4c26-b6eb-c1730aca0a7d,68,Male,South America,Cancer,"Family History, Smoking",2021-08-31,2022-08-22,0,Medication,Deceased,No,Private
+4253c1d4-2f62-4bc7-9eb8-a77cd546eac5,72,Female,Asia,Heart Disease,"Obesity, High Blood Pressure, Pollution",2024-05-03,2024-07-06,0,Dialysis,Deceased,No,Public
+703f837d-6090-45fa-b372-7f87a3436482,45,Other,Africa,Heart Disease,"Family History, Alcohol Use, Pollution",2018-06-05,,4,Surgery,Recovered,Yes,Public
+e1248aff-76f8-43cc-a4ea-bbe483c31323,29,Male,Africa,Cancer,"Alcohol Use, Pollution",2022-08-10,,4,Dialysis,Recovered,Yes,Public
+718f28a6-2c6a-4fc9-83af-d9db5264017c,64,Male,North America,Cancer,"Family History, High Blood Pressure, Alcohol Use",2024-02-26,,7,Dialysis,Recovered,Yes,Private
+22f3cb4e-d603-4651-b0f6-d644a7865fb8,80,Female,South America,Heart Disease,"Pollution, Obesity",2018-04-11,,6,Dialysis,Recovered,Yes,Private
+de441232-3b11-4fa5-812f-199969066d1d,60,Male,Australia,Heart Disease,"High Blood Pressure, Family History, Alcohol Use",2022-01-15,,5,Medication,Recovered,No,Public
+a13e4ee5-e7d9-4d74-8e22-62d101845803,61,Other,South America,Diabetes,"Obesity, Alcohol Use",2016-05-28,2021-04-09,4,Surgery,Deceased,No,Public
+46d1243c-1363-4942-bcb9-b6fd073480ea,50,Female,North America,Stroke,"Smoking, Pollution",2021-07-10,2024-02-13,2,Chemotherapy,Deceased,Yes,Private
+2e7db948-2fb6-4da5-8b97-fd8cde73dbd2,85,Female,Australia,Stroke,Pollution,2017-04-22,,1,Chemotherapy,Recovered,No,Public
+5c32f446-bb48-4c5c-8cd8-3bdd1a00dca4,73,Male,North America,Heart Disease,Family History,2014-10-20,2016-03-30,1,Chemotherapy,Deceased,No,Public
+e1f513ac-1e60-4e3c-9b92-9f84a57830cf,89,Female,Australia,Cancer,"Alcohol Use, Smoking, Family History",2019-02-11,,2,Surgery,Recovered,Yes,Private
+3c119c89-32f9-48fa-8424-f5ffcc3f8e7e,35,Female,Europe,Cancer,Pollution,2016-03-25,,9,Medication,Recovered,No,Public
+9ccf058d-bfa5-4015-868d-da940cfecadb,74,Other,Africa,Heart Disease,"Obesity, Smoking",2019-08-20,2022-12-03,3,Radiation Therapy,Deceased,Yes,Private
+7b8062d8-65d0-4f3b-a657-8f4e44283cd9,26,Other,Australia,Stroke,"Obesity, Smoking",2019-07-03,,2,Chemotherapy,Recovered,No,Private
+588b7ee1-7a0b-441a-9280-ec9e92b82a95,88,Other,South America,Kidney Disease,"Family History, Alcohol Use",2020-06-10,2023-04-15,2,Radiation Therapy,Deceased,Yes,Public
+85bf71dd-82af-4c94-bbd5-16b0fd607a4e,53,Male,North America,Stroke,"Family History, Smoking, Alcohol Use",2020-07-13,2022-10-11,2,Medication,Deceased,Yes,Public
+68826024-3936-4994-bb6f-1de098482629,85,Male,Europe,Stroke,Family History,2017-08-03,2020-10-27,3,Medication,Deceased,Yes,Private
+9d0e82f9-295b-4740-b660-b8d0de886fcb,20,Other,Europe,Heart Disease,Family History,2015-12-01,,8,Dialysis,Recovered,No,Private
+8bdafed2-d836-48c2-b561-b974cca08bb0,57,Male,Australia,Heart Disease,Obesity,2024-05-29,,8,Dialysis,Recovered,Yes,Public
+07bdd60d-174f-4bd7-8645-9ff9b9cd1593,55,Other,Europe,Stroke,"Pollution, Smoking",2019-04-20,2024-06-25,5,Dialysis,Deceased,No,Private
+53df9398-bb61-45e3-a4ca-476ea47d0860,32,Other,Australia,Stroke,"Smoking, Family History, Obesity",2020-06-30,,2,Medication,Recovered,No,Public
+89dd9195-8491-4c97-abc2-925fb7b9335e,39,Other,North America,Cancer,"High Blood Pressure, Family History, Obesity",2020-11-10,,10,Surgery,Recovered,Yes,Public
+57f97280-29f8-48f0-a2f2-e4dd1bf7abd2,86,Other,Africa,Cancer,"High Blood Pressure, Alcohol Use, Family History",2019-10-09,2021-01-06,1,Radiation Therapy,Deceased,Yes,Public
+a4e6196e-e447-4cae-add8-b9aaee6a6b0c,80,Male,South America,Heart Disease,"High Blood Pressure, Alcohol Use",2020-03-15,,3,Chemotherapy,Recovered,Yes,Private
+90e98a6a-7f45-47cd-931d-49e157d3fda7,25,Other,Asia,Stroke,"Smoking, Family History, Obesity",2020-11-18,2022-08-30,1,Dialysis,Deceased,Yes,Private
+b1d56e90-8664-4542-b490-f3b9e3fe7394,82,Other,South America,Kidney Disease,"Family History, Alcohol Use, Obesity",2024-09-07,2024-10-14,0,Dialysis,Deceased,No,Private
+307d2c4b-5145-4e8c-a6f1-4f22476e187b,34,Other,Australia,Respiratory Disease,Smoking,2019-08-21,2023-07-19,3,Chemotherapy,Deceased,No,Public
+98698719-b947-4983-a0c3-aa0930ec5829,52,Other,Africa,Stroke,"High Blood Pressure, Alcohol Use, Smoking",2021-07-22,2022-11-18,1,Radiation Therapy,Deceased,Yes,Private
+7f3e1f32-dc7b-4328-a8c7-600834e580e8,80,Other,South America,Kidney Disease,Smoking,2020-05-27,2023-09-11,3,Medication,Deceased,No,Public
+a33eb0a5-da42-4404-9bf6-214699594d61,32,Male,South America,Cancer,"Obesity, Family History",2015-09-14,,8,Chemotherapy,Recovered,Yes,Public
+93c40042-aecf-47ba-bc7c-4f6aeaa03833,42,Female,North America,Diabetes,Pollution,2017-09-25,2022-05-18,4,Surgery,Deceased,No,Private
+e8fae784-bfa3-40bd-9271-133c9a4614b0,56,Male,South America,Diabetes,"Obesity, Alcohol Use, High Blood Pressure",2023-08-22,2024-03-14,0,Radiation Therapy,Deceased,No,Public
+a7b3d82c-bc90-4541-9e6c-36f79b844859,33,Other,Africa,Respiratory Disease,"Pollution, High Blood Pressure",2019-04-24,,6,Chemotherapy,Recovered,No,Private
+d23f6af8-c332-4a4d-9e13-09ab7d705bf7,82,Male,Asia,Respiratory Disease,"Alcohol Use, Pollution",2019-12-06,2024-01-27,4,Surgery,Deceased,No,Private
+dffb13f1-2a4b-4402-a724-7ae5081e0c9a,28,Male,North America,Heart Disease,"Alcohol Use, High Blood Pressure",2014-11-25,,2,Radiation Therapy,Recovered,No,Public
+9dd95668-d28e-4098-8e6e-342310e2a6ec,77,Other,Asia,Kidney Disease,"Smoking, Alcohol Use",2021-12-28,2023-10-06,1,Chemotherapy,Deceased,No,Private
+2d03581d-0b12-478a-831e-5f62c3554d03,42,Other,Australia,Kidney Disease,"Family History, Obesity, Alcohol Use",2018-04-10,,2,Surgery,Recovered,Yes,Private
+83646208-a053-41f8-b4ca-17a91c8e9dfa,74,Female,Europe,Kidney Disease,Alcohol Use,2017-09-13,,9,Chemotherapy,Recovered,No,Private
+976f866a-4de1-49ee-8fc0-6b19d90f1854,42,Other,Africa,Heart Disease,Alcohol Use,2023-11-27,2024-09-24,0,Radiation Therapy,Deceased,No,Public
+446e4a6d-4a55-436b-8ef7-b1c4d925e398,64,Male,Australia,Respiratory Disease,"Pollution, Obesity, High Blood Pressure",2015-04-30,2019-05-08,4,Chemotherapy,Deceased,Yes,Public
+e90c584c-e76f-47cd-9b7c-6eb694a1ee95,34,Other,Europe,Cancer,"Family History, Pollution, High Blood Pressure",2014-10-28,2020-05-18,5,Surgery,Deceased,Yes,Private
+83928571-39ef-4209-8e5d-13c7ec04884a,77,Male,Africa,Kidney Disease,"Obesity, Smoking",2019-07-15,,4,Dialysis,Recovered,No,Public
+9993e37f-4827-4377-8a5f-047c21e86912,28,Other,North America,Kidney Disease,"Smoking, Family History",2021-07-01,,4,Surgery,Recovered,Yes,Public
+ee65256a-afc4-4121-8fa6-37ae00e990a6,59,Other,Australia,Diabetes,"High Blood Pressure, Smoking, Pollution",2024-03-29,2024-09-09,0,Medication,Deceased,Yes,Private
+4ca2de6d-07b4-4277-b279-abc82ccb7160,76,Male,North America,Stroke,"Obesity, Family History",2022-01-19,,4,Chemotherapy,Recovered,No,Public
+bcbf4127-ee9e-42d4-ad17-5cc3588d2de9,55,Other,North America,Diabetes,Alcohol Use,2017-05-07,2020-04-08,2,Dialysis,Deceased,No,Public
+69942670-285e-4572-8f23-7ff609a181cc,49,Other,Asia,Kidney Disease,"High Blood Pressure, Alcohol Use, Family History",2024-02-12,2024-10-10,0,Chemotherapy,Deceased,No,Public
+38581bc1-8999-4b2e-864d-d8a7ff0bcd01,38,Female,South America,Stroke,Alcohol Use,2022-06-23,,4,Medication,Recovered,Yes,Private
+a3a75a36-cbef-473e-8f10-e5e3ab3d70ef,50,Female,Asia,Diabetes,High Blood Pressure,2019-07-17,,3,Medication,Recovered,Yes,Private
+aabaea9c-2ff9-4798-91fc-d1b7260cee3f,89,Female,Asia,Cancer,"Alcohol Use, Family History, Smoking",2015-09-09,,2,Dialysis,Recovered,Yes,Public
+3a8588d9-4250-482c-8cfd-c7e71737696a,51,Other,North America,Kidney Disease,Pollution,2023-07-13,,3,Surgery,Recovered,No,Private
+9b941b0c-e8c9-4a20-8df5-0cba333208ea,58,Other,Europe,Respiratory Disease,"Family History, Alcohol Use, Smoking",2018-03-08,2024-08-08,6,Medication,Deceased,Yes,Private
+22a5c3ab-ceaf-4c87-a12a-ff73fc5b357c,37,Female,North America,Stroke,High Blood Pressure,2022-05-03,2022-07-06,0,Medication,Deceased,No,Public
+a28e8687-1510-4168-884f-d762f528bf5b,52,Female,Europe,Stroke,Pollution,2020-03-08,,7,Medication,Recovered,No,Private
+6baca024-71e8-4a1c-a7cc-386abce49c9d,70,Female,Asia,Cancer,Obesity,2021-10-14,,9,Dialysis,Recovered,No,Public
+47e04ed5-148f-49f3-a550-a08bf4201607,28,Other,Africa,Cancer,High Blood Pressure,2024-06-30,,6,Chemotherapy,Recovered,No,Private
+eb7b4cb8-69f0-472c-811a-76949d54225c,58,Female,Africa,Heart Disease,"High Blood Pressure, Obesity, Pollution",2018-11-12,,7,Chemotherapy,Recovered,Yes,Private
+5e1fd483-546d-4ecc-b0a1-57d9dd99e826,50,Female,Australia,Cancer,"Smoking, Obesity, Family History",2022-07-22,,5,Dialysis,Recovered,No,Public
+c83e9fdf-af89-4899-aad0-b4367c953fbc,44,Male,North America,Kidney Disease,Family History,2018-04-08,,5,Surgery,Recovered,No,Public
+af288b89-bb05-4612-836d-0b51fffd0af8,59,Male,Europe,Heart Disease,Pollution,2018-12-02,,7,Medication,Recovered,Yes,Private
+e19806fd-f9dd-4b13-996e-42cfa3d86c0a,89,Male,Australia,Respiratory Disease,"Alcohol Use, Family History, High Blood Pressure",2023-09-27,,4,Medication,Recovered,Yes,Private
+8f1864cd-43bf-4529-823d-b7036c3d60ba,29,Female,North America,Stroke,"Family History, High Blood Pressure",2017-04-19,2017-09-10,0,Medication,Deceased,Yes,Public
+aa1b6760-ac58-4ebe-a0c2-2b9aff121a86,84,Female,Asia,Cancer,"Obesity, Pollution, Smoking",2015-08-16,,4,Medication,Recovered,No,Public
+f6816b2b-a9f4-4491-9689-924cb04e546c,24,Other,Africa,Diabetes,"High Blood Pressure, Alcohol Use, Pollution",2016-07-15,,6,Dialysis,Recovered,Yes,Public
+9ea39540-a7c3-47c4-9640-a2302bed0e77,82,Male,Asia,Diabetes,Alcohol Use,2016-08-25,,3,Dialysis,Recovered,Yes,Private
+02cd82fe-e693-4015-b121-99cc004de343,38,Other,North America,Stroke,Smoking,2016-03-07,,3,Medication,Recovered,No,Public
+e34a2c4e-f640-4c3c-ae45-8f9a5b6ee2e1,59,Male,Europe,Cancer,"Smoking, Obesity",2022-11-06,,3,Surgery,Recovered,No,Public
+fd257535-b273-459f-8489-a095ae9d7eaa,76,Male,Europe,Stroke,"Alcohol Use, Family History",2017-06-25,2018-05-29,0,Radiation Therapy,Deceased,No,Public
+6147a9ae-f5ae-4692-aab1-26b76f5aa98f,33,Other,South America,Diabetes,"Family History, Pollution",2021-02-10,,4,Chemotherapy,Recovered,No,Private
+c0614b77-76dc-4131-bdaf-cc7f7e9c3938,89,Male,Asia,Cancer,Smoking,2016-12-13,2017-04-16,0,Chemotherapy,Deceased,No,Public
+5df65b0a-3463-4993-b9df-669b053d62b1,44,Male,South America,Cancer,"Family History, Smoking",2021-08-06,,5,Surgery,Recovered,No,Private
+6daf184d-4ef7-424e-aeb9-f0d6cd017299,38,Male,North America,Stroke,"Smoking, High Blood Pressure, Alcohol Use",2016-01-29,2016-05-13,0,Dialysis,Deceased,No,Public
+1c3e63b2-7744-44a6-8f81-56f1aaa7f9e9,61,Female,Australia,Diabetes,Family History,2016-05-17,2022-06-15,6,Surgery,Deceased,Yes,Private
+221d3cc2-9793-4bbc-a8f0-477826afec6c,63,Other,Africa,Diabetes,"Smoking, Family History",2022-03-22,2023-11-04,1,Radiation Therapy,Deceased,Yes,Private
+22329fc2-e58f-4196-944e-1559b7bf2fc7,78,Female,North America,Respiratory Disease,"Family History, Pollution",2020-05-13,2022-11-02,2,Surgery,Deceased,Yes,Public
+2fef424d-1b30-43a4-859d-0ca2ffa6a799,61,Female,Africa,Kidney Disease,"Pollution, Alcohol Use, Smoking",2022-11-23,,6,Medication,Recovered,No,Private
+3dd14275-538a-4e15-9492-d21501157def,37,Female,South America,Cancer,"Pollution, Smoking, Obesity",2021-07-31,2022-11-28,1,Chemotherapy,Deceased,Yes,Public
+47f85dff-99fb-4476-9f2e-9013e537eea8,45,Male,Europe,Diabetes,Smoking,2022-03-18,,1,Chemotherapy,Recovered,Yes,Public
+3458158b-95f4-454a-9317-e536671b6d1a,74,Other,Africa,Respiratory Disease,"High Blood Pressure, Family History, Obesity",2016-06-28,,3,Radiation Therapy,Recovered,No,Public
+f7401f2e-920c-4fb9-ac5b-6370c62e0b82,31,Male,Africa,Kidney Disease,Smoking,2023-05-30,,3,Dialysis,Recovered,No,Public
+72637b70-042d-410f-b8ba-592df4b0af72,48,Male,Asia,Diabetes,"High Blood Pressure, Alcohol Use",2023-02-06,,10,Medication,Recovered,No,Public
+197770ab-3af8-49f9-bb3a-ffbfd8e0218b,85,Female,Africa,Diabetes,Alcohol Use,2022-10-28,2022-11-15,0,Medication,Deceased,No,Public
+1a6fb57a-0735-4fe8-865b-a6f382cbdd7e,31,Male,Asia,Respiratory Disease,Alcohol Use,2014-12-29,2016-09-12,1,Medication,Deceased,Yes,Private
+baf1adbe-d265-4545-8dcb-32331073595d,34,Female,Asia,Kidney Disease,"Alcohol Use, High Blood Pressure, Smoking",2021-04-27,2021-11-13,0,Chemotherapy,Deceased,Yes,Public
+8156a402-ee13-4f16-9500-32129e5a672d,38,Female,North America,Stroke,"Alcohol Use, High Blood Pressure",2016-03-31,2020-02-03,3,Radiation Therapy,Deceased,No,Public
+687d7a1c-dfcb-4af4-8ab2-97207b8365f2,37,Female,Europe,Cancer,Obesity,2015-05-19,,7,Dialysis,Recovered,Yes,Public
+e92ce2bd-251e-4c9d-b6c2-8a30d7d567e4,72,Female,Australia,Stroke,Pollution,2015-06-14,2020-09-30,5,Dialysis,Deceased,Yes,Public
+beceaa88-a48c-45bc-acc2-e2edaade6748,71,Male,Europe,Cancer,"High Blood Pressure, Smoking, Alcohol Use",2019-09-24,2024-02-20,4,Medication,Deceased,No,Private
+dd3e8af9-2004-457e-8088-62130ea83c81,48,Female,Africa,Respiratory Disease,Family History,2023-07-07,2024-02-24,0,Medication,Deceased,Yes,Public
+90116949-d7bb-4f04-afd0-8fa41d88fcb4,48,Female,South America,Respiratory Disease,High Blood Pressure,2021-06-08,2022-07-11,1,Dialysis,Deceased,No,Private
+6273e8c8-7e03-4ef0-b4ad-6c502ff5b3d9,89,Other,Asia,Diabetes,"Obesity, Pollution",2021-10-01,2021-10-11,0,Surgery,Deceased,No,Private
+a170aad6-feff-43ec-9c25-c00b05991ed8,58,Male,Australia,Diabetes,"Smoking, Obesity, Alcohol Use",2022-09-27,2023-06-10,0,Medication,Deceased,No,Public
+ab7e59ff-5631-429b-be74-1ea4e0c1226d,42,Male,South America,Diabetes,"High Blood Pressure, Family History",2017-07-11,,5,Medication,Recovered,No,Private
+bada3b50-9bd8-4ed7-8d86-8cd1d9939968,86,Other,South America,Diabetes,Family History,2024-05-02,2024-07-19,0,Surgery,Deceased,Yes,Public
+1952ea46-d1fc-4bed-a7e1-4b5bbaa9b0e3,86,Female,Australia,Cancer,"Smoking, Obesity, Alcohol Use",2019-03-01,,10,Medication,Recovered,No,Private
+02ff1d92-7b42-42a3-a07f-c0a03253fc57,50,Male,South America,Respiratory Disease,"Alcohol Use, Pollution",2020-01-18,,5,Chemotherapy,Recovered,Yes,Private
+d4c523a1-1706-4e16-9788-577cababb262,80,Male,Australia,Kidney Disease,"Obesity, High Blood Pressure",2018-04-18,,3,Chemotherapy,Recovered,No,Public
+f2342a04-b225-4c4c-bab5-afae07b0ef57,43,Female,South America,Respiratory Disease,Family History,2018-04-03,,7,Radiation Therapy,Recovered,Yes,Public
+0d1bacc8-f060-46f6-8f5a-c65c5dac72a3,58,Other,Africa,Cancer,Pollution,2020-06-18,,1,Surgery,Recovered,No,Private
+cbeb82a2-33c5-453b-8d8d-f6b79db6e51c,34,Other,Europe,Kidney Disease,High Blood Pressure,2016-11-30,,4,Dialysis,Recovered,Yes,Public
+6b7805ea-b716-41dc-ba6b-072b399d3712,79,Female,South America,Heart Disease,"Pollution, High Blood Pressure",2017-07-12,2021-09-16,4,Surgery,Deceased,No,Public
+384c4c3a-1d23-4bbd-b656-729721130743,69,Other,South America,Kidney Disease,"Alcohol Use, Family History",2020-05-22,,5,Medication,Recovered,Yes,Public
+85a9c215-7b2f-4512-9074-ece67ff1a9f4,60,Female,Africa,Stroke,"High Blood Pressure, Family History",2024-04-02,2024-07-21,0,Radiation Therapy,Deceased,Yes,Public
+26a7e752-6223-4e11-b4c5-fd30cc51fb9b,25,Male,Europe,Respiratory Disease,"Alcohol Use, High Blood Pressure, Smoking",2020-08-07,2020-10-06,0,Radiation Therapy,Deceased,Yes,Public
+f2e4b7f9-afa3-4720-b355-9f0f56318b2d,38,Female,Europe,Heart Disease,"High Blood Pressure, Smoking",2023-05-13,2024-06-04,1,Chemotherapy,Deceased,No,Private
+39ca82a7-c68f-4110-b995-a3178a0e23be,39,Male,Africa,Diabetes,Smoking,2023-04-04,,2,Surgery,Recovered,Yes,Public
+c4c97b6f-05bd-4afd-aa31-2c11b353ee0b,21,Male,North America,Cancer,"Obesity, Pollution, High Blood Pressure",2020-07-15,,1,Surgery,Recovered,Yes,Private
+4f2a1271-31c4-4ea7-808c-0be68928e5a3,78,Female,South America,Stroke,"Obesity, Family History",2020-07-29,2023-02-04,2,Radiation Therapy,Deceased,Yes,Private
+d7e341dd-286a-4b81-8e42-24a9e7dbcd03,26,Male,Europe,Diabetes,Family History,2022-06-26,2024-04-09,1,Surgery,Deceased,No,Public
+7a00653b-149a-4dff-9979-d1c52d62a43e,36,Other,North America,Heart Disease,"Obesity, Pollution, Smoking",2023-10-24,,6,Medication,Recovered,Yes,Private
+31fbea65-4a72-4fad-bfc6-6584a6c141e7,23,Female,Europe,Kidney Disease,"Pollution, High Blood Pressure",2015-10-05,2021-07-01,5,Chemotherapy,Deceased,Yes,Public
+47a3c5a3-2f88-4766-8072-bad72cdb74c2,40,Male,North America,Diabetes,"Pollution, Alcohol Use",2016-08-10,,4,Chemotherapy,Recovered,No,Public
+8bc97c74-df81-49ac-9531-0a46dc9bb153,81,Female,Africa,Kidney Disease,Obesity,2020-05-12,,2,Medication,Recovered,No,Private
+1afdb878-2b20-4e88-b163-d3c49127b1c9,24,Male,Australia,Respiratory Disease,"Obesity, Alcohol Use, Smoking",2023-08-16,,3,Medication,Recovered,Yes,Public
+3bf405f2-2580-4339-a0e4-803cb1630828,54,Female,Europe,Cancer,"Obesity, High Blood Pressure",2019-07-12,2019-08-28,0,Surgery,Deceased,Yes,Private
+fca21584-8399-41e3-b8a6-9e7c2c45098e,27,Other,Africa,Stroke,Obesity,2022-08-20,2024-01-13,1,Surgery,Deceased,Yes,Public
+fbfdef27-5a37-4d39-a0ee-7d0a7ee7d225,37,Female,Australia,Stroke,"High Blood Pressure, Alcohol Use",2021-01-28,2021-06-27,0,Surgery,Deceased,No,Public
+e864b58e-b569-464c-9947-14228de405f5,64,Other,Australia,Heart Disease,"Smoking, Obesity, Alcohol Use",2015-10-04,,3,Radiation Therapy,Recovered,No,Public
+9806d4b2-1ce7-4f2f-b195-5972982d59ef,70,Male,South America,Stroke,"Family History, Smoking",2023-04-29,,10,Medication,Recovered,Yes,Private
+434ff9d9-a22e-4a0c-986d-a6f6e8cbdde8,30,Male,Asia,Respiratory Disease,Obesity,2019-05-25,,2,Dialysis,Recovered,Yes,Private
+b697e80f-7076-47c3-8393-6c309788a038,45,Other,Europe,Diabetes,"Smoking, Alcohol Use, Obesity",2015-03-27,,6,Medication,Recovered,Yes,Private
+0f2fe5d0-af78-4fb7-af53-99c82fcf4bfc,20,Female,Europe,Stroke,"Smoking, Alcohol Use, Pollution",2024-09-23,,10,Surgery,Recovered,No,Private
+392b290d-7610-4b76-ad5b-7f1e4d24547c,43,Female,Africa,Respiratory Disease,"Family History, Alcohol Use",2016-05-11,,8,Medication,Recovered,Yes,Private
+0eefc156-a3a8-467d-ab95-1a520e112b3a,83,Male,Australia,Respiratory Disease,"Smoking, Pollution",2015-10-07,2021-06-18,5,Medication,Deceased,No,Public
+401d9ec9-61aa-4fb2-b3ff-0367157d21a2,42,Male,Asia,Diabetes,Smoking,2015-02-15,2016-02-07,0,Medication,Deceased,No,Public
+37c91ee4-71d7-4504-8af6-73c556204162,69,Female,South America,Heart Disease,"Family History, Alcohol Use, Pollution",2018-08-19,2018-09-04,0,Chemotherapy,Deceased,No,Private
+9c4335df-937c-4479-94fc-9bffcf7f7dd8,26,Other,North America,Diabetes,High Blood Pressure,2019-07-04,,8,Medication,Recovered,Yes,Public
+9fab44a9-156f-4dab-b043-a80aa7473592,24,Male,Africa,Heart Disease,"Pollution, High Blood Pressure",2016-09-24,2022-09-03,5,Chemotherapy,Deceased,Yes,Public
+04b1a24f-b45f-43c4-b18d-4decc4b48e21,44,Female,South America,Stroke,Family History,2022-10-14,2024-01-30,1,Medication,Deceased,Yes,Private
+f001cd0a-cfc0-48b9-b62a-67e071fc4418,90,Female,Asia,Kidney Disease,"High Blood Pressure, Pollution, Alcohol Use",2019-04-11,2023-04-20,4,Radiation Therapy,Deceased,No,Public
+02940bc7-c2c2-433f-847f-cf31852119a8,84,Male,South America,Diabetes,High Blood Pressure,2015-11-23,2022-05-18,6,Dialysis,Deceased,Yes,Public
+1a960578-5930-423b-9d0b-52268b9f2670,25,Male,Australia,Stroke,Obesity,2022-11-09,,10,Dialysis,Recovered,Yes,Public
+49204edd-da14-4fa1-94b0-2979df322300,44,Other,Europe,Cancer,"Alcohol Use, Smoking",2022-08-18,2024-02-24,1,Medication,Deceased,No,Private
+fba630c0-233c-46a0-b164-60836d940ed0,43,Female,Australia,Respiratory Disease,Family History,2024-03-31,2024-06-02,0,Surgery,Deceased,Yes,Private
+b47cb08c-8815-4821-a34d-7483e9f9b0c1,48,Female,Europe,Respiratory Disease,"Pollution, Obesity, High Blood Pressure",2015-06-05,,4,Radiation Therapy,Recovered,Yes,Private
+83bb540d-8dea-4a45-b2a4-3ebb444c6099,44,Male,Australia,Cancer,"Pollution, Family History",2021-12-19,2022-05-21,0,Radiation Therapy,Deceased,Yes,Public
+56bf9281-1138-4881-b9e9-d58ae8d48c8e,76,Male,North America,Heart Disease,Alcohol Use,2015-01-07,2022-06-30,7,Radiation Therapy,Deceased,No,Private
+9b0a78d7-262a-4691-90ef-bf7961546136,64,Female,Africa,Diabetes,"High Blood Pressure, Alcohol Use, Pollution",2021-06-23,2024-08-18,3,Dialysis,Deceased,Yes,Public
+3af47e81-4ebc-4d10-ba42-3d56d2196c69,80,Other,North America,Respiratory Disease,Obesity,2016-04-04,2021-05-09,5,Radiation Therapy,Deceased,No,Public
+9006763a-f3a3-416a-b30a-03074639fb4c,66,Female,Australia,Heart Disease,"Alcohol Use, High Blood Pressure, Obesity",2016-06-20,,4,Radiation Therapy,Recovered,No,Private
+40df0e86-6cf8-448d-a88a-c0d916dad5bd,68,Female,Australia,Kidney Disease,"Pollution, High Blood Pressure, Smoking",2014-11-02,2017-10-27,2,Surgery,Deceased,No,Private
+d269fb82-5e25-4b2d-b8cd-c57786ea5e13,53,Female,North America,Cancer,Family History,2020-09-26,2021-08-06,0,Medication,Deceased,No,Private
+ba52c15e-b40d-43b8-8880-825713733991,60,Other,Asia,Cancer,Smoking,2020-12-24,,1,Radiation Therapy,Recovered,No,Private
+656b95f1-009b-43f2-9746-9f9b20daf7bd,20,Female,Australia,Respiratory Disease,"Alcohol Use, High Blood Pressure",2023-09-17,,7,Medication,Recovered,No,Private
+a88bf602-4fa5-4387-af77-f37eea015e91,43,Male,Europe,Diabetes,"Alcohol Use, Obesity, Pollution",2019-11-12,2021-03-07,1,Chemotherapy,Deceased,No,Public
+64765d8b-ffe6-4845-9b3a-cc2293dbea6a,38,Female,South America,Diabetes,"Family History, Obesity",2022-06-25,2022-07-11,0,Radiation Therapy,Deceased,Yes,Private
+45a5a43d-4cb6-40f5-a805-fe3f664b704d,62,Other,North America,Stroke,"Pollution, Alcohol Use",2017-12-12,,2,Dialysis,Recovered,No,Private
+389d9886-c671-41d4-a271-8ea30d45ae9a,78,Female,South America,Cancer,"Obesity, Pollution",2021-02-14,2021-07-16,0,Surgery,Deceased,No,Private
+6e5cc840-5f5d-4960-857e-0202bb5be69b,30,Male,Africa,Stroke,"High Blood Pressure, Obesity",2021-08-14,2022-09-08,1,Surgery,Deceased,No,Public
+4bc1088e-2333-4ec5-9a86-82facf3eba0b,71,Male,Asia,Cancer,"Pollution, Alcohol Use",2021-02-14,2022-06-01,1,Dialysis,Deceased,Yes,Private
+74b021f6-4e95-464f-95ad-ed28ce586b25,64,Other,Australia,Diabetes,Family History,2017-07-24,,3,Surgery,Recovered,No,Public
+ed751ebc-a171-4f45-ae77-b7ff162917f9,79,Female,Australia,Diabetes,Alcohol Use,2018-03-15,2018-09-21,0,Dialysis,Deceased,Yes,Private
+63ec5587-6c1e-4347-a19f-f00a2eafb215,62,Male,Australia,Respiratory Disease,Smoking,2018-03-27,,3,Surgery,Recovered,Yes,Public
+e01ca377-783c-4711-8451-49802ff4cec1,70,Other,North America,Respiratory Disease,Obesity,2019-08-09,2024-05-25,4,Medication,Deceased,No,Public
+83d38522-c7e2-4d0a-a6bc-ef79b6af5dc4,53,Female,Europe,Heart Disease,"High Blood Pressure, Family History",2018-12-17,2022-02-12,3,Medication,Deceased,No,Public
+5041a946-a50e-4632-8d3d-e98c4a7152c5,23,Other,Australia,Respiratory Disease,"Alcohol Use, Smoking, Family History",2019-11-08,,8,Medication,Recovered,Yes,Public
+04cb12f5-2992-4882-a8b4-459e5f123f1b,25,Female,North America,Stroke,"Pollution, Alcohol Use",2021-12-01,,9,Dialysis,Recovered,Yes,Private
+34d46fa3-331e-4cb9-9d58-ceff222ac999,38,Other,Europe,Heart Disease,Smoking,2020-05-21,,7,Surgery,Recovered,Yes,Public
+d62328de-18c5-40b5-87a6-2330fdf39745,20,Male,Europe,Cancer,Obesity,2016-12-24,2023-01-10,6,Radiation Therapy,Deceased,Yes,Public
+bdeead62-3c25-4a42-8edc-9750357d65f9,76,Male,Asia,Stroke,Family History,2022-05-16,,7,Surgery,Recovered,Yes,Private
+e68b992b-6ea8-4eef-9c46-d9e1498198d3,53,Male,North America,Heart Disease,"High Blood Pressure, Obesity",2023-03-10,2024-10-10,1,Radiation Therapy,Deceased,Yes,Private
+9d98cb3c-f21a-4c72-8fab-6d4c633f2b19,21,Other,Australia,Stroke,"Alcohol Use, Family History",2020-12-23,2022-10-23,1,Dialysis,Deceased,No,Public
+a93c09b4-bd68-4fbc-a433-64ce277f9e61,57,Other,Asia,Heart Disease,"Obesity, Pollution",2021-06-23,2024-01-11,2,Medication,Deceased,Yes,Public
+87142556-8836-4a08-9604-c694056570c0,41,Female,Australia,Diabetes,"Pollution, Smoking",2021-12-03,,10,Medication,Recovered,Yes,Private
+68e3e7fe-8d87-42c4-9905-3e50f7c72164,47,Female,Australia,Heart Disease,Family History,2024-09-21,,7,Dialysis,Recovered,No,Private
+32f26c63-274f-4da0-b978-f74f7288004b,27,Female,North America,Heart Disease,Obesity,2017-07-11,2022-08-27,5,Medication,Deceased,Yes,Private
+afcd2fd2-ae18-4e73-9455-353eab01c5df,88,Female,Australia,Stroke,Pollution,2016-12-04,2021-03-10,4,Dialysis,Deceased,No,Private
+f7e0e13c-c67d-4d93-b265-2441e0325ee9,45,Female,Asia,Heart Disease,Smoking,2017-08-14,,5,Surgery,Recovered,No,Public
+45784fdd-f025-4202-9fe8-8f1bf7c34e62,76,Male,Europe,Respiratory Disease,"Alcohol Use, Smoking, High Blood Pressure",2018-01-19,2019-08-17,1,Chemotherapy,Deceased,Yes,Public
+85935f70-1ab0-4f9e-b9d6-e5b03c632863,71,Other,Asia,Stroke,High Blood Pressure,2016-04-28,2020-02-13,3,Radiation Therapy,Deceased,Yes,Private
+6f7f2f01-9d0f-4eaa-8367-a124d4d1443c,22,Other,Africa,Kidney Disease,"Smoking, High Blood Pressure, Family History",2018-06-06,,9,Dialysis,Recovered,Yes,Public
+48bde9ad-2a53-4822-a598-1257692b344a,53,Other,Africa,Kidney Disease,High Blood Pressure,2023-04-06,,2,Surgery,Recovered,Yes,Private
+37de09fe-1a24-4072-9094-e3c6d4ff14f4,32,Other,Europe,Stroke,Alcohol Use,2024-08-27,2024-10-02,0,Radiation Therapy,Deceased,No,Private
+14db6ecf-29be-41ec-85e5-6cb5c8d66612,72,Male,Africa,Cancer,Obesity,2015-05-19,2019-01-02,3,Dialysis,Deceased,Yes,Private
+ecc44f21-a8de-4f0e-b754-7787f1875f30,64,Female,Europe,Kidney Disease,Family History,2023-09-14,,5,Chemotherapy,Recovered,Yes,Public
+3a32f3d5-a31f-40f9-ae69-b5db91aad681,37,Male,Europe,Heart Disease,"High Blood Pressure, Family History, Pollution",2022-10-02,2023-04-05,0,Chemotherapy,Deceased,Yes,Public
+054b98a9-577a-44c2-8fcf-15e4b1373ba7,37,Male,South America,Respiratory Disease,"Obesity, Smoking",2017-07-05,,2,Radiation Therapy,Recovered,Yes,Public
+9487e881-6a1c-4d57-b129-4b29c3e08ab0,86,Other,Africa,Diabetes,"Family History, High Blood Pressure, Pollution",2015-04-21,2024-10-05,9,Surgery,Deceased,No,Private
+f319e9c1-e9dd-41f5-a112-8b11f6f5452a,73,Female,Australia,Heart Disease,"Smoking, High Blood Pressure",2017-11-07,,2,Dialysis,Recovered,Yes,Private
+d1f7e09e-d758-427b-b8fc-698336fc8da2,58,Female,Asia,Diabetes,Obesity,2023-09-07,,2,Radiation Therapy,Recovered,Yes,Private
+091737fd-b25f-49e9-b2d9-a52a597f1d59,67,Male,South America,Stroke,Family History,2017-06-10,2018-12-19,1,Surgery,Deceased,Yes,Private
+ada347d5-ab74-4d84-bd18-de1c5efe0fbe,26,Female,Australia,Diabetes,"Smoking, Family History",2015-08-23,,3,Medication,Recovered,No,Public
+fdc34ca1-ec36-4004-a518-3c58e6f3d42c,82,Female,North America,Heart Disease,"Smoking, Family History",2018-01-30,,5,Dialysis,Recovered,No,Public
+eed59e4f-bb04-45f6-82ae-6e852043d28e,75,Other,Australia,Cancer,Pollution,2017-01-27,2020-06-10,3,Dialysis,Deceased,No,Public
+56c90024-1d5b-4974-a006-45d7acfd2009,60,Male,Africa,Heart Disease,"Smoking, Obesity, Pollution",2015-01-16,2017-07-25,2,Dialysis,Deceased,No,Public
+5448bab7-4454-47d3-b1be-2352555f441e,73,Other,Europe,Cancer,Pollution,2016-01-02,,6,Medication,Recovered,No,Public
+695e8acc-1564-4fb2-8ecd-65fd60bf72bb,28,Male,North America,Cancer,"Family History, High Blood Pressure",2021-03-17,2023-02-13,1,Radiation Therapy,Deceased,No,Public
+0b096084-876a-40a2-bc9d-6b03ae772324,46,Other,Australia,Kidney Disease,"Smoking, Pollution",2016-06-22,2020-12-22,4,Dialysis,Deceased,Yes,Private
+4d210392-079e-4d51-aca6-47b00875b172,51,Other,South America,Cancer,"Alcohol Use, Pollution, High Blood Pressure",2018-10-03,,10,Surgery,Recovered,No,Private
+35339f7c-f080-40dd-8fa8-6987ac18e28b,80,Female,South America,Kidney Disease,"Obesity, Alcohol Use, Pollution",2023-08-22,,9,Surgery,Recovered,No,Private
+5da41491-84bd-4f54-968b-0d74e3b82c59,50,Male,Australia,Cancer,Obesity,2023-09-19,,9,Radiation Therapy,Recovered,No,Public
+c83bd51d-3e2f-4cb3-95fe-33a4770e9a75,83,Male,Australia,Heart Disease,Pollution,2016-09-17,2022-01-15,5,Radiation Therapy,Deceased,Yes,Public
+f6376082-ac3c-4264-b825-c7aaa5e17901,80,Male,North America,Heart Disease,"Smoking, Alcohol Use, Pollution",2024-09-21,2024-10-13,0,Radiation Therapy,Deceased,No,Private
+788424eb-81cd-4c31-82c2-a700f2065a60,47,Male,Asia,Diabetes,"Alcohol Use, Family History, High Blood Pressure",2020-01-04,2024-07-25,4,Dialysis,Deceased,Yes,Public
+6b2fd4d5-ea8b-4d33-82a0-d3faf79ac0c0,29,Male,South America,Stroke,"Alcohol Use, High Blood Pressure, Pollution",2023-08-13,2023-12-01,0,Dialysis,Deceased,No,Private
+09d262c4-6e45-427d-aeaf-47c2c312a497,24,Other,Africa,Heart Disease,Obesity,2016-10-26,2021-07-13,4,Surgery,Deceased,Yes,Public
+25bef86f-03d8-434b-8f10-1ff8a93213d6,76,Male,Europe,Diabetes,"Pollution, High Blood Pressure",2020-09-21,,7,Medication,Recovered,No,Public
+a6f48478-381d-4a91-92e6-ad749bab8c27,29,Other,North America,Respiratory Disease,"Alcohol Use, High Blood Pressure, Pollution",2018-06-22,2020-07-10,2,Medication,Deceased,No,Private
+07181b61-cdb3-4ab8-8a43-2a3f3330ba52,76,Female,Asia,Stroke,"Obesity, Smoking",2018-01-27,2022-02-16,4,Medication,Deceased,Yes,Public
+3db05127-5b96-45a4-b11f-1aa25752c64d,30,Other,Europe,Stroke,Smoking,2021-03-01,,1,Radiation Therapy,Recovered,No,Private
+443c76ec-f3d8-45bf-9c34-44c53ca9b766,67,Female,Europe,Respiratory Disease,"High Blood Pressure, Obesity",2016-07-25,,3,Chemotherapy,Recovered,Yes,Public
+b6047a09-7df9-42a2-adce-2c79b3708f8b,55,Other,South America,Cancer,Obesity,2023-05-04,2024-05-10,1,Medication,Deceased,Yes,Private
+9af5b72c-080f-4ae8-bcb5-8498404e66ad,33,Female,Australia,Respiratory Disease,"Family History, Obesity",2018-09-05,2019-06-22,0,Medication,Deceased,No,Private
+ec692be1-7ee9-4eb5-aa56-cbc0832e4ecf,51,Male,South America,Heart Disease,Family History,2015-07-09,2022-10-24,7,Surgery,Deceased,No,Public
+5da0f65e-815a-4e9b-ba0e-8ab8b7cd1cac,66,Male,North America,Diabetes,Family History,2016-02-15,,9,Surgery,Recovered,Yes,Public
+3dc72407-588c-43d5-b0fa-fccf5df4aefc,42,Male,Europe,Diabetes,"Pollution, Obesity, High Blood Pressure",2018-09-17,2024-10-09,6,Medication,Deceased,No,Public
+7a66fd8a-fd37-4135-a294-746b7e613a32,90,Female,Europe,Diabetes,Obesity,2017-03-10,,5,Radiation Therapy,Recovered,No,Private
+8aa0c5bb-78cd-42b1-b1d8-8fc28e5ee8bf,48,Other,North America,Stroke,Obesity,2023-02-25,2024-01-08,0,Dialysis,Deceased,Yes,Private
+c0382b17-2db9-4454-8c42-65f5ce4ebedd,49,Male,Europe,Heart Disease,"Smoking, Family History, Obesity",2018-02-01,2023-06-30,5,Surgery,Deceased,No,Private
+da6a55a5-914f-4023-b6a2-e7cde4f3925e,28,Other,Australia,Respiratory Disease,"Family History, Obesity, Smoking",2021-02-18,2024-04-01,3,Radiation Therapy,Deceased,Yes,Private
+9f5f2604-7817-4cee-b5f1-abb15eb6bf6e,77,Female,Europe,Cancer,"Alcohol Use, Family History, Pollution",2018-04-18,2019-06-19,1,Surgery,Deceased,Yes,Public
+9364df5e-d2fe-47b4-aba7-5e83d4f66650,85,Other,Europe,Cancer,Family History,2015-03-29,,5,Medication,Recovered,No,Private
+04b67366-a431-4f11-bf57-14050ebe7cb2,74,Other,Europe,Stroke,"Family History, High Blood Pressure, Pollution",2016-10-10,2024-06-23,7,Dialysis,Deceased,Yes,Public
+566c1709-5516-4c20-b320-e3b456f6114f,50,Other,Europe,Cancer,"Smoking, Pollution",2020-09-23,2021-07-29,0,Chemotherapy,Deceased,No,Private
+efd9bae5-a2e0-4fc4-bf35-c265c67c685b,58,Female,Africa,Heart Disease,"Obesity, High Blood Pressure",2016-02-29,,5,Dialysis,Recovered,No,Public
+183c0c78-c054-4783-a3dd-a2ba58ca433e,84,Male,Africa,Heart Disease,"Alcohol Use, Family History",2014-10-19,2024-02-05,9,Radiation Therapy,Deceased,Yes,Public
+ec53aa98-2941-440d-9487-3715b0709a2b,59,Male,Australia,Cancer,Alcohol Use,2020-03-09,,7,Radiation Therapy,Recovered,No,Public
+4b71a40e-3a50-48ce-99dc-853a172abac9,71,Other,Australia,Respiratory Disease,Smoking,2022-02-28,,3,Surgery,Recovered,No,Private
+bf370904-9be7-48e7-a83e-6a92c197db66,85,Other,Asia,Kidney Disease,Pollution,2017-10-18,2022-07-01,4,Chemotherapy,Deceased,No,Public
+7155517d-7e30-4eed-a794-e5810c109d89,35,Male,Australia,Heart Disease,"High Blood Pressure, Family History",2018-06-12,2019-02-07,0,Surgery,Deceased,No,Private
+8632873b-4ac6-4522-b5a2-314dba7ceb6f,43,Other,Australia,Kidney Disease,"Alcohol Use, Smoking, High Blood Pressure",2019-01-18,,7,Surgery,Recovered,Yes,Public
+631f7919-7e8c-4194-8caf-a01d7b88c6c8,50,Male,Africa,Respiratory Disease,"High Blood Pressure, Pollution, Family History",2019-05-21,,1,Chemotherapy,Recovered,Yes,Public
+97f66438-57eb-4ed0-8ae3-db62a6a1da44,20,Other,Asia,Heart Disease,"Pollution, Family History, Alcohol Use",2024-07-02,,7,Chemotherapy,Recovered,Yes,Private
+763cf84e-2f3c-4cb7-959c-e04de21ceb99,24,Female,North America,Respiratory Disease,"Obesity, Family History, High Blood Pressure",2018-05-31,2022-03-09,3,Chemotherapy,Deceased,Yes,Private
+e88a9977-f05e-43bf-8b85-3a4ac46edf16,77,Other,South America,Respiratory Disease,"High Blood Pressure, Pollution",2019-11-10,,6,Dialysis,Recovered,Yes,Private
+1f9b6463-3bea-4f63-a837-aff7bc469eb3,87,Male,Australia,Diabetes,Family History,2019-09-11,2024-09-12,5,Dialysis,Deceased,No,Private
+0a5b558d-550a-4112-958e-c621de8d19e8,32,Male,North America,Respiratory Disease,"Alcohol Use, High Blood Pressure, Pollution",2020-04-10,2023-06-20,3,Dialysis,Deceased,Yes,Private
+f3ce7080-cbd0-4c56-8103-2a264b39f3fc,82,Female,North America,Kidney Disease,"Pollution, Obesity, Family History",2017-08-04,,9,Medication,Recovered,Yes,Private
+86102c5c-37e9-4ab8-b9ab-bf79922a7867,65,Male,Africa,Respiratory Disease,"High Blood Pressure, Smoking, Alcohol Use",2021-09-12,,1,Surgery,Recovered,No,Private
+13a4dabc-ded6-41a5-b288-fecdbdf2b1ec,59,Female,Europe,Kidney Disease,Obesity,2024-03-04,2024-08-27,0,Medication,Deceased,Yes,Public
+126d0093-9990-4b75-8024-2df4aa64cf12,54,Female,Australia,Diabetes,"Family History, Pollution",2019-09-17,2020-11-13,1,Dialysis,Deceased,No,Private
+f79b7202-fea8-48b1-b1ec-9fb686f5f274,24,Other,Africa,Cancer,"Smoking, High Blood Pressure, Pollution",2016-08-16,,10,Chemotherapy,Recovered,No,Public
+14685c8f-39a3-4acb-98cc-c08438a5f4f3,48,Other,Australia,Kidney Disease,"Family History, Obesity",2015-05-24,,8,Dialysis,Recovered,Yes,Private
+08a8f3a2-160e-43f1-b744-a40349a0adda,87,Female,South America,Stroke,High Blood Pressure,2017-09-27,2024-09-24,6,Dialysis,Deceased,Yes,Private
+9753ae96-52f2-422c-a642-189ee0b1817c,53,Female,Europe,Heart Disease,"High Blood Pressure, Family History, Obesity",2022-08-15,,10,Surgery,Recovered,Yes,Private
+e41d8005-fea1-435a-ab2a-1bbdcf75068c,50,Male,Australia,Respiratory Disease,"Pollution, High Blood Pressure",2018-05-23,,6,Dialysis,Recovered,No,Private
+5e367a24-421b-4282-8aa9-f44396de0cc3,74,Female,North America,Respiratory Disease,"Pollution, Alcohol Use",2019-03-17,,1,Dialysis,Recovered,Yes,Private
+f082e47e-8e21-4637-b426-7afd29eea593,79,Female,Asia,Kidney Disease,"Alcohol Use, Family History, Obesity",2020-03-18,,7,Surgery,Recovered,Yes,Private
+6c04235f-a018-4b59-be55-20adb28517c8,80,Other,North America,Kidney Disease,"Obesity, Pollution, Family History",2023-07-28,2024-02-03,0,Surgery,Deceased,No,Private
+e374c291-af22-4938-9962-42dfd85533d3,50,Male,Asia,Stroke,"Obesity, Alcohol Use, Pollution",2020-10-11,,10,Dialysis,Recovered,No,Private
+0d98969b-9005-4fed-87c0-a977a19c22c0,70,Male,North America,Heart Disease,"Alcohol Use, Obesity, Pollution",2015-12-08,,6,Medication,Recovered,Yes,Public
+aabe8be8-36f2-4f4c-aac2-ac58cc50ee55,56,Male,Europe,Cancer,"Smoking, High Blood Pressure, Alcohol Use",2018-05-02,,2,Chemotherapy,Recovered,Yes,Public
+0229d65e-b093-4d79-9628-50282a2677cd,61,Female,Africa,Cancer,"Obesity, High Blood Pressure, Family History",2021-11-04,2022-05-22,0,Chemotherapy,Deceased,Yes,Private
+1fc58fd8-3566-487d-94e9-251b8f48233f,31,Female,South America,Stroke,"Family History, Smoking",2023-03-18,2023-11-01,0,Surgery,Deceased,Yes,Public
+0ffdd776-a66a-47bd-a77a-688277c0c9ba,54,Male,Africa,Diabetes,"Smoking, Pollution, Family History",2021-12-13,2024-08-13,2,Chemotherapy,Deceased,Yes,Private
+4997152a-3c54-4d04-9448-593491560992,66,Other,South America,Stroke,Alcohol Use,2020-07-18,,3,Chemotherapy,Recovered,No,Public
+20adacab-fc50-4102-a334-4804d81db2a7,78,Female,Africa,Heart Disease,Alcohol Use,2023-02-07,2024-01-26,0,Medication,Deceased,Yes,Public
+bb674dfd-fbc7-49c5-84b8-8310e8714b96,32,Male,Africa,Kidney Disease,"Smoking, Alcohol Use, Family History",2019-09-08,2023-11-05,4,Medication,Deceased,Yes,Private
+b6077680-6641-47c9-8a00-1406799ecf88,83,Male,Australia,Cancer,"High Blood Pressure, Family History, Pollution",2018-01-06,,8,Dialysis,Recovered,No,Public
+b842066f-eeab-4df3-af94-2078a4ac0d40,54,Other,South America,Stroke,"Family History, High Blood Pressure",2020-09-08,2021-04-18,0,Dialysis,Deceased,No,Public
+b8c926a4-9438-475f-a1d8-a67efcd11fa0,46,Female,South America,Respiratory Disease,Pollution,2024-08-27,,5,Medication,Recovered,No,Public
+93e8d6ce-82bc-4867-bec7-5aa2c2d5417c,31,Other,Australia,Kidney Disease,"Pollution, High Blood Pressure",2018-06-18,,1,Radiation Therapy,Recovered,No,Private
+623f4458-850b-477b-a4ba-da8b8ff66951,62,Female,North America,Stroke,"High Blood Pressure, Alcohol Use",2020-09-30,2021-12-07,1,Radiation Therapy,Deceased,Yes,Public
+84d8714e-9dc2-4eb3-bb0a-c18a19649768,31,Male,Australia,Cancer,"Obesity, Smoking, Family History",2018-10-05,2023-02-01,4,Medication,Deceased,No,Private
+8fc1c6aa-2ece-4f31-8c71-6c1cc2a8b59f,32,Female,South America,Respiratory Disease,"Obesity, High Blood Pressure, Alcohol Use",2015-08-09,,8,Dialysis,Recovered,Yes,Private
+c0c2d954-8cb0-4d84-95dc-796ffb915ba9,70,Female,South America,Heart Disease,"Alcohol Use, Obesity, Pollution",2022-10-29,2024-01-08,1,Surgery,Deceased,No,Private
+55e4340d-62ff-45b9-9cca-c944bad98629,63,Male,North America,Respiratory Disease,"Pollution, Smoking, Obesity",2023-09-30,,2,Medication,Recovered,Yes,Public
+9c194210-796e-4765-87ab-a40130aba953,73,Female,Africa,Respiratory Disease,Obesity,2021-12-31,,1,Surgery,Recovered,Yes,Private
+9fde6a42-1a18-4945-8f88-d1d772d2c9f3,32,Other,South America,Cancer,Pollution,2023-02-12,,3,Chemotherapy,Recovered,Yes,Public
+4969704b-a6e2-4d5e-8868-62060dab48df,88,Female,Asia,Respiratory Disease,"Obesity, High Blood Pressure, Pollution",2022-09-29,2023-11-22,1,Chemotherapy,Deceased,No,Private
+01aa1e37-f3ef-4204-ab72-c52b9b8785ac,81,Other,Australia,Kidney Disease,"Alcohol Use, Smoking, High Blood Pressure",2023-10-26,,5,Medication,Recovered,Yes,Private
+fd5adf4c-ec2e-4734-94ee-142dc5b1752c,57,Female,Africa,Stroke,"Obesity, Family History, High Blood Pressure",2016-11-12,,9,Radiation Therapy,Recovered,Yes,Private
+3b1a6dcc-a1c1-4d31-8f81-6b101d342905,85,Female,North America,Diabetes,Obesity,2022-02-12,2024-01-13,1,Medication,Deceased,Yes,Public
+d6c017ff-7f9b-48a3-b028-a2f7eb936efa,53,Other,Asia,Kidney Disease,"Family History, Smoking, Pollution",2014-10-17,,4,Dialysis,Recovered,No,Private
+91b20616-49e7-40e6-83d5-8c60038b80b9,75,Female,Europe,Respiratory Disease,"Pollution, Alcohol Use, Smoking",2020-07-09,,8,Medication,Recovered,No,Public
+03023299-f49d-4325-a531-432e0f9bfc71,34,Other,Australia,Respiratory Disease,Pollution,2015-08-13,2020-08-16,5,Medication,Deceased,Yes,Private
+8b880bc9-c71a-41ad-acec-737f5bd72763,55,Other,Europe,Diabetes,"Obesity, Smoking",2017-02-10,,2,Surgery,Recovered,Yes,Private
+4f67068e-3730-4362-ab72-1793e5ab12e3,82,Male,North America,Respiratory Disease,"High Blood Pressure, Pollution",2016-08-06,,3,Dialysis,Recovered,No,Public
+ef874fb9-8a2a-4dc4-b879-6f921d6492c0,54,Male,Europe,Diabetes,"Smoking, Family History",2018-10-28,,5,Chemotherapy,Recovered,No,Public
+6285a136-6574-4e25-8206-16bc1802804f,69,Male,Australia,Cancer,Alcohol Use,2017-10-24,,8,Radiation Therapy,Recovered,Yes,Private
+8f2c372c-9e6b-44d6-a9a2-79b439b33667,52,Female,Europe,Heart Disease,Alcohol Use,2016-11-07,,9,Dialysis,Recovered,No,Public
+2c039428-8ae0-4274-aa20-e0100753b279,64,Male,Australia,Heart Disease,Obesity,2023-04-11,2023-08-22,0,Chemotherapy,Deceased,Yes,Private
+0c306a7f-71c7-40c4-9925-af7dbf890986,57,Female,Asia,Respiratory Disease,"High Blood Pressure, Smoking, Family History",2023-04-02,2023-09-03,0,Chemotherapy,Deceased,Yes,Private
+131a4f2f-b0cb-4e4e-b69d-37d02f15d92f,79,Other,North America,Heart Disease,Obesity,2021-03-13,2023-03-03,1,Radiation Therapy,Deceased,No,Public
+c4d4651e-5279-4ec3-9cd2-d3c40337b17e,80,Female,Africa,Stroke,"Obesity, Pollution, Family History",2018-12-08,2020-09-09,1,Radiation Therapy,Deceased,Yes,Private
+1a33caac-887f-4656-9613-f6fde2e546f4,86,Male,Africa,Stroke,"Pollution, High Blood Pressure",2020-09-20,,6,Surgery,Recovered,No,Public
+56b80cfb-f88b-4223-8923-c68735d9455a,60,Other,South America,Cancer,Obesity,2018-05-02,,5,Chemotherapy,Recovered,Yes,Private
+ec22bcb0-6c6f-4548-815e-e95ef7ef38d9,79,Male,Europe,Heart Disease,Pollution,2020-11-17,,10,Surgery,Recovered,Yes,Private
+afac10a7-f50d-4d9e-bbc7-39077d3d8cb5,68,Other,Australia,Heart Disease,"Family History, Obesity, Alcohol Use",2021-07-11,,7,Medication,Recovered,Yes,Private
+591ba3a1-e611-418a-bc1e-652324e65090,82,Female,Africa,Cancer,Smoking,2015-12-08,,8,Radiation Therapy,Recovered,Yes,Public
+dc44733e-864b-46d8-a639-792d59ac0857,30,Female,Australia,Heart Disease,"High Blood Pressure, Smoking",2018-01-17,,5,Surgery,Recovered,Yes,Private
+218e812b-c1be-475c-9067-887829f9e9ac,45,Male,North America,Kidney Disease,"Pollution, Smoking",2019-07-23,,5,Radiation Therapy,Recovered,Yes,Private
+0b658bf3-704f-42dd-8da2-6452bb47f126,30,Female,Australia,Kidney Disease,"Alcohol Use, Smoking, Pollution",2019-09-03,2019-11-26,0,Surgery,Deceased,Yes,Public
+5748418a-fbb1-47e7-b4f9-ec588f663cec,70,Female,Africa,Kidney Disease,"Pollution, Family History",2016-01-24,,2,Dialysis,Recovered,No,Public
+9034587e-9854-4234-aa11-2ff1b12869d9,24,Male,North America,Cancer,High Blood Pressure,2024-05-28,,6,Dialysis,Recovered,Yes,Public
+9f677e9a-7345-4ac5-9a9c-000b4d42ccc1,21,Male,Asia,Diabetes,Family History,2017-01-29,,10,Medication,Recovered,No,Private
+50f2eb70-766f-4ab0-8a0e-8ee2d5acf3b6,60,Male,Asia,Respiratory Disease,"Smoking, Pollution",2015-12-03,2016-02-04,0,Dialysis,Deceased,Yes,Public
+c38e6baf-4c2d-42e5-b887-289c031eac1c,20,Male,North America,Respiratory Disease,"Alcohol Use, Obesity",2017-09-09,,9,Radiation Therapy,Recovered,Yes,Public
+64595873-1267-42ee-9454-97892b0ff812,31,Male,Africa,Kidney Disease,"Alcohol Use, High Blood Pressure",2022-12-09,2023-11-21,0,Medication,Deceased,Yes,Private
+330669b9-7b50-4682-bd53-e81f2b0a6e10,58,Male,Africa,Cancer,"High Blood Pressure, Family History",2015-10-09,2023-11-28,8,Surgery,Deceased,No,Private
+e0eb5b48-d5e1-4002-855d-d4ae9d053103,84,Female,South America,Diabetes,"Family History, Alcohol Use",2016-01-20,2018-01-21,2,Dialysis,Deceased,No,Private
+22b08fe0-8cfe-4878-b26f-d8cac234e931,78,Male,Australia,Stroke,Family History,2020-03-06,2020-08-04,0,Radiation Therapy,Deceased,Yes,Private
+49fa961d-1bc4-4505-9c02-a460f2818282,79,Other,Africa,Stroke,Pollution,2015-12-02,2024-02-05,8,Medication,Deceased,Yes,Public
+52ec5df4-db40-4859-a106-221d6d480d75,40,Other,South America,Heart Disease,"Obesity, Smoking",2018-09-19,,7,Chemotherapy,Recovered,No,Public
+038aeab3-ba4e-4cb1-ae2a-cea11c9d6d6d,38,Female,Australia,Stroke,"Smoking, Pollution, High Blood Pressure",2020-08-23,2023-08-13,2,Medication,Deceased,No,Public
+67e41851-aabc-403f-bbcb-afd90f06697a,60,Female,Asia,Heart Disease,Alcohol Use,2016-05-12,,3,Radiation Therapy,Recovered,Yes,Private
+b3e43e2d-88bc-4344-b034-cd3541634ddc,28,Other,Australia,Kidney Disease,Alcohol Use,2023-09-19,2024-03-30,0,Dialysis,Deceased,No,Public
+c39520eb-0ec9-4066-bf60-a722d5f9b8af,63,Other,South America,Stroke,High Blood Pressure,2018-01-20,,6,Surgery,Recovered,No,Private
+102352c2-96e8-48e3-b4c5-f8f2598cadaf,23,Female,Asia,Heart Disease,"High Blood Pressure, Alcohol Use, Pollution",2017-11-07,,10,Surgery,Recovered,Yes,Private
+44844139-68a6-431f-a0c5-99ec341d2f21,77,Other,Europe,Kidney Disease,"Pollution, Obesity",2014-12-21,2024-04-11,9,Dialysis,Deceased,Yes,Private
+aa0ac9e4-99c2-4e3c-a32e-6843641ea7dc,53,Male,Africa,Diabetes,Alcohol Use,2019-09-28,,4,Radiation Therapy,Recovered,Yes,Private
+2c8c2902-a082-4cf4-b92b-362b311f89c5,76,Male,Asia,Stroke,"Alcohol Use, Smoking, Pollution",2023-05-29,,8,Dialysis,Recovered,Yes,Public
+d37a2352-0018-4405-8248-c866d0d11740,24,Other,Africa,Diabetes,High Blood Pressure,2022-12-23,2024-05-27,1,Dialysis,Deceased,Yes,Public
+e124a2cf-d1e5-4a87-905d-e39121ce315f,51,Other,North America,Heart Disease,High Blood Pressure,2023-07-19,,1,Surgery,Recovered,Yes,Private
+6ed29d5e-c2c0-4e2c-a9cb-fbc56dc57a71,74,Female,North America,Respiratory Disease,"Obesity, Smoking, Family History",2017-01-01,,7,Chemotherapy,Recovered,Yes,Private
+aae8c65a-7c44-47cd-9ef8-290eaefbe8c9,41,Male,North America,Respiratory Disease,"High Blood Pressure, Alcohol Use, Obesity",2022-04-17,2023-07-15,1,Surgery,Deceased,Yes,Private
+715782e1-b25a-4607-8da8-be8a47a21c3a,65,Female,South America,Heart Disease,Family History,2020-09-13,2024-08-02,3,Chemotherapy,Deceased,Yes,Private
+975c7972-a1ee-40d9-afca-0ad55ea253f7,44,Other,Asia,Diabetes,"Family History, Pollution",2022-01-17,,7,Chemotherapy,Recovered,Yes,Public
+3be798e4-6600-40d3-a4c6-f8d66c69df6f,29,Female,Asia,Cancer,High Blood Pressure,2019-07-26,2020-09-02,1,Chemotherapy,Deceased,No,Public
+5a352d56-1fad-4895-88a7-59ad2cc901a3,75,Male,Australia,Kidney Disease,"Family History, Obesity",2021-07-03,,3,Radiation Therapy,Recovered,Yes,Public
+7f13078c-03f9-4fc6-8141-c6a8f8bf75e4,30,Other,Africa,Kidney Disease,Obesity,2019-06-15,,3,Chemotherapy,Recovered,Yes,Public
+2b8100bd-aa2e-4c23-8829-c54865ad3566,51,Female,Africa,Diabetes,"Alcohol Use, Family History, Pollution",2019-12-26,2024-03-20,4,Chemotherapy,Deceased,Yes,Public
+8e5e1d6b-fa14-4c0f-850d-66b93a01ad6c,44,Female,Asia,Heart Disease,"Obesity, Alcohol Use, Smoking",2023-07-23,,2,Radiation Therapy,Recovered,Yes,Public
+cef3be22-ebe8-45f9-90ce-8cdb5a7973fb,43,Other,Asia,Kidney Disease,Obesity,2023-11-25,,7,Medication,Recovered,No,Public
+c152e549-4d70-4732-bc05-fd2d2f0638f3,49,Other,Europe,Diabetes,Smoking,2015-06-17,,7,Chemotherapy,Recovered,No,Private
+1e064e26-37d0-4c2c-929f-4d0eda61ba11,71,Female,Asia,Diabetes,High Blood Pressure,2015-10-04,,10,Surgery,Recovered,Yes,Private
+bfbaf294-600d-40a6-a580-273ff3dfbab8,64,Other,Europe,Stroke,"Alcohol Use, Family History, Obesity",2022-03-17,,3,Dialysis,Recovered,Yes,Private
+48414a6d-f0f8-4e9a-985e-f0b9631745d7,84,Female,Europe,Kidney Disease,Family History,2017-07-09,2022-09-05,5,Chemotherapy,Deceased,No,Public
+120d852c-fa68-4fe6-b37f-406b87f53c00,88,Female,Europe,Heart Disease,"Smoking, High Blood Pressure, Family History",2020-01-29,,4,Medication,Recovered,No,Public
+e70f7c2b-2408-4aac-b218-d365536e9198,85,Other,Australia,Kidney Disease,"Obesity, Family History",2020-06-15,,8,Surgery,Recovered,No,Private
+2a48e22d-c86c-4857-b9c1-793d9937e714,73,Male,North America,Stroke,Pollution,2023-03-17,2023-07-30,0,Radiation Therapy,Deceased,Yes,Private
+9af2e85c-2490-4af9-9f26-baa7fa38c01e,72,Female,Africa,Stroke,Smoking,2021-07-10,,10,Chemotherapy,Recovered,No,Public
+f049936a-bf4e-403c-b165-be0c1c6da1f3,32,Male,Europe,Respiratory Disease,"Alcohol Use, Pollution, Obesity",2017-02-05,,8,Medication,Recovered,No,Private
+47ab9bdc-402a-48af-b648-7577a7c15de3,77,Female,South America,Stroke,Alcohol Use,2017-05-14,2021-04-03,3,Radiation Therapy,Deceased,Yes,Private
+b085cfd2-e974-4ed3-b567-c2d213aaeeab,50,Male,Australia,Stroke,"Pollution, Smoking",2017-02-05,2021-04-27,4,Surgery,Deceased,No,Private
+d7ec3538-7e7a-4bfc-95b8-0116c2615ab1,64,Other,Asia,Heart Disease,"High Blood Pressure, Smoking, Obesity",2022-12-31,2024-09-19,1,Surgery,Deceased,No,Public
+451bcc35-ee2d-402c-b395-1c9f9e5c0130,35,Male,North America,Cancer,"Alcohol Use, Pollution",2016-11-15,,9,Medication,Recovered,Yes,Public
+b0c4bd26-a91a-43fd-9b0b-7ac93f1f74fb,90,Male,Asia,Kidney Disease,"Smoking, Pollution",2018-06-04,,8,Radiation Therapy,Recovered,No,Public
+67509641-3d63-4976-8e07-eb0fcca1c703,25,Male,Australia,Respiratory Disease,Alcohol Use,2024-02-23,,5,Chemotherapy,Recovered,No,Public
+abef0a3e-8d41-4748-a6a2-a0263054d3df,40,Female,North America,Diabetes,"Smoking, Family History, High Blood Pressure",2021-07-25,,1,Radiation Therapy,Recovered,No,Public
+d04113cc-2495-4cbe-8349-38d9c31b69d5,37,Female,South America,Diabetes,"High Blood Pressure, Alcohol Use",2018-04-20,2019-07-01,1,Radiation Therapy,Deceased,No,Private
+17938002-4155-4724-a1c0-82543d4196e1,78,Other,Australia,Stroke,"Smoking, Family History",2016-10-10,,5,Medication,Recovered,Yes,Private
+4ab4ff1b-0101-4aa8-9fe6-0892c30072fc,31,Female,Europe,Respiratory Disease,"Obesity, Pollution, Smoking",2017-09-25,,9,Chemotherapy,Recovered,Yes,Private
+a97a2a82-6d20-4460-8a6f-a991b70b0e7e,62,Female,Europe,Heart Disease,"Obesity, Smoking, Family History",2020-02-14,2021-04-24,1,Chemotherapy,Deceased,No,Private
+fb0a84be-4bd8-43c1-958b-d6a0b27e23ff,88,Female,Asia,Cancer,"Smoking, Family History",2020-07-29,2024-02-28,3,Chemotherapy,Deceased,No,Private
+2b0f629c-069c-4fa7-8d99-693732f4acbd,81,Other,North America,Respiratory Disease,"High Blood Pressure, Smoking",2016-01-10,2020-06-03,4,Chemotherapy,Deceased,No,Public
+d4bbbe0f-748e-4745-b7d9-fcaea3b224f2,53,Male,Asia,Respiratory Disease,Pollution,2020-01-20,,7,Dialysis,Recovered,No,Private
+d7683e45-f06b-45a2-b05a-d5dcadd7d56b,87,Male,North America,Cancer,"Obesity, Family History",2024-06-05,2024-09-01,0,Surgery,Deceased,No,Private
+e4bdaa0b-35a2-492d-98fd-83cb9290b76e,65,Other,South America,Stroke,"Obesity, Pollution",2021-04-29,,6,Chemotherapy,Recovered,Yes,Private
+0f798215-2206-46b1-8ebb-b6beeab42aba,77,Female,Africa,Respiratory Disease,Alcohol Use,2022-02-06,,1,Dialysis,Recovered,No,Public
+9a6e89ed-30b2-4290-8304-4086789cbf94,27,Male,South America,Cancer,"Obesity, High Blood Pressure",2022-03-15,2023-06-11,1,Medication,Deceased,Yes,Public
+42e86921-b534-4a69-b04d-35a128f5cec2,65,Female,North America,Diabetes,High Blood Pressure,2017-01-02,,2,Radiation Therapy,Recovered,No,Private
+9ee4e4df-dc9c-4058-9f31-fc25011b3a11,25,Male,Europe,Respiratory Disease,Alcohol Use,2021-12-23,2022-08-25,0,Dialysis,Deceased,Yes,Private
+7deaac15-1c93-4666-8891-d35b4cfac6a9,21,Other,Europe,Heart Disease,"Family History, Smoking",2024-10-09,,7,Dialysis,Recovered,No,Public
+55a395f2-caf1-48ac-9892-f0fc29cf143e,22,Male,Australia,Kidney Disease,"Smoking, Pollution, Family History",2022-12-22,2023-08-14,0,Medication,Deceased,Yes,Private
+6f79cadb-f8c1-4efc-8f81-e773fd67b09b,33,Male,North America,Respiratory Disease,Obesity,2018-06-03,2021-07-09,3,Chemotherapy,Deceased,Yes,Private
+a7e66720-1471-41d3-9150-ca256d34a35c,21,Female,Africa,Respiratory Disease,"Smoking, High Blood Pressure",2017-03-18,,8,Radiation Therapy,Recovered,Yes,Public
+a7bbc6be-ddf9-4786-be68-6cdb21ed6bc5,26,Other,Asia,Respiratory Disease,"Obesity, Pollution",2023-10-28,,8,Dialysis,Recovered,Yes,Public
+8d569a49-c026-447b-8a55-0f51d526f15d,56,Male,South America,Heart Disease,"Pollution, High Blood Pressure, Alcohol Use",2021-12-13,2024-08-15,2,Dialysis,Deceased,Yes,Public
+49c248ef-2f0e-44b6-8690-1a9b2be83613,58,Female,North America,Diabetes,"Obesity, Family History, High Blood Pressure",2015-06-14,,3,Dialysis,Recovered,No,Public
+01fb08c1-3b13-404d-ada3-2e330cb77058,30,Female,Europe,Stroke,"High Blood Pressure, Alcohol Use",2015-03-09,,8,Surgery,Recovered,No,Public
+b9fdf728-f3a5-4447-a160-9dc3d019e146,28,Male,North America,Kidney Disease,"Smoking, Alcohol Use, Family History",2017-09-25,2022-05-14,4,Radiation Therapy,Deceased,Yes,Private
+b7c5e06e-ce94-4604-a652-0a79279de0fc,34,Female,Europe,Respiratory Disease,"Pollution, Family History",2018-12-15,2023-03-23,4,Dialysis,Deceased,No,Public
+ec6e68af-062e-449c-9598-9f310bd25359,69,Male,North America,Cancer,"Smoking, Alcohol Use",2021-10-15,2022-12-08,1,Radiation Therapy,Deceased,Yes,Public
+e53352f4-19ce-4fb0-af09-799797bc7668,49,Other,Australia,Heart Disease,"Family History, High Blood Pressure",2018-07-30,,1,Radiation Therapy,Recovered,Yes,Private
+ba21f92b-1579-475b-80bf-da8548fa1748,65,Male,Europe,Heart Disease,Family History,2015-09-25,2019-09-02,3,Surgery,Deceased,No,Public
+e2ad2c63-4e9f-4ac3-90b0-f0a20c90d246,77,Male,North America,Diabetes,Family History,2018-12-05,,9,Surgery,Recovered,No,Public
+17ca88f3-b82d-4dc4-b98f-30df4caeaf1b,22,Other,Africa,Diabetes,"Smoking, Alcohol Use",2021-10-12,2023-03-21,1,Radiation Therapy,Deceased,No,Private
+46d04648-ba54-4c98-94db-ad61267f703f,79,Other,South America,Stroke,High Blood Pressure,2015-10-24,,4,Medication,Recovered,Yes,Public
+e393509e-8f51-43bc-8623-d3df04a2ef95,64,Female,South America,Kidney Disease,"Pollution, Alcohol Use, Family History",2015-07-21,,5,Dialysis,Recovered,Yes,Public
+3d1897f7-24b1-4117-a8f7-d11db808b39d,50,Other,Australia,Cancer,High Blood Pressure,2022-05-04,,8,Surgery,Recovered,Yes,Private
+810d007b-c7be-4a0e-89d8-1b5f63be74fd,42,Female,Europe,Heart Disease,"Alcohol Use, Pollution",2022-05-10,,9,Dialysis,Recovered,Yes,Public
+109a929e-b308-4e58-a249-274545f7e86c,79,Other,Australia,Kidney Disease,"Obesity, Family History",2024-05-19,,9,Medication,Recovered,Yes,Private
+2ccb2ec2-9f30-49a2-bdb1-f211855d8403,63,Female,Australia,Respiratory Disease,High Blood Pressure,2022-01-15,2023-03-23,1,Dialysis,Deceased,Yes,Public
+12209bfe-89bf-4a27-a075-0c129f78c0ca,72,Female,Asia,Heart Disease,Alcohol Use,2019-11-20,,9,Medication,Recovered,No,Public
+5e9450cb-3648-468e-bc74-d1a0afbd3698,71,Male,Africa,Heart Disease,"Smoking, High Blood Pressure",2021-09-09,2024-10-07,3,Chemotherapy,Deceased,Yes,Private
+99a2f2aa-37f3-4237-b2a2-2cbeb207a0db,37,Female,Africa,Diabetes,"Obesity, Family History, Smoking",2024-06-25,2024-07-27,0,Chemotherapy,Deceased,Yes,Public
+7c0dab12-28ef-437b-881e-3c965f040c21,80,Male,Africa,Stroke,"Pollution, High Blood Pressure",2018-07-29,,3,Chemotherapy,Recovered,No,Public
+0821ca97-e51c-44b2-9e36-ade146157b75,75,Female,South America,Stroke,"Pollution, Alcohol Use, Family History",2019-10-16,,6,Surgery,Recovered,No,Public
+0812ce7e-7dc8-41e2-a383-3618453368c3,70,Female,North America,Cancer,"High Blood Pressure, Smoking",2023-10-31,2024-07-05,0,Surgery,Deceased,No,Public
+74ec1a81-553d-4336-9da2-c9dfd37bedc2,74,Female,Europe,Respiratory Disease,"Pollution, High Blood Pressure",2019-02-12,,3,Surgery,Recovered,Yes,Public
+cd2559c3-9d38-4c69-b374-38f448ab2633,24,Other,Africa,Stroke,Obesity,2020-06-22,2023-04-07,2,Medication,Deceased,No,Public
+cde3f63f-1d9c-463b-9e81-dc347860cf51,77,Female,Africa,Cancer,"High Blood Pressure, Alcohol Use",2022-02-20,2023-09-14,1,Radiation Therapy,Deceased,No,Public
+444a4fc6-7bed-45aa-ae33-62a0b10bc898,89,Other,Australia,Heart Disease,Alcohol Use,2016-10-30,2021-05-15,4,Surgery,Deceased,No,Public
+5e0fbaba-5849-4d77-bf80-61fb483e0715,22,Other,North America,Stroke,Smoking,2015-04-02,2021-02-26,5,Surgery,Deceased,Yes,Public
+1d48e426-fb60-47a5-bc07-aa46acb0ce73,26,Other,Europe,Kidney Disease,"Pollution, Smoking",2017-11-14,2023-06-21,5,Medication,Deceased,Yes,Private
+e77ee897-2d29-4269-bfb3-3c441f49af5f,31,Other,Europe,Stroke,"Obesity, Family History, High Blood Pressure",2021-11-14,,6,Medication,Recovered,No,Private
+112fec9b-25ab-4654-9055-c8e25f646267,22,Female,Australia,Stroke,Family History,2017-10-16,,5,Dialysis,Recovered,Yes,Private
+6b867d4d-d549-430d-9640-d163db16344e,39,Female,Africa,Kidney Disease,Pollution,2020-09-28,2021-03-04,0,Medication,Deceased,Yes,Private
+b793e233-3259-45f3-988a-28068f3a1cb4,76,Other,South America,Cancer,Obesity,2014-11-16,2019-01-28,4,Medication,Deceased,Yes,Private
+b761af42-c381-4cb6-93a0-f472e6af81c6,37,Male,Africa,Respiratory Disease,"Alcohol Use, Pollution",2021-04-07,,1,Dialysis,Recovered,Yes,Private
+7e0b8c1b-8e15-4bd8-be55-acba179b85a4,33,Male,Asia,Kidney Disease,"Alcohol Use, Pollution, High Blood Pressure",2015-06-22,2019-06-17,3,Radiation Therapy,Deceased,Yes,Private
+523ecf22-91d5-4144-832e-155b40b6fbe6,40,Other,Europe,Heart Disease,"Family History, Pollution",2022-01-24,,2,Surgery,Recovered,Yes,Private
+57cd9247-8e08-4144-be43-555c51a40080,55,Male,Europe,Heart Disease,"Smoking, High Blood Pressure",2016-08-11,2018-12-29,2,Medication,Deceased,No,Public
+245babc6-1700-4517-a036-2c0b411c2946,65,Female,Europe,Respiratory Disease,"Pollution, Family History",2021-08-17,,8,Dialysis,Recovered,No,Private
+1bfd43a9-c76b-4926-b4d3-bb2d4cd27e2b,20,Other,Australia,Respiratory Disease,"Obesity, High Blood Pressure",2017-02-20,2024-10-03,7,Medication,Deceased,No,Private
+bbe72819-6776-433d-bd27-2b1d83c3284f,40,Male,Asia,Cancer,"Alcohol Use, High Blood Pressure, Smoking",2022-03-29,2024-08-27,2,Dialysis,Deceased,Yes,Private
+d6e7742e-11cc-4556-8f9a-b96b14e2b2d3,59,Male,Europe,Cancer,Pollution,2020-01-24,2020-09-19,0,Dialysis,Deceased,Yes,Private
+7589a481-1033-4c2d-92f5-7ce9ecb32cf5,29,Other,North America,Cancer,"High Blood Pressure, Obesity",2019-03-24,2022-06-18,3,Surgery,Deceased,No,Public
+dc257dba-0592-436c-977b-2ec5f1f90e15,31,Female,South America,Diabetes,"Obesity, Family History, High Blood Pressure",2017-10-20,2019-10-01,1,Medication,Deceased,Yes,Public
+92ea0bd8-a442-4169-9c57-5bbd7623c24c,61,Female,Asia,Respiratory Disease,"Alcohol Use, Smoking, High Blood Pressure",2017-04-30,2023-07-20,6,Surgery,Deceased,No,Public
+6b23ccf5-1185-4b86-beec-51642f4dd2bb,24,Other,North America,Diabetes,Smoking,2017-02-03,2017-04-30,0,Medication,Deceased,Yes,Public
+065144a8-3f1d-4f49-a37c-56b48677de50,45,Female,Asia,Cancer,"Obesity, Alcohol Use, High Blood Pressure",2022-03-20,2023-11-27,1,Dialysis,Deceased,Yes,Public
+9f7fdd5a-7cd2-472b-b849-9d462bf92ba9,82,Other,Africa,Cancer,"Smoking, Pollution, Alcohol Use",2019-02-09,2019-06-24,0,Chemotherapy,Deceased,Yes,Private
+1a9b1790-19d0-42a5-8d8e-65f73bf201cb,54,Male,Asia,Respiratory Disease,"Pollution, High Blood Pressure",2024-05-05,,3,Surgery,Recovered,Yes,Private
+b00f2adb-daa0-49f8-9e6b-b09d888d67a7,88,Other,North America,Heart Disease,Alcohol Use,2017-03-15,2021-05-02,4,Chemotherapy,Deceased,No,Public
+6de67aad-a27e-4196-b70b-a49a2045b9e0,67,Female,North America,Cancer,"High Blood Pressure, Family History, Obesity",2015-07-07,,6,Dialysis,Recovered,No,Public
+49dfb11a-42ba-4d89-8ce7-57908ead2dcd,59,Female,Asia,Cancer,"Alcohol Use, Pollution",2017-07-12,,10,Dialysis,Recovered,Yes,Public
+b7e95e95-adec-4110-bb7a-8ea14ab082b0,49,Other,North America,Heart Disease,Pollution,2017-06-01,2020-01-07,2,Dialysis,Deceased,Yes,Public
+b544bfc7-1930-425a-9428-f65714bae7c1,51,Female,North America,Diabetes,"Alcohol Use, Family History, Smoking",2021-12-17,,2,Chemotherapy,Recovered,No,Private
+0cdb769e-84c5-4fb0-989f-fc7aaf205379,48,Female,South America,Respiratory Disease,"Alcohol Use, Family History",2019-03-26,,3,Radiation Therapy,Recovered,Yes,Public
+89824ee9-c6a3-4ea6-a870-52144f740bd5,27,Other,Africa,Heart Disease,Family History,2021-11-29,2022-04-24,0,Medication,Deceased,Yes,Private
+fbdadc40-16a6-4fc2-baf4-18335c8406af,54,Male,South America,Cancer,"Obesity, Family History, Pollution",2016-06-06,,8,Chemotherapy,Recovered,No,Public
+679ed8db-62f5-4796-998b-94fbed8d09f3,80,Other,South America,Heart Disease,"Alcohol Use, Smoking, Obesity",2016-12-15,2021-08-16,4,Chemotherapy,Deceased,Yes,Public
+db361212-59c1-4c2b-a81b-bc2ee374f7e4,45,Female,Australia,Kidney Disease,"Pollution, Smoking, Family History",2024-06-04,,5,Surgery,Recovered,No,Private
+4415ee58-8b65-498a-80f5-d76b9cbd2d56,59,Female,Asia,Cancer,"Pollution, Smoking",2021-01-01,,9,Dialysis,Recovered,No,Private
+40b3bb0d-f1ee-4f17-be5d-4c7985a42cfd,41,Female,Asia,Diabetes,"Obesity, High Blood Pressure, Family History",2016-10-26,2019-10-30,3,Dialysis,Deceased,No,Private
+9538269c-88ce-4225-8e2f-2f913f7ff2e7,78,Other,Asia,Diabetes,"Smoking, High Blood Pressure, Pollution",2021-06-03,2023-06-16,2,Medication,Deceased,Yes,Private
+5f6efebd-7d87-46f3-aa76-2bcd45e5b8ac,29,Male,Australia,Diabetes,"High Blood Pressure, Smoking, Obesity",2023-02-22,2024-05-14,1,Dialysis,Deceased,No,Public
+2672b691-8cc7-45eb-ae10-6f4f6b8d2a60,47,Female,Australia,Kidney Disease,"Pollution, Alcohol Use",2016-01-25,2018-09-07,2,Dialysis,Deceased,No,Public
+d152055c-bd61-4e24-840a-2142713a42fb,34,Female,Asia,Cancer,"Pollution, Alcohol Use",2016-06-04,,1,Chemotherapy,Recovered,Yes,Public
+740822b4-af12-42f1-87fc-774e160534bb,46,Male,Africa,Cancer,"Obesity, Family History",2020-02-28,2022-01-25,1,Radiation Therapy,Deceased,Yes,Public
+f91334b0-3e47-4aa4-bde3-834495c1ab93,54,Male,North America,Stroke,"Smoking, High Blood Pressure, Obesity",2018-05-03,,6,Dialysis,Recovered,No,Public
+46073b4e-0020-411e-af04-4c36c1de64c7,53,Female,Australia,Stroke,"Obesity, Pollution, Alcohol Use",2015-08-28,,2,Medication,Recovered,No,Private
+bec6eaf0-2f06-43ac-b520-f336d3e403a7,34,Female,Europe,Diabetes,"Family History, High Blood Pressure",2016-05-01,2023-11-02,7,Chemotherapy,Deceased,No,Public
+279747d4-d75a-47ec-b33f-3db60a586fa7,63,Female,Australia,Respiratory Disease,"Alcohol Use, Obesity, Pollution",2014-10-18,2022-08-12,7,Dialysis,Deceased,Yes,Private
+ea143c9c-1074-42e4-8bcd-90a7950d1e94,59,Female,Australia,Cancer,"High Blood Pressure, Smoking",2019-02-12,2020-02-27,1,Radiation Therapy,Deceased,Yes,Public
+74d875de-e66c-4164-893e-042d8143e6c7,54,Other,South America,Cancer,High Blood Pressure,2023-06-12,2023-09-21,0,Surgery,Deceased,No,Private
+7d44e4c8-dc22-436e-8616-75adee3c8435,35,Male,South America,Diabetes,"Smoking, Pollution, Obesity",2017-11-25,,9,Radiation Therapy,Recovered,No,Public
+cf13b14f-2e2a-405b-99c6-035ffff251be,73,Other,Africa,Kidney Disease,"Obesity, Alcohol Use, Pollution",2024-04-08,2024-06-19,0,Radiation Therapy,Deceased,Yes,Private
+c0cfc12b-b313-43e4-b044-f2895a689143,31,Male,Europe,Diabetes,Obesity,2015-07-28,,3,Dialysis,Recovered,Yes,Public
+0a6e204c-738e-4d39-af82-e7b8b780b50b,90,Other,Africa,Cancer,"Pollution, Alcohol Use, High Blood Pressure",2020-07-11,,7,Chemotherapy,Recovered,No,Public
+af492dc7-6ee2-4741-a78e-79413884f516,31,Male,Africa,Cancer,"Obesity, Family History",2024-02-13,,6,Chemotherapy,Recovered,Yes,Private
+d98a7b4d-987c-4479-b237-25f97c4352ea,44,Female,Australia,Stroke,Obesity,2021-07-11,,6,Chemotherapy,Recovered,Yes,Public
+43213040-3594-43ee-aa05-8e3a58be6c28,54,Male,Europe,Cancer,Pollution,2023-02-14,2023-10-11,0,Dialysis,Deceased,No,Private
+b38bad08-d585-4232-bd06-0e6041654540,31,Male,Europe,Kidney Disease,"Pollution, Family History, High Blood Pressure",2021-06-13,2024-03-31,2,Surgery,Deceased,No,Private
+348ee184-4d7b-43d1-83d3-b5dc6b5d22e9,89,Male,South America,Respiratory Disease,"Pollution, Obesity, Alcohol Use",2016-01-17,,1,Chemotherapy,Recovered,No,Public
+e5f69a62-ccc9-46c3-b7bc-bcf010fe346e,86,Other,South America,Diabetes,"Obesity, High Blood Pressure",2018-06-22,2021-07-31,3,Surgery,Deceased,Yes,Private
+8184b801-72ad-47f1-99f8-819336f11985,27,Other,North America,Diabetes,"High Blood Pressure, Obesity, Alcohol Use",2020-05-20,,9,Surgery,Recovered,Yes,Public
+8e3be06d-644b-4b7e-9fba-1f7c5643f8f3,43,Other,Australia,Heart Disease,"Alcohol Use, Smoking",2017-10-02,2021-01-22,3,Medication,Deceased,Yes,Private
+27255de4-3ade-447d-8607-ff297f9abeee,79,Female,Europe,Kidney Disease,Family History,2023-06-15,2024-08-11,1,Medication,Deceased,No,Public
+20f04f69-c78d-4c2d-bc22-78b8cf8ceba3,45,Other,South America,Diabetes,"High Blood Pressure, Pollution",2020-02-08,2023-07-19,3,Chemotherapy,Deceased,Yes,Public
+13f39ada-dca0-44d2-810f-ec143fa63d07,53,Male,Europe,Respiratory Disease,Smoking,2016-03-03,,3,Surgery,Recovered,Yes,Public
+ae3faa13-972f-4953-a6e1-bd3177dbbb0e,27,Female,Australia,Cancer,"Alcohol Use, Family History",2022-08-11,,9,Dialysis,Recovered,No,Private
+7a9abbe4-48e8-4fd2-96f4-6477be3d1d26,43,Male,Africa,Respiratory Disease,High Blood Pressure,2023-09-06,,7,Surgery,Recovered,Yes,Private
+a81641d6-3bd4-44e1-93f4-43e49a0a8e41,60,Male,South America,Respiratory Disease,Smoking,2023-06-11,2024-01-24,0,Radiation Therapy,Deceased,Yes,Public
+819a1a30-a88e-4262-8bd1-7b452dd262fb,56,Other,Australia,Diabetes,"High Blood Pressure, Smoking, Family History",2016-05-11,,3,Chemotherapy,Recovered,No,Private
+e9f79d96-5c1a-49b3-91be-a6261a7a535e,79,Female,Africa,Respiratory Disease,"Pollution, Family History",2024-03-01,,2,Radiation Therapy,Recovered,No,Public
+51fc06ff-20e4-40fd-8cc6-450883246b7f,63,Other,North America,Cancer,Alcohol Use,2023-05-08,,1,Surgery,Recovered,No,Private
+44e26cf5-4f62-4228-b319-c32ce211dc46,84,Male,Australia,Diabetes,"Pollution, Family History, Obesity",2019-09-07,2019-12-02,0,Chemotherapy,Deceased,No,Public
+c987e80e-dbb0-42a7-aa78-d5d06a18289d,52,Other,Africa,Stroke,Family History,2019-06-24,,4,Radiation Therapy,Recovered,Yes,Public
+22d6ce90-12ea-40b1-9b2f-0d36608db7c2,25,Female,Australia,Diabetes,"Family History, High Blood Pressure",2020-06-07,2023-10-14,3,Chemotherapy,Deceased,Yes,Private
+2088dff9-76ca-4680-9d58-b48a29c0c05c,39,Female,Europe,Stroke,Obesity,2019-12-08,,5,Dialysis,Recovered,Yes,Public
+1d7d37a1-7308-423a-9f3e-bde441db9506,50,Other,Africa,Kidney Disease,Obesity,2024-08-17,,5,Dialysis,Recovered,No,Public
+bd1aa4d7-2173-472f-91a6-a145fcd1d701,47,Male,Asia,Heart Disease,Smoking,2021-10-18,,5,Medication,Recovered,Yes,Private
+b3c303a4-17df-4f85-9603-1fa82a494326,85,Male,Australia,Kidney Disease,"Pollution, Obesity, Alcohol Use",2016-02-15,,3,Dialysis,Recovered,Yes,Public
+523208c3-6472-46fb-b30f-33591b76f7a2,59,Male,Asia,Stroke,"High Blood Pressure, Alcohol Use",2017-06-29,2022-11-11,5,Radiation Therapy,Deceased,No,Public
+b248306e-bb97-44fb-93d2-73bb88bb19af,28,Female,Australia,Respiratory Disease,Pollution,2023-05-23,,3,Medication,Recovered,No,Public
+b5edcd65-a750-4ae0-b204-cd3680f0b530,76,Female,South America,Stroke,Obesity,2024-04-03,,7,Chemotherapy,Recovered,No,Public
+6d7e3e38-87c9-48bd-9ffe-91a605e91ff7,40,Other,Europe,Diabetes,Obesity,2016-03-01,2019-01-24,2,Dialysis,Deceased,No,Private
+d2556c73-387f-4bc6-a324-ce112b4e5331,58,Other,Africa,Kidney Disease,"Pollution, Family History",2015-03-02,,3,Surgery,Recovered,Yes,Private
+3d288056-3bdd-49f9-b535-92032bd88e94,82,Other,Asia,Heart Disease,"Pollution, Smoking, Alcohol Use",2023-06-23,2024-07-09,1,Dialysis,Deceased,Yes,Public
+b5356865-5385-49ff-a03f-d67581813214,56,Other,Africa,Heart Disease,"Family History, Smoking, Alcohol Use",2022-05-14,2024-05-14,2,Surgery,Deceased,Yes,Private
+b70e2b90-66d2-41c9-a461-eeb04f091ee0,50,Other,Africa,Kidney Disease,"Obesity, Alcohol Use",2016-11-27,2017-10-29,0,Radiation Therapy,Deceased,Yes,Private
+414405b5-f10e-4424-b0db-f4c002ba0871,51,Other,Europe,Cancer,"Family History, High Blood Pressure, Obesity",2016-05-25,2019-05-05,2,Radiation Therapy,Deceased,No,Private
+1756d1a0-6331-435b-b8cb-1fbe6cf074e7,68,Other,North America,Diabetes,"High Blood Pressure, Smoking, Pollution",2016-05-05,,3,Radiation Therapy,Recovered,Yes,Public
+1903803b-2b85-4a25-aebe-aaa3f9353e23,68,Male,Asia,Diabetes,Pollution,2023-11-09,2024-04-21,0,Dialysis,Deceased,No,Public
+41db8c66-0811-4ae1-a7e6-66687854b9c7,30,Female,South America,Kidney Disease,Pollution,2014-12-18,2018-02-04,3,Medication,Deceased,No,Private
+fd5226e8-5d83-446d-820f-a3c92418ef1c,22,Other,North America,Respiratory Disease,Smoking,2015-07-12,2020-08-05,5,Medication,Deceased,No,Private
+26adedfe-080f-4603-92ad-90d697c59778,46,Female,Africa,Heart Disease,Pollution,2022-02-24,2022-08-08,0,Surgery,Deceased,No,Public
+17393f1e-886f-4a94-a284-c00202eed737,50,Other,South America,Stroke,"High Blood Pressure, Smoking",2020-02-14,2020-12-28,0,Medication,Deceased,Yes,Public
+0c3dc5c4-ba40-4200-94ba-7e66f9d68fe7,74,Female,North America,Heart Disease,"Family History, Pollution, Smoking",2022-10-10,2024-02-09,1,Radiation Therapy,Deceased,No,Public
+43272f13-f11f-4d23-95ab-20bf2290f379,84,Other,South America,Stroke,Alcohol Use,2020-08-27,2024-08-23,3,Chemotherapy,Deceased,No,Private
+33c4eaa6-8777-4198-a5d1-da6cc800510f,79,Other,Africa,Heart Disease,"Alcohol Use, Obesity, Family History",2021-02-18,,6,Surgery,Recovered,Yes,Public
+7ef8d5fa-df49-484f-8ce5-0c4c09c07f2e,43,Female,Australia,Heart Disease,Obesity,2020-07-29,2022-04-16,1,Surgery,Deceased,Yes,Public
+80503300-2877-47d6-8a29-3275ef9092b1,45,Female,South America,Cancer,"Alcohol Use, Obesity, Smoking",2021-07-02,2021-12-27,0,Surgery,Deceased,Yes,Private
+eee0cd20-a739-4201-a19a-a1e9b4236f9f,40,Other,Asia,Heart Disease,Pollution,2022-11-12,,2,Medication,Recovered,No,Private
+fb2705b9-78fb-4ec1-bb9e-5f9db09824a0,69,Female,Africa,Stroke,"Family History, Smoking",2019-01-19,,6,Medication,Recovered,No,Public
+6443ad03-a405-4593-970a-4c33375913af,23,Male,Europe,Respiratory Disease,"High Blood Pressure, Alcohol Use, Smoking",2024-08-12,2024-09-12,0,Dialysis,Deceased,No,Public
+6cbe3125-68d8-4a1a-a60b-251687d3f658,27,Male,Europe,Respiratory Disease,"High Blood Pressure, Obesity",2017-05-04,,7,Dialysis,Recovered,Yes,Private
+6d501a88-3e4f-4ff5-92ff-f940d9eb3b3f,38,Female,Africa,Stroke,High Blood Pressure,2018-01-15,2022-12-05,4,Dialysis,Deceased,Yes,Public
+1e81dfab-bfb6-42c4-b928-d3c052ed4503,45,Male,Asia,Cancer,Obesity,2023-10-08,,4,Medication,Recovered,Yes,Public
+6509e12e-bf65-4f11-a84c-44b1db8c8ded,39,Male,Africa,Stroke,Pollution,2024-06-12,2024-06-17,0,Radiation Therapy,Deceased,Yes,Private
+f214ecfa-4de5-4e61-be80-7e12b8c1bb36,58,Male,North America,Cancer,"High Blood Pressure, Smoking, Alcohol Use",2018-05-12,2022-11-28,4,Medication,Deceased,Yes,Private
+5d193620-23f0-4b6c-ac87-f55bd6112e3e,81,Male,North America,Cancer,"Obesity, Family History, Pollution",2022-07-16,2023-12-15,1,Dialysis,Deceased,No,Public
+8681aba0-4e72-4df3-84c6-8a8408d64816,51,Other,Asia,Kidney Disease,"Family History, Pollution, High Blood Pressure",2017-07-07,,6,Surgery,Recovered,Yes,Private
+f3b445d7-e5d5-4b18-ac82-8720e85c8ef6,68,Female,Australia,Cancer,High Blood Pressure,2016-11-07,,7,Chemotherapy,Recovered,No,Public
+7e2c3b4f-0fea-4a1a-9776-b2b062543007,89,Male,South America,Kidney Disease,Obesity,2022-09-08,,8,Medication,Recovered,Yes,Private
+c2405e56-0d81-436d-8c0b-3aa5a8e3d1af,32,Other,South America,Diabetes,High Blood Pressure,2018-03-29,,2,Dialysis,Recovered,No,Private
+a3ba3abb-4d5a-4baa-9347-efef23db6f7a,87,Male,North America,Respiratory Disease,"Family History, Alcohol Use, High Blood Pressure",2023-01-25,2024-09-01,1,Chemotherapy,Deceased,Yes,Private
+a98a286a-a1bd-4c9c-8727-0f24d8b8fc47,52,Other,South America,Respiratory Disease,"High Blood Pressure, Smoking",2019-09-13,,5,Surgery,Recovered,No,Private
+22a57051-def8-434c-8da3-9f76166f2056,51,Other,Europe,Respiratory Disease,"High Blood Pressure, Pollution, Family History",2015-12-02,2017-07-19,1,Surgery,Deceased,No,Private
+fbc5915f-b2cb-463d-aae2-3089e4acd3d7,27,Male,Australia,Diabetes,"Pollution, High Blood Pressure, Alcohol Use",2022-03-13,,3,Medication,Recovered,No,Public
+4129ab84-de5d-42cc-9287-2d42fa3f6d80,23,Other,Australia,Cancer,"High Blood Pressure, Alcohol Use, Pollution",2015-02-06,2017-10-04,2,Radiation Therapy,Deceased,No,Public
+56637ed0-12b3-4ad0-8ef6-28e87fee8710,39,Female,Europe,Kidney Disease,"Pollution, Smoking, Family History",2017-11-24,,2,Radiation Therapy,Recovered,No,Private
+f9efa860-ec26-4c56-81a4-1b9764c32f52,50,Other,Australia,Kidney Disease,"Smoking, Alcohol Use",2024-06-16,,3,Chemotherapy,Recovered,No,Public
+98572e8f-f43c-4883-8dc6-4277bafafbf5,48,Female,Europe,Heart Disease,"Pollution, Family History",2015-02-23,2015-04-22,0,Chemotherapy,Deceased,No,Private
+0074258a-0b82-4cf7-ab65-7474ab1da58c,65,Female,Europe,Respiratory Disease,"Alcohol Use, Family History, Obesity",2022-07-19,,5,Radiation Therapy,Recovered,No,Private
+1b48c038-7594-486d-a9db-c9bae28c16a9,59,Female,Asia,Cancer,Alcohol Use,2015-12-11,2024-10-15,8,Surgery,Deceased,No,Public
+1675de5e-2dd4-4b69-8d82-09793195144e,54,Female,South America,Cancer,"Alcohol Use, High Blood Pressure",2023-05-11,2023-10-27,0,Radiation Therapy,Deceased,No,Private
+c6b5eab8-2381-4930-837a-964625b9f7a5,23,Female,South America,Stroke,"Smoking, High Blood Pressure, Obesity",2019-12-11,,6,Medication,Recovered,No,Public
+b1f6249c-9252-4b44-ae4a-32dbc2c3227f,58,Female,Australia,Heart Disease,"Obesity, Family History",2017-12-31,,8,Dialysis,Recovered,Yes,Private
+f4dad7d9-5a90-4055-978f-6887bcab9d9a,87,Female,North America,Diabetes,"Pollution, Obesity",2023-04-24,2024-01-15,0,Surgery,Deceased,No,Public
+75127099-c420-4471-ab15-e26463b83f9f,21,Male,Asia,Diabetes,Pollution,2016-08-25,,8,Surgery,Recovered,Yes,Private
+2f032be8-b53c-4866-9583-ba3d4c47325f,85,Female,Europe,Kidney Disease,"High Blood Pressure, Obesity",2021-04-10,,4,Surgery,Recovered,Yes,Private
+18abbff3-a703-428b-af14-8e61fddbdd99,20,Other,North America,Kidney Disease,"Smoking, Pollution",2016-07-17,2023-06-10,6,Medication,Deceased,No,Private
+0881f4f2-956d-40d6-b9e5-ed0c231e442e,81,Female,Africa,Heart Disease,"Family History, High Blood Pressure",2023-03-08,,8,Radiation Therapy,Recovered,Yes,Public
+dc4483e0-86fd-4d58-bdb9-dc9a379ed18a,77,Female,Europe,Cancer,"Obesity, Family History, Alcohol Use",2017-10-17,,6,Radiation Therapy,Recovered,Yes,Private
+7a766b6f-6fa5-4317-aae8-07150d4e590d,89,Other,Africa,Stroke,"Pollution, Alcohol Use, Family History",2024-03-14,2024-04-26,0,Medication,Deceased,No,Public
+2f5b0fd3-c77c-4b8c-b4e8-9bca581c07cb,56,Other,North America,Respiratory Disease,Obesity,2023-11-29,2024-07-24,0,Radiation Therapy,Deceased,Yes,Public
+ca1bbcf0-5496-4cc3-a778-461162d6f08b,34,Other,South America,Kidney Disease,"Alcohol Use, Smoking, Family History",2019-09-01,,6,Surgery,Recovered,No,Private
+c7518e91-fbf1-4b2e-a64b-2fc3530def50,33,Female,Australia,Heart Disease,"Smoking, High Blood Pressure",2015-01-09,,1,Surgery,Recovered,No,Public
+ae920137-7219-4b83-b76a-d89eae68ee97,26,Female,Asia,Respiratory Disease,High Blood Pressure,2018-03-17,,5,Chemotherapy,Recovered,No,Public
+c6d2f8df-a49c-46fc-a0d1-735d348d42e7,41,Other,Australia,Diabetes,"Alcohol Use, Pollution, Smoking",2017-02-05,,2,Radiation Therapy,Recovered,Yes,Public
+b230bcca-21d2-4549-a1ad-72ead05240dc,30,Female,Australia,Respiratory Disease,"Alcohol Use, High Blood Pressure",2019-09-06,,1,Dialysis,Recovered,No,Public
+692d7788-c6cd-41ea-93df-341e8bea1394,44,Other,Africa,Respiratory Disease,Pollution,2022-07-25,2023-01-04,0,Surgery,Deceased,Yes,Private
+6c782059-6ed3-4afb-affc-aa546bb0ae1d,57,Female,Europe,Stroke,Smoking,2020-08-08,2023-08-10,3,Chemotherapy,Deceased,No,Private
+245b89c3-bbba-47ab-b044-89370102f0b6,38,Female,Asia,Diabetes,Alcohol Use,2019-04-25,,1,Surgery,Recovered,No,Private
+321756e5-02b9-40d7-b557-9e070ac5a915,87,Other,Asia,Stroke,Family History,2021-12-19,2024-09-26,2,Surgery,Deceased,Yes,Public
+bc40037f-ce80-429d-90fb-ae59a6c84374,78,Male,South America,Respiratory Disease,"Alcohol Use, Smoking",2021-12-01,,1,Chemotherapy,Recovered,Yes,Public
+5ec7deba-12ab-4e70-9840-f36af9347f0e,88,Male,Europe,Heart Disease,"Smoking, High Blood Pressure",2015-01-22,2017-09-27,2,Dialysis,Deceased,No,Private
+3276c216-5d0c-48e1-acda-51bd8ec5d55d,22,Male,Asia,Heart Disease,"Pollution, Obesity",2020-10-12,,2,Surgery,Recovered,No,Private
+05eb13d6-16f5-44ea-9c29-b1a7b5f430ad,71,Male,Europe,Respiratory Disease,"Pollution, Alcohol Use, High Blood Pressure",2021-02-15,2023-12-20,2,Surgery,Deceased,Yes,Public
+8aa6de41-be01-4f9c-a55b-c7e9a9377869,72,Female,North America,Respiratory Disease,Family History,2017-01-27,2024-06-19,7,Radiation Therapy,Deceased,Yes,Private
+0e297e45-f1d2-49d5-b538-2b322103a227,79,Male,Asia,Respiratory Disease,"Obesity, Pollution, High Blood Pressure",2022-12-15,,5,Surgery,Recovered,Yes,Public
+137924fb-aae4-4318-bb7f-c93b386912b2,21,Other,Australia,Kidney Disease,"Smoking, Alcohol Use, Pollution",2019-01-17,,3,Surgery,Recovered,Yes,Public
+9482f071-d152-4ce8-934a-0b4db871b83e,27,Female,Australia,Kidney Disease,Family History,2016-07-22,2022-04-10,5,Medication,Deceased,Yes,Public
+2c72e8fe-6a10-49a5-ac74-18187ec808fd,88,Female,Europe,Kidney Disease,Alcohol Use,2016-12-25,,9,Dialysis,Recovered,Yes,Private
+54d94132-a99b-492f-9a89-c4d848ef5baa,73,Female,Europe,Stroke,High Blood Pressure,2022-10-01,,2,Surgery,Recovered,Yes,Private
+368e695c-8702-4e5b-a81a-38899d465b1f,85,Other,Asia,Cancer,"Obesity, Smoking, Family History",2015-12-29,,7,Medication,Recovered,Yes,Private
+3aec5936-85d5-4387-b289-a4ba7aefd3b9,63,Other,Asia,Heart Disease,Smoking,2016-03-07,2021-08-13,5,Dialysis,Deceased,Yes,Public
+6fdcc1de-a719-40c9-b5d5-b1eecf449821,86,Other,Australia,Cancer,"Smoking, High Blood Pressure, Family History",2018-12-01,2023-04-10,4,Surgery,Deceased,No,Private
+5cf1126d-fdc6-4a1c-9ab2-fdae1cc17638,36,Other,Australia,Stroke,"Smoking, Obesity, Family History",2019-01-07,,9,Dialysis,Recovered,No,Private
+5986f1a2-72dd-4d59-9809-33afe56fdee4,29,Male,Africa,Heart Disease,"Obesity, High Blood Pressure, Alcohol Use",2016-11-12,2020-06-07,3,Dialysis,Deceased,Yes,Private
+d265bf37-f18c-4ad0-8b8a-c9e8c2899af4,74,Other,North America,Stroke,"Obesity, Alcohol Use",2021-12-19,2024-08-05,2,Surgery,Deceased,Yes,Private
+281e85d2-7e5e-4ad7-9e19-6dc4157af85c,80,Male,South America,Heart Disease,"Smoking, Alcohol Use, Pollution",2024-09-08,,6,Chemotherapy,Recovered,Yes,Public
+fcd34c61-3c50-4414-8b3b-32e865420e40,27,Male,Africa,Cancer,Alcohol Use,2023-03-13,2023-09-11,0,Surgery,Deceased,Yes,Private
+9d9395ed-d045-41ec-a986-9fdbd0c270e1,72,Male,Africa,Stroke,Family History,2022-04-26,,7,Chemotherapy,Recovered,Yes,Public
+3d1f7833-6b10-4e96-966c-89b4feb992d3,53,Other,South America,Cancer,"Alcohol Use, Smoking",2016-12-23,2017-12-21,0,Chemotherapy,Deceased,Yes,Private
+a8af319d-4a83-4d5e-9d7e-4afe73a95e29,42,Male,Asia,Respiratory Disease,"Pollution, Alcohol Use",2019-08-08,2022-08-19,3,Surgery,Deceased,No,Private
+2e83a74a-f87b-4217-890d-5f3c512ebea0,80,Male,South America,Cancer,Pollution,2020-08-31,,6,Dialysis,Recovered,Yes,Private
+20a4a8c3-9510-4d12-8d5e-efc343c37d03,33,Other,Europe,Heart Disease,Alcohol Use,2017-12-22,2022-07-16,4,Medication,Deceased,Yes,Public
+aef1313e-67c7-456f-b915-33e026b0143e,61,Female,Europe,Diabetes,"Smoking, Pollution",2017-08-11,2021-05-29,3,Dialysis,Deceased,Yes,Private
+0a50de01-3ee1-4809-a215-da15c4c2d864,89,Male,North America,Kidney Disease,"Family History, Obesity",2015-06-02,2019-03-04,3,Chemotherapy,Deceased,No,Private
+bbfcd4ec-a5db-4b71-b248-48a6a6aa4fa2,69,Female,North America,Kidney Disease,"Smoking, Alcohol Use",2015-10-16,2015-12-15,0,Surgery,Deceased,No,Public
+c3c7a4c4-0e67-48fa-99dd-3f74db41e89e,67,Other,Africa,Heart Disease,"Family History, Obesity",2016-05-27,2023-06-18,7,Radiation Therapy,Deceased,No,Public
+cabf8386-2f32-4ff2-84cd-4c22839e7726,56,Female,Australia,Respiratory Disease,"Pollution, Obesity, Smoking",2018-01-25,2024-10-07,6,Radiation Therapy,Deceased,Yes,Public
+e18c8283-321f-4cd1-94b6-a7df8db18cd1,54,Female,Australia,Diabetes,"Obesity, Family History, Alcohol Use",2021-03-08,2022-08-30,1,Surgery,Deceased,No,Private
+bda0d38d-2b63-4f5d-b64f-7e5e646e55c2,66,Female,South America,Diabetes,"Pollution, Smoking, High Blood Pressure",2020-05-17,,1,Surgery,Recovered,No,Private
+0e6815db-edc8-4426-b08c-331a2a6b5097,62,Other,Asia,Respiratory Disease,"Family History, Obesity",2023-02-04,,9,Surgery,Recovered,No,Public
+2cb7d0e2-5e0f-4b79-9953-a287b63aa758,52,Female,Australia,Kidney Disease,Smoking,2017-04-10,,5,Medication,Recovered,Yes,Public
+eecd13a1-fcac-4387-8797-8cca22933cba,79,Male,Africa,Respiratory Disease,Obesity,2015-02-08,,5,Radiation Therapy,Recovered,No,Private
+6312e43c-5732-4373-bc2e-6ba82186f330,41,Female,North America,Diabetes,"Pollution, Alcohol Use",2021-08-14,,6,Dialysis,Recovered,No,Private
+47707df5-e693-47a4-9a6f-96ff45b644a5,39,Female,Australia,Stroke,"Alcohol Use, Family History",2015-10-12,,1,Radiation Therapy,Recovered,Yes,Private
+1f371505-ff44-402d-a93d-cc0151c4d2e5,67,Female,Asia,Stroke,"Alcohol Use, Obesity, Family History",2021-11-27,,6,Radiation Therapy,Recovered,No,Public
+717ce128-e29c-495c-9fd9-3c42bc9760f8,38,Male,Europe,Stroke,Alcohol Use,2022-01-27,2023-03-30,1,Surgery,Deceased,Yes,Private
+242d8af4-ae32-4282-95c5-84d88d509e00,84,Female,South America,Heart Disease,Obesity,2020-11-22,,10,Chemotherapy,Recovered,No,Private
+72ce45dd-67c4-4d38-bd89-2b3829220029,45,Male,Australia,Heart Disease,"Smoking, Pollution, High Blood Pressure",2023-02-11,,1,Dialysis,Recovered,No,Public
+d2d90226-cb19-4b25-9092-5a9aed335dc3,22,Other,Africa,Kidney Disease,"Pollution, Smoking",2020-10-03,,10,Surgery,Recovered,Yes,Private
+e9d140fa-07aa-4c3c-a96d-a7a42f380fc2,65,Male,Australia,Stroke,"Smoking, Pollution, Obesity",2018-03-13,,9,Radiation Therapy,Recovered,Yes,Private
+0022d50e-66bf-4376-99fc-d2a36a5224c4,29,Female,Asia,Heart Disease,"Family History, Pollution, Alcohol Use",2020-10-02,,1,Surgery,Recovered,No,Public
+5c38ccec-a777-438e-8b03-a8d7ad542b4f,33,Male,North America,Cancer,Alcohol Use,2020-03-12,,9,Dialysis,Recovered,No,Public
+9f3e20ad-ac1a-48a2-a2db-80f68b561642,39,Other,North America,Stroke,"Family History, Pollution",2016-07-23,,5,Medication,Recovered,Yes,Private
+44be2de4-4bb3-41e8-8c26-dcc0dbe6845e,44,Male,North America,Stroke,"High Blood Pressure, Pollution, Smoking",2021-05-11,2022-05-29,1,Radiation Therapy,Deceased,Yes,Private
+f8bfaae1-411d-450d-b2ca-c108ac39b036,65,Other,Asia,Diabetes,"High Blood Pressure, Pollution, Smoking",2024-05-27,,5,Medication,Recovered,Yes,Private
+fbe72df5-8e13-4dfd-a583-426c5ff568fd,68,Female,Europe,Diabetes,Family History,2014-11-23,2015-04-17,0,Dialysis,Deceased,No,Private
+203c8d70-ee0e-4b22-bdb5-444ca09f573b,73,Male,Asia,Kidney Disease,Smoking,2018-04-04,2022-05-14,4,Surgery,Deceased,Yes,Public
+4872be5a-0c86-4f27-91bb-6f9217c6be11,68,Male,South America,Diabetes,"Alcohol Use, Pollution",2018-07-28,,5,Dialysis,Recovered,Yes,Private
+5820f8a1-e92d-4a18-94b7-c3d913476ebd,82,Female,North America,Stroke,"High Blood Pressure, Smoking",2023-08-29,,6,Chemotherapy,Recovered,No,Private
+8b5b00cd-f154-4f55-81fe-0816bd1d534e,45,Other,Australia,Respiratory Disease,"Smoking, Family History",2023-01-14,2024-07-26,1,Dialysis,Deceased,Yes,Public
+b170987e-4267-4255-9ec7-91c72c5c5513,60,Male,Europe,Diabetes,Pollution,2022-12-21,2024-07-10,1,Medication,Deceased,Yes,Private
+13a0a479-0e19-42e4-9b92-9628b780f751,30,Other,Europe,Kidney Disease,Obesity,2016-06-07,2022-11-11,6,Dialysis,Deceased,No,Public
+04858de0-e68f-4c24-b581-20cecf3fc108,77,Female,Asia,Kidney Disease,"Smoking, Pollution, Obesity",2020-07-11,,4,Radiation Therapy,Recovered,No,Private
+9e88e916-5b7a-46e0-ad06-2ceaa0dcf98a,64,Other,Africa,Stroke,"Obesity, Family History, High Blood Pressure",2018-11-04,2023-10-14,4,Medication,Deceased,Yes,Private
+f743b06d-d7bc-444c-af41-d1cab297b804,89,Male,North America,Respiratory Disease,"Pollution, Family History, Smoking",2019-09-20,,6,Chemotherapy,Recovered,Yes,Private
+2631ad38-eb16-45b2-b74a-a6c99cb10b28,77,Other,North America,Heart Disease,Smoking,2021-12-09,,4,Radiation Therapy,Recovered,No,Public
+bb7d7f1d-8a14-4c12-9098-1cb7635fe6c6,83,Other,North America,Stroke,"Pollution, High Blood Pressure, Alcohol Use",2015-05-02,,1,Medication,Recovered,No,Private
+5c6bd010-3754-4709-9467-117c563cd2f0,50,Female,Australia,Kidney Disease,"Pollution, Family History",2018-11-27,2022-10-16,3,Dialysis,Deceased,Yes,Public
+a5a64ae9-505c-4309-86b0-72363088d375,52,Male,North America,Heart Disease,Obesity,2021-06-29,2022-09-15,1,Medication,Deceased,No,Private
+1db46691-7b80-461c-a1f6-18a5902a5e78,86,Other,Australia,Cancer,Alcohol Use,2021-11-27,,10,Radiation Therapy,Recovered,No,Private
+f5adfbbf-3a4c-4968-9fd9-19e3ca4a99b7,68,Female,North America,Heart Disease,Smoking,2019-08-13,2023-06-03,3,Radiation Therapy,Deceased,Yes,Public
+696dfdec-7109-4541-91fe-b0216fb63ec9,33,Female,Asia,Heart Disease,"Alcohol Use, Smoking, Family History",2018-07-26,2024-03-21,5,Chemotherapy,Deceased,No,Private
+02064458-5349-4ad6-94ac-95b630997047,73,Female,Australia,Diabetes,Pollution,2015-05-23,,3,Surgery,Recovered,No,Public
+5b20261e-9279-4db5-8991-e2211549896b,49,Other,Europe,Stroke,"High Blood Pressure, Alcohol Use, Obesity",2022-10-20,,4,Chemotherapy,Recovered,No,Public
+ac37c11f-3a5f-423a-84b1-0cc07e59d696,30,Female,South America,Cancer,Family History,2017-07-11,,4,Medication,Recovered,No,Private
+a69198ed-2bb8-4019-b915-5333f8a049ad,42,Male,Europe,Cancer,Obesity,2024-09-22,,8,Medication,Recovered,Yes,Private
+49771e80-ae14-4ea2-ad36-a9a178b1b642,72,Male,North America,Respiratory Disease,Pollution,2015-07-08,2024-08-20,9,Radiation Therapy,Deceased,No,Public
+07af7645-ac46-4640-91d2-277a3d67c8ba,83,Male,North America,Stroke,"Obesity, Pollution",2023-05-14,2023-07-31,0,Dialysis,Deceased,Yes,Private
+9c542c54-c2b0-4d21-af02-4dbd99c8a854,83,Other,Australia,Respiratory Disease,"Obesity, Smoking, Family History",2017-06-11,,3,Chemotherapy,Recovered,No,Private
+2c7cc2fd-0dca-4047-a0d9-bd3e3aa2e9ab,76,Other,Europe,Respiratory Disease,Obesity,2024-08-02,2024-10-02,0,Surgery,Deceased,Yes,Public
+c582b58e-8a71-4320-8a7d-f1eec969ff3b,66,Other,Australia,Respiratory Disease,"Obesity, Family History",2023-04-12,2024-09-15,1,Chemotherapy,Deceased,Yes,Private
+5498c6bd-3cfb-4bf3-b556-f4fe199f6a27,56,Other,Europe,Cancer,"Alcohol Use, Smoking, High Blood Pressure",2015-10-27,2021-11-22,6,Dialysis,Deceased,No,Public
+06d3bacb-a691-43d2-8e9d-aa3b895a540e,40,Female,Africa,Kidney Disease,Pollution,2022-07-24,,2,Radiation Therapy,Recovered,No,Public
+a784c36b-42c8-41fe-9781-df2987f5cd67,68,Female,Africa,Heart Disease,"Pollution, Smoking",2016-01-30,,10,Radiation Therapy,Recovered,No,Private
+2326e47b-f114-4f20-ad3d-90a56836dd85,25,Male,Africa,Heart Disease,"Pollution, High Blood Pressure, Alcohol Use",2017-05-17,2020-12-20,3,Surgery,Deceased,No,Private
+ccfe6e46-187e-44c2-a627-2032b9ec3a50,81,Male,Africa,Respiratory Disease,"Obesity, Pollution, Alcohol Use",2019-11-07,,1,Medication,Recovered,Yes,Private
+507b0140-1906-4b50-9158-a76367040e2e,75,Male,South America,Heart Disease,"Family History, Obesity",2021-05-16,2023-10-14,2,Dialysis,Deceased,No,Public
+2d29276b-1236-4ed4-b353-50edf58056b5,72,Male,South America,Diabetes,Alcohol Use,2018-09-21,2019-01-02,0,Radiation Therapy,Deceased,No,Private
+25d20578-773a-40c7-9439-4bbe42a32d49,51,Other,Asia,Respiratory Disease,"Obesity, Smoking",2014-11-18,2022-05-12,7,Medication,Deceased,Yes,Public
+8ffdc21d-b788-468c-8841-9092de1e15ae,83,Other,South America,Respiratory Disease,"Alcohol Use, Pollution",2023-10-30,,4,Surgery,Recovered,Yes,Private
+19d16378-c80e-4e14-a1b6-e0cda7e6a2e1,48,Other,Australia,Respiratory Disease,"Family History, Pollution, Obesity",2022-08-20,2023-08-06,0,Dialysis,Deceased,Yes,Public
+e3f6dd1b-8c61-4a4d-8a89-eb3a826f504d,45,Female,Africa,Respiratory Disease,"Smoking, Family History",2017-10-21,2022-10-21,5,Medication,Deceased,Yes,Public
+c30e5546-8662-4c47-bcac-05778d9a3951,33,Other,North America,Cancer,"Obesity, Alcohol Use",2017-10-16,2019-02-28,1,Dialysis,Deceased,No,Public
+b6ccd704-b9e6-459d-a64b-8d85c88622e7,63,Male,North America,Stroke,Pollution,2018-04-10,2023-03-11,4,Radiation Therapy,Deceased,No,Private
+6e25e66d-7a97-451d-ba15-273fac370b8f,42,Male,Africa,Cancer,"Family History, Obesity, Smoking",2016-12-27,2020-05-13,3,Surgery,Deceased,No,Private
+d6052f32-8dc9-4c49-8c60-72288736f09d,51,Female,Australia,Diabetes,Obesity,2021-12-26,2024-05-16,2,Surgery,Deceased,No,Public
+6ea50853-79ca-4ef3-9f6d-a018e5f40b21,84,Male,Europe,Respiratory Disease,"Smoking, Family History, Pollution",2019-10-30,,3,Surgery,Recovered,Yes,Public
+1d35dbdf-e8aa-435d-858b-8b9bced899a0,59,Other,South America,Kidney Disease,Family History,2016-02-16,2022-10-30,6,Radiation Therapy,Deceased,Yes,Private
+b32cf5af-658c-4c00-86eb-bc2b770c7789,60,Male,Australia,Cancer,"Family History, High Blood Pressure",2015-12-30,2017-11-01,1,Chemotherapy,Deceased,Yes,Public
+28472c0f-f45f-4900-952d-58c3bea946b9,21,Female,Europe,Respiratory Disease,"Obesity, Family History, Pollution",2020-01-14,2022-02-22,2,Dialysis,Deceased,No,Private
+0ea50716-82b7-4a44-b225-c1fb342eaab9,76,Female,Asia,Kidney Disease,"Smoking, Family History, Obesity",2021-09-24,2024-04-24,2,Dialysis,Deceased,Yes,Private
+33bb5eb3-5ab7-4145-b3cd-637ae8317988,79,Other,Australia,Kidney Disease,"Alcohol Use, Obesity",2016-09-05,2021-06-05,4,Dialysis,Deceased,No,Private
+38a2bcda-c0f8-4733-af76-b2d2c15f7cbc,34,Male,Africa,Diabetes,"Family History, High Blood Pressure, Alcohol Use",2020-02-08,2020-08-10,0,Radiation Therapy,Deceased,Yes,Private
+aef520fa-10f7-4b66-b502-95ebcd17b05f,37,Male,Africa,Kidney Disease,"Smoking, Pollution",2016-07-31,2024-04-01,7,Medication,Deceased,Yes,Private
+f4c00a9f-30da-46b9-b4f9-1f3684fe8a6b,60,Male,Asia,Diabetes,Smoking,2023-05-04,,8,Surgery,Recovered,No,Private
+3a7dd8cf-cdd7-4d77-b23f-b07803413cba,73,Other,Asia,Kidney Disease,Pollution,2016-02-23,,10,Medication,Recovered,Yes,Public
+a225e4e2-9799-411d-9f4c-b1658517f94a,52,Male,North America,Heart Disease,"Alcohol Use, High Blood Pressure",2016-06-10,2023-11-29,7,Medication,Deceased,Yes,Public
+81ef971f-d6d2-463c-99d6-55f407c7631a,50,Other,Europe,Stroke,"High Blood Pressure, Alcohol Use",2020-02-16,,9,Chemotherapy,Recovered,No,Private
+1084312d-0235-424d-9a2a-300017e2ecc6,68,Other,North America,Heart Disease,"Family History, Alcohol Use, Smoking",2018-12-25,,3,Chemotherapy,Recovered,No,Public
+0896fc57-06e2-41e0-8a9b-2d61c25e8918,61,Other,North America,Cancer,"Smoking, High Blood Pressure, Pollution",2017-01-11,,3,Dialysis,Recovered,No,Private
+2f304f65-06d1-425a-a50e-5acb993ac11c,67,Other,Asia,Kidney Disease,"Pollution, Alcohol Use",2018-10-22,2020-07-31,1,Dialysis,Deceased,No,Public
+6fd857c6-ec03-47cf-b1eb-71c06b70ee64,64,Female,North America,Stroke,"High Blood Pressure, Pollution",2024-09-17,,8,Radiation Therapy,Recovered,No,Private
+fee77445-a817-4248-8e2a-8c5fc9a7c398,69,Male,Asia,Kidney Disease,"Smoking, Alcohol Use, Family History",2015-06-28,2023-09-26,8,Radiation Therapy,Deceased,No,Private
+a4662700-1da0-4fc7-bbd6-7501e8772fb7,29,Other,Asia,Diabetes,"Smoking, Obesity",2015-04-09,2021-03-08,5,Dialysis,Deceased,Yes,Private
+3568d6f4-d7c4-4be7-a3fd-520e7373a6a8,87,Other,Europe,Stroke,"Pollution, Alcohol Use, Obesity",2022-04-01,,4,Chemotherapy,Recovered,No,Private
+e53a8175-429d-4701-987b-4886fe7ccd7b,21,Male,Australia,Stroke,"Obesity, Smoking, Pollution",2017-09-25,2020-11-29,3,Chemotherapy,Deceased,Yes,Private
+eda0d7bf-174e-420c-acf3-68f997cb0bf1,25,Female,Europe,Heart Disease,Obesity,2018-01-05,2019-07-14,1,Radiation Therapy,Deceased,Yes,Private
+32a9bb34-5ef3-4fbb-a618-0593ff4c85bd,33,Other,Europe,Diabetes,"Family History, Alcohol Use, Obesity",2014-10-17,2018-07-20,3,Radiation Therapy,Deceased,Yes,Public
+e839388d-bbd7-432e-a1a2-3a72c701d785,30,Female,Asia,Stroke,Alcohol Use,2015-07-29,2021-05-29,5,Surgery,Deceased,Yes,Public
+351b0158-2193-4dc9-9489-757492ac030f,55,Male,South America,Respiratory Disease,Smoking,2022-06-07,2023-02-11,0,Surgery,Deceased,Yes,Private
+efe476bd-098f-4394-a750-081de56347b9,37,Female,South America,Diabetes,Smoking,2018-07-06,,1,Radiation Therapy,Recovered,No,Private
+7e49fc82-ed21-4072-9974-88eed7d79f94,44,Female,South America,Respiratory Disease,Family History,2020-02-26,2023-11-29,3,Chemotherapy,Deceased,Yes,Private
+ea8cba3b-9627-4c5c-9f17-66e378c95851,52,Female,North America,Cancer,"High Blood Pressure, Family History, Smoking",2019-12-27,,10,Surgery,Recovered,No,Private
+e81160f3-c942-4767-84bc-4801169a3b70,25,Other,Europe,Kidney Disease,Alcohol Use,2019-11-03,2024-05-24,4,Chemotherapy,Deceased,Yes,Private
+63be519b-4b5f-49fa-881e-5e0f294d25a4,76,Female,North America,Stroke,"Obesity, Smoking",2020-04-11,,6,Medication,Recovered,No,Private
+c3e1eb6a-4aa4-4cb3-9c22-bab9a4d02a4e,51,Male,Africa,Respiratory Disease,"Pollution, High Blood Pressure",2017-05-02,,9,Chemotherapy,Recovered,Yes,Public
+81c0653f-4530-4718-8c30-e465e6c7a93c,53,Male,Asia,Respiratory Disease,"Alcohol Use, Pollution, Smoking",2015-12-12,,2,Dialysis,Recovered,No,Private
+44436570-f06c-42fb-abb8-dbac90a4c6a2,73,Other,Asia,Cancer,"Smoking, Alcohol Use",2015-04-29,2021-01-25,5,Surgery,Deceased,Yes,Public
+59e85f8f-2a79-482e-8a46-8a5ce3b9db68,79,Female,Europe,Heart Disease,"Family History, Obesity",2023-09-15,,3,Medication,Recovered,Yes,Public
+9859a429-615d-4d35-9e75-a951eaa84025,24,Other,Asia,Respiratory Disease,Family History,2022-07-05,,5,Medication,Recovered,Yes,Public
+67f43bae-f296-4110-b5b1-061f9b03f6ce,79,Female,Asia,Stroke,"Obesity, Family History",2020-02-08,2022-05-10,2,Dialysis,Deceased,No,Public
+362e6871-dada-4323-bb0a-b8f1cdf57c85,56,Female,Africa,Heart Disease,"Smoking, Pollution",2021-12-28,2022-08-26,0,Chemotherapy,Deceased,No,Public
+3ea5f1fe-5b57-457c-8f9c-143c8023cff3,44,Female,Africa,Diabetes,Alcohol Use,2017-02-03,,9,Medication,Recovered,Yes,Private
+e53f97cc-e845-431e-baf6-98555d749a25,68,Female,Australia,Respiratory Disease,"Family History, High Blood Pressure",2019-03-04,2024-07-13,5,Dialysis,Deceased,Yes,Private
+7036ad87-a162-4a46-877e-e8dfd5f08968,49,Male,Asia,Cancer,"Family History, Smoking, High Blood Pressure",2019-06-24,,9,Radiation Therapy,Recovered,Yes,Public
+67b84874-ac81-4215-8cbc-dac4150bd32e,29,Other,South America,Kidney Disease,"Alcohol Use, Family History, Smoking",2015-10-17,,2,Radiation Therapy,Recovered,Yes,Private
+364d649a-f0ef-41a2-9d60-933f2459ebc9,69,Male,North America,Cancer,"Obesity, Alcohol Use, High Blood Pressure",2019-02-05,,1,Surgery,Recovered,No,Private
+f35d13de-44ee-4c30-b687-051eaf41ebd6,20,Other,Europe,Diabetes,"Family History, High Blood Pressure, Pollution",2023-02-19,2023-05-30,0,Radiation Therapy,Deceased,No,Private
+10ba3187-8fa5-4367-be84-363370998fb8,68,Male,Asia,Heart Disease,"Obesity, Family History, Pollution",2022-06-17,2023-08-15,1,Medication,Deceased,Yes,Public
+6b1043d5-402a-4480-9a3a-4e89477eb6c8,20,Male,South America,Diabetes,"Smoking, Pollution",2023-09-13,2024-07-20,0,Surgery,Deceased,No,Private
+7bb14384-9422-409b-ae75-b4174d679491,35,Male,North America,Cancer,"Family History, Pollution, Smoking",2017-10-01,,2,Dialysis,Recovered,No,Private
+f43df9da-1914-4a7b-a50f-c31b01ac433a,42,Male,Australia,Heart Disease,Alcohol Use,2015-06-14,,5,Radiation Therapy,Recovered,No,Private
+c7dad487-731f-464e-9c6a-0f5bce180be8,62,Female,Asia,Stroke,"Family History, Pollution",2017-06-27,2021-12-31,4,Chemotherapy,Deceased,Yes,Private
+51095c46-0b6a-446c-9a8a-b324554bb0e6,40,Male,Asia,Heart Disease,Pollution,2021-07-16,,4,Radiation Therapy,Recovered,Yes,Public
+646ca2a3-328c-40f6-a882-6199fa5beefd,43,Female,North America,Heart Disease,Family History,2018-03-27,,9,Surgery,Recovered,No,Public
+47aee82d-8c2d-4d22-adb9-183e8388ebb6,84,Other,Europe,Diabetes,"Family History, High Blood Pressure",2020-07-10,,10,Chemotherapy,Recovered,Yes,Public
+660d177b-c90a-4eda-b51a-0740f328c8f3,73,Female,South America,Heart Disease,Family History,2017-09-01,2020-05-14,2,Radiation Therapy,Deceased,No,Public
+5cfdb1eb-3e94-4c9d-af8e-53b6d8f84d9f,29,Male,South America,Respiratory Disease,"Alcohol Use, Family History, Pollution",2018-03-27,,10,Dialysis,Recovered,Yes,Private
+e7ff0ef6-bfb9-4163-97c5-091c665c4e89,49,Female,North America,Stroke,"Smoking, High Blood Pressure, Family History",2021-03-21,2024-05-01,3,Radiation Therapy,Deceased,No,Private
+a56162fd-7d70-4fcf-80a9-f213ef7129b1,84,Female,Australia,Respiratory Disease,Family History,2022-06-04,2023-04-08,0,Dialysis,Deceased,Yes,Private
+32d1aa85-e3dc-4c4b-98b9-e9a0dadbf6e9,85,Female,Australia,Cancer,High Blood Pressure,2017-05-27,,10,Radiation Therapy,Recovered,Yes,Public
+af6d19bd-2ffb-4dbd-bf23-a95d9a630b1b,34,Male,Asia,Diabetes,High Blood Pressure,2023-07-11,,9,Surgery,Recovered,No,Public
+e4672d19-d6fd-464e-9d16-794f1a5c9be8,27,Male,Australia,Cancer,"Family History, Pollution",2018-03-12,2023-07-18,5,Surgery,Deceased,Yes,Private
+9a0714b0-d287-48a4-b594-42db78882cc9,65,Other,Africa,Cancer,"Pollution, Alcohol Use, Family History",2017-12-01,2018-07-18,0,Dialysis,Deceased,No,Public
+59fcb131-5deb-425a-9bf8-59ef21d0ea90,51,Female,South America,Respiratory Disease,Pollution,2021-12-02,2022-12-07,1,Surgery,Deceased,Yes,Private
+d7f2105e-d3f5-4d84-bf86-833814d985c4,25,Male,South America,Kidney Disease,"Pollution, Obesity, Alcohol Use",2018-05-03,,1,Radiation Therapy,Recovered,Yes,Public
+41f55ecb-5bba-491b-aa30-1fe04bb583eb,22,Female,Europe,Kidney Disease,Alcohol Use,2023-03-25,2023-12-29,0,Surgery,Deceased,No,Private
+ab714b55-a2d3-49e4-bc64-7c475675cc04,24,Female,Asia,Heart Disease,"Family History, High Blood Pressure, Smoking",2016-06-14,,3,Surgery,Recovered,No,Private
+a87aad45-c92d-4702-bafb-e6b50c2ce42d,57,Female,North America,Cancer,Smoking,2020-05-19,,3,Radiation Therapy,Recovered,Yes,Private
+fff34d56-ff5c-4ea0-a99d-4c39180abc2f,65,Male,Asia,Kidney Disease,"Smoking, Obesity",2017-05-24,,5,Radiation Therapy,Recovered,Yes,Public
+d9e94b2c-eab8-409e-831c-91b086f99d60,68,Other,South America,Respiratory Disease,"Alcohol Use, Obesity",2015-12-03,2021-02-25,5,Dialysis,Deceased,No,Public
+7664f309-68b2-4cd4-ac7a-882d118ab1e6,25,Female,Europe,Stroke,"High Blood Pressure, Smoking, Obesity",2020-05-11,2024-05-29,4,Chemotherapy,Deceased,No,Public
+5ea815de-ce32-4a52-bbef-37a97c1a62b1,24,Female,North America,Cancer,Alcohol Use,2016-12-23,,6,Dialysis,Recovered,No,Private
+acd70796-7581-4ec2-9991-d5c5ae2ed4c8,32,Male,Asia,Stroke,Pollution,2022-04-09,2022-05-13,0,Chemotherapy,Deceased,Yes,Private
+c3be0483-19fa-4abd-b03f-95d58a42d817,66,Male,Asia,Respiratory Disease,"Family History, Alcohol Use",2021-11-29,2023-10-14,1,Radiation Therapy,Deceased,Yes,Private
+b77ab4e2-dd6d-476e-8ba8-6ae05708d4eb,46,Female,Africa,Diabetes,Smoking,2022-06-01,2023-07-17,1,Chemotherapy,Deceased,Yes,Private
+3814fd2f-6b8c-489a-8fab-15f6729c7e1d,81,Female,Australia,Stroke,"Alcohol Use, Smoking, Obesity",2016-05-12,,6,Radiation Therapy,Recovered,No,Private
+f5db8af8-f8b6-44bb-9d03-48e8b25e9ebc,28,Female,South America,Diabetes,"High Blood Pressure, Alcohol Use",2017-10-13,,1,Surgery,Recovered,No,Private
+215b5240-5dd2-463b-93c6-48b87b071166,60,Female,South America,Diabetes,"Obesity, Family History",2017-11-16,,7,Chemotherapy,Recovered,No,Public
+6c45bbe9-ce4c-489e-9ff3-8c633baa4677,54,Male,Europe,Respiratory Disease,Alcohol Use,2020-01-28,,10,Surgery,Recovered,No,Public
+dafb2b4b-0620-4f75-8368-3140da8c9960,40,Male,Asia,Kidney Disease,"Pollution, Obesity",2015-04-23,2016-04-06,0,Dialysis,Deceased,No,Private
+721715d6-aa10-4fe5-b3b5-788e62d89490,76,Other,North America,Kidney Disease,"Alcohol Use, High Blood Pressure",2018-09-20,2020-10-28,2,Chemotherapy,Deceased,Yes,Public
+398aa24a-1705-4583-a324-c5f70a3ea742,61,Other,South America,Cancer,"Smoking, High Blood Pressure, Family History",2024-04-17,2024-05-12,0,Surgery,Deceased,Yes,Public
+0f3445a3-1e3d-47b7-92e4-4dfc9f852751,84,Female,Asia,Kidney Disease,Family History,2016-04-21,,6,Surgery,Recovered,Yes,Private
+d78b3676-9408-4aa4-a6c9-13eb9e0d63e2,23,Other,South America,Respiratory Disease,"Smoking, Obesity, High Blood Pressure",2016-01-19,,3,Medication,Recovered,No,Public
+d9810b25-b9f4-4282-bb45-cf54383d3e57,81,Female,North America,Respiratory Disease,"Alcohol Use, Family History, High Blood Pressure",2020-12-09,2024-03-06,3,Medication,Deceased,Yes,Public
+39741eb9-bad4-4b20-9a82-93f9d4343a24,82,Female,Europe,Stroke,Alcohol Use,2016-12-21,2024-01-06,7,Surgery,Deceased,No,Public
+63c07879-041e-4037-b145-de35eb551fdf,77,Other,Europe,Cancer,"Alcohol Use, Pollution",2019-11-17,,6,Radiation Therapy,Recovered,No,Public
+e6418576-b979-46d8-80c3-60eb805fe69d,43,Other,Europe,Respiratory Disease,"Pollution, High Blood Pressure",2021-01-27,,3,Medication,Recovered,No,Private
+7b942fbd-dff9-4a28-9922-e236855391f2,33,Female,South America,Kidney Disease,"Obesity, Smoking, Alcohol Use",2024-06-14,2024-06-19,0,Chemotherapy,Deceased,Yes,Public
+b30ef8f7-dc7c-40f8-941f-dc32da4496cc,32,Male,Europe,Cancer,"High Blood Pressure, Pollution, Family History",2016-11-18,,4,Medication,Recovered,Yes,Public
+bc85741c-3bc0-4e87-a45f-237c150bf6ff,20,Female,Asia,Heart Disease,"Alcohol Use, Pollution",2020-06-14,,4,Dialysis,Recovered,Yes,Private
+ee4875f1-45a5-4011-ba68-bdb383ffb797,59,Male,North America,Heart Disease,"Family History, Pollution",2017-11-12,,6,Surgery,Recovered,Yes,Public
+e6a3a2f0-d659-4bef-8db4-160c9253a095,85,Male,Africa,Diabetes,"High Blood Pressure, Smoking, Alcohol Use",2020-11-02,2022-08-19,1,Chemotherapy,Deceased,Yes,Private
+da13da63-9211-449e-9255-a3279a2df74c,49,Male,North America,Heart Disease,"Pollution, Family History",2016-12-11,,2,Dialysis,Recovered,No,Public
+a04ffe1a-eeea-4dd7-8209-cec400f3e6a8,24,Female,Asia,Diabetes,High Blood Pressure,2019-08-05,2022-09-02,3,Surgery,Deceased,No,Private
+20552be9-65be-4ad5-9bae-97a135e14e7f,84,Other,Australia,Heart Disease,"Smoking, Obesity, Alcohol Use",2021-04-24,2021-05-15,0,Radiation Therapy,Deceased,Yes,Private
+794b61d4-69c6-4afc-b5ce-b9f83a6d8583,24,Male,Asia,Cancer,Pollution,2021-08-12,,10,Dialysis,Recovered,Yes,Public
+6a565d02-0fac-43d4-a85c-43a310a713e2,52,Other,Africa,Kidney Disease,"Obesity, Family History",2014-10-24,2020-03-18,5,Radiation Therapy,Deceased,Yes,Private
+cdfe706a-f273-45a6-a322-baceb15b9336,70,Other,Asia,Respiratory Disease,"Smoking, Pollution, Obesity",2019-09-27,2020-08-18,0,Surgery,Deceased,No,Private
+3c0de86b-8fdb-44e3-b415-53236481aca2,89,Male,Europe,Diabetes,Smoking,2023-12-05,2024-02-21,0,Surgery,Deceased,Yes,Private
+b19bf28f-f622-47e1-92d0-b167ae1733cf,30,Male,North America,Cancer,"Obesity, Alcohol Use, Family History",2015-08-16,2019-03-12,3,Chemotherapy,Deceased,No,Public
+fc8e90b1-98ec-4e0a-8eb3-b53ed86cf181,31,Female,Europe,Heart Disease,Pollution,2016-08-19,,8,Radiation Therapy,Recovered,Yes,Private
+755f2236-e726-4517-8bd7-b1030f1ace72,49,Other,South America,Respiratory Disease,"Alcohol Use, Obesity",2015-05-05,,7,Surgery,Recovered,No,Public
+d5ea5be0-c8ed-4378-b57f-ee48ac6bcf5f,45,Male,Africa,Diabetes,High Blood Pressure,2021-06-06,,5,Chemotherapy,Recovered,No,Private
+d049b5be-e8c0-41d9-89c8-79cc935bb973,73,Female,North America,Diabetes,"Smoking, Alcohol Use, High Blood Pressure",2018-03-23,2022-10-07,4,Surgery,Deceased,Yes,Public
+44bf27f4-32f9-4f34-b008-1b406aaccda6,56,Male,South America,Cancer,"Obesity, Family History",2024-10-13,2024-10-15,0,Surgery,Deceased,No,Private
+be4a6151-0d90-4f50-8567-24964c632d69,52,Female,Europe,Stroke,"Pollution, Alcohol Use",2019-11-04,2021-06-26,1,Radiation Therapy,Deceased,Yes,Private
+4301e1d2-7fe0-4cc4-8bff-8120a46a9dcb,52,Male,North America,Respiratory Disease,"Smoking, Family History",2020-01-24,2023-01-22,2,Medication,Deceased,No,Public
+6e80e8f3-f68d-4e03-a4c1-2e0b966f6c5b,21,Female,North America,Cancer,Family History,2020-06-09,2022-06-30,2,Chemotherapy,Deceased,Yes,Public
+b42d4dd5-67b6-4d3a-a71a-685f23bbe949,36,Other,South America,Diabetes,"Smoking, Alcohol Use",2018-12-06,,2,Dialysis,Recovered,No,Private
+bda663f7-590e-438e-90db-c55a42a05f43,24,Male,Europe,Stroke,"Obesity, High Blood Pressure",2016-07-10,2016-12-06,0,Surgery,Deceased,Yes,Private
+d99d7548-07b5-4f8b-a17e-0321faea6122,83,Female,Australia,Diabetes,"Smoking, Pollution, Alcohol Use",2020-03-07,2020-09-05,0,Dialysis,Deceased,Yes,Public
+bf5359fc-133e-44e9-b444-bde0f4caa9b7,77,Female,South America,Kidney Disease,"Smoking, Obesity",2020-03-28,,7,Surgery,Recovered,No,Public
+cd74ac52-fdb3-4482-bb28-caf530339bdd,22,Female,Africa,Kidney Disease,"Smoking, Alcohol Use",2021-01-15,,1,Dialysis,Recovered,Yes,Public
+2184ff62-da85-4468-b437-325b90261068,86,Other,Australia,Diabetes,Smoking,2019-09-16,,9,Radiation Therapy,Recovered,Yes,Private
+09ce99d2-69c4-49b1-8bc1-67f1cec97e3c,22,Other,Asia,Kidney Disease,"Alcohol Use, Pollution",2022-07-15,2024-02-09,1,Surgery,Deceased,No,Public
+20bec51e-22bf-4be8-8a09-ef94550de5ad,68,Female,Australia,Respiratory Disease,"Obesity, Smoking",2016-06-28,,7,Medication,Recovered,No,Public
+23f7e2a7-3b59-4106-9cb2-85f555ea1733,31,Female,Australia,Respiratory Disease,"Pollution, Obesity, Smoking",2015-05-05,2022-06-06,7,Radiation Therapy,Deceased,Yes,Private
+83d6e127-0600-4fae-a169-a29f1553a338,51,Male,Australia,Kidney Disease,High Blood Pressure,2022-03-07,2024-03-05,1,Radiation Therapy,Deceased,No,Public
+c4934826-ba92-44dd-bb8d-57f9536d69da,70,Other,Australia,Diabetes,Alcohol Use,2022-01-08,2023-01-04,0,Medication,Deceased,Yes,Public
+c2da6b5e-5143-44c6-b123-3cbc0cea577d,33,Other,South America,Kidney Disease,"Smoking, Obesity, High Blood Pressure",2016-03-13,,2,Surgery,Recovered,Yes,Public
+223b64c8-ea0d-49d0-9d1f-e904b7bd5bbd,82,Female,South America,Kidney Disease,"Obesity, Smoking, Family History",2020-11-26,2024-04-23,3,Dialysis,Deceased,Yes,Public
+64376e3d-dea2-418b-b3b4-edae766973fe,74,Other,South America,Respiratory Disease,Family History,2018-02-09,,3,Dialysis,Recovered,Yes,Private
+838e13e8-cdf8-4f97-ad91-32b645ea4fe6,67,Female,Europe,Heart Disease,"High Blood Pressure, Obesity, Family History",2018-05-21,2021-06-24,3,Surgery,Deceased,No,Private
+5816ec3e-f57e-449c-913b-625705611b32,21,Other,Asia,Heart Disease,"Family History, High Blood Pressure, Smoking",2020-09-04,2021-05-06,0,Chemotherapy,Deceased,Yes,Public
+71ee38ea-1277-4dde-a094-feb3753072a0,28,Female,Australia,Diabetes,"Alcohol Use, Obesity, Family History",2024-02-13,2024-05-28,0,Radiation Therapy,Deceased,Yes,Private
+964c247f-4d44-482c-aa87-884dedaf5b2f,24,Other,Asia,Kidney Disease,"Pollution, Family History",2019-12-14,,10,Dialysis,Recovered,No,Private
+7a4c8300-ace0-459f-98cd-8a81426d7579,52,Other,Australia,Cancer,"Alcohol Use, Pollution, Obesity",2016-03-24,,4,Chemotherapy,Recovered,Yes,Public
+1c5b1843-b4df-4052-a476-6015d1fcfcef,79,Other,Africa,Diabetes,Pollution,2021-09-27,,7,Radiation Therapy,Recovered,No,Private
+fb852abd-5539-4cc1-90f6-ee19cf5ecd89,67,Female,Africa,Diabetes,Family History,2024-01-06,2024-08-29,0,Dialysis,Deceased,Yes,Private
+ee7b960c-325c-47e6-92b8-2fb97a4e2fab,45,Female,Europe,Respiratory Disease,"Family History, Smoking, Alcohol Use",2018-05-07,,7,Radiation Therapy,Recovered,No,Public
+7a8e5568-b02f-456e-be4b-87c5fc7507e4,39,Other,South America,Diabetes,Obesity,2017-12-15,2018-02-23,0,Dialysis,Deceased,Yes,Public
+16ea61fa-0f28-4e6b-9031-ca0409a4abca,64,Other,Asia,Respiratory Disease,"Smoking, Alcohol Use",2023-09-10,,7,Radiation Therapy,Recovered,Yes,Public
+76395b5d-cdf4-41ed-9239-7fc3ca83f3c1,27,Male,South America,Cancer,Obesity,2014-12-24,,6,Surgery,Recovered,Yes,Public
+2c4eaf46-6aa7-4539-a435-913048f40bdb,53,Other,Europe,Cancer,"Alcohol Use, Family History",2021-11-21,2022-05-12,0,Radiation Therapy,Deceased,Yes,Public
+a894cb63-d168-4847-98a9-5017a06e582c,88,Female,Australia,Cancer,High Blood Pressure,2023-11-18,2024-10-10,0,Surgery,Deceased,Yes,Private
+3fc80fb3-cde2-459b-abce-4a449fa434f0,58,Male,North America,Cancer,"Alcohol Use, Family History",2023-01-18,,8,Surgery,Recovered,Yes,Private
+d5ffa692-be56-4ef1-a517-b85235a472ea,53,Other,South America,Respiratory Disease,"Pollution, Obesity, Alcohol Use",2017-11-11,,2,Chemotherapy,Recovered,No,Public
+6c311a6a-6e59-4897-85d1-e05d812b3cd1,28,Female,South America,Stroke,Pollution,2014-10-22,,2,Radiation Therapy,Recovered,Yes,Public
+723b86bf-e729-4986-8244-51597633b9d9,61,Other,North America,Cancer,"Pollution, Smoking, Obesity",2021-07-09,2022-01-12,0,Medication,Deceased,No,Public
+78060db1-4ab8-4c7f-b06e-4e30a3ce1a55,86,Female,Europe,Stroke,Obesity,2018-11-29,,1,Radiation Therapy,Recovered,No,Public
+fb827c1c-3001-4fe6-a306-c2e655d35ed1,34,Female,North America,Respiratory Disease,High Blood Pressure,2017-07-22,,9,Surgery,Recovered,No,Private
+d8f24b31-2e4c-4e36-8ead-7d2d9fdb8972,33,Male,Europe,Respiratory Disease,"Smoking, Alcohol Use",2016-11-11,2024-04-20,7,Radiation Therapy,Deceased,Yes,Public
+75e4cdd6-562c-4f63-a3bf-9ddf7830ea19,83,Male,Europe,Kidney Disease,Obesity,2019-09-08,,9,Dialysis,Recovered,Yes,Private
+a3435d9c-4c3d-46db-8544-9303b5930b39,44,Male,North America,Kidney Disease,Pollution,2023-07-04,2023-12-07,0,Medication,Deceased,No,Private
+96abf474-59bf-46c3-b2fa-7f537b2163c2,76,Female,Asia,Cancer,"Pollution, Family History, High Blood Pressure",2023-10-31,,6,Surgery,Recovered,Yes,Private
+901e5910-ee8f-4a4d-8c69-c940602d05da,71,Female,Australia,Respiratory Disease,"Smoking, High Blood Pressure",2020-05-23,,10,Radiation Therapy,Recovered,No,Public
+ce05e72e-1cea-4e9a-bc28-0ccb231cd664,34,Male,Asia,Cancer,Smoking,2024-05-22,2024-08-21,0,Medication,Deceased,No,Private
+ef895a90-f0c1-404c-8add-1f9c8703f34f,22,Female,North America,Cancer,High Blood Pressure,2022-04-28,,1,Dialysis,Recovered,No,Public
+cd6c93bb-c854-4f8c-836b-090c66c07962,40,Male,South America,Stroke,"Family History, High Blood Pressure, Smoking",2016-03-09,2022-11-06,6,Dialysis,Deceased,No,Public
+ed92b716-530b-423a-8dd3-a1953ff3bee0,47,Male,South America,Cancer,High Blood Pressure,2023-02-04,2023-05-31,0,Chemotherapy,Deceased,No,Public
+317f05d2-572d-4fa0-9e25-8c25ac28c571,32,Other,Australia,Kidney Disease,"Alcohol Use, Family History, Obesity",2021-08-05,2022-01-31,0,Dialysis,Deceased,Yes,Public
+bf5ccee2-8ba2-4caa-a80d-6de16a7eab0b,52,Male,North America,Respiratory Disease,"Alcohol Use, High Blood Pressure, Obesity",2017-08-30,,6,Medication,Recovered,No,Public
+8496093f-bf7f-422d-aec6-022fb78dec10,34,Other,Asia,Diabetes,"Pollution, Alcohol Use",2015-06-28,,3,Surgery,Recovered,No,Public
+217cb54f-55f5-4e33-884c-ce1b08979ba0,87,Other,North America,Cancer,"Pollution, Obesity",2017-06-15,,9,Radiation Therapy,Recovered,No,Private
+ce3c898d-f35f-4290-833b-0cee84bfca1f,59,Female,South America,Stroke,"High Blood Pressure, Smoking",2017-07-03,,4,Dialysis,Recovered,Yes,Private
+4f5eefc4-ea18-4b8d-9e34-7a250bd72d48,27,Male,Australia,Heart Disease,"Family History, Obesity",2020-05-15,,6,Medication,Recovered,No,Private
+ddca0602-5dcf-43a3-a6d5-1803bc7c15ee,21,Other,Africa,Respiratory Disease,"Smoking, Obesity, High Blood Pressure",2024-03-10,2024-08-30,0,Dialysis,Deceased,No,Private
+dce01092-6ef5-49bd-9b09-d68fc3b1d99d,38,Other,Asia,Diabetes,Pollution,2020-02-11,2023-02-27,3,Surgery,Deceased,No,Private
+555469b2-277f-4266-ba90-db173e2a9457,29,Other,Australia,Diabetes,High Blood Pressure,2021-10-07,,4,Chemotherapy,Recovered,Yes,Public
+d6ef8785-a94d-4b7e-b7eb-a6b6f7c6245c,39,Other,Australia,Diabetes,Smoking,2017-01-19,2017-07-21,0,Medication,Deceased,Yes,Private
+894b1b9a-d199-4da5-bc2a-d6d46042ea86,78,Female,Australia,Respiratory Disease,"Family History, Pollution",2016-07-13,2024-06-09,7,Radiation Therapy,Deceased,No,Public
+018c3679-ab5e-4a4f-8788-73fa5ee77fd9,83,Male,Africa,Respiratory Disease,Obesity,2024-07-16,2024-10-09,0,Dialysis,Deceased,Yes,Private
